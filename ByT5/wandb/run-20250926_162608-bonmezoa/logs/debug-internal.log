@@ -1,0 +1,7 @@
+{"time":"2025-09-26T16:26:08.626914249+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/home/livles/tum/ws25/bachelorarbeit/morphological-inflection/ByT5/wandb/run-20250926_162608-bonmezoa/logs/debug-core.log"}
+{"time":"2025-09-26T16:26:08.744630486+02:00","level":"INFO","msg":"created new stream","id":"bonmezoa"}
+{"time":"2025-09-26T16:26:08.744682839+02:00","level":"INFO","msg":"stream: started","id":"bonmezoa"}
+{"time":"2025-09-26T16:26:08.745398564+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"bonmezoa"}
+{"time":"2025-09-26T16:26:08.745413046+02:00","level":"INFO","msg":"handler: started","stream_id":"bonmezoa"}
+{"time":"2025-09-26T16:26:08.746017447+02:00","level":"INFO","msg":"sender: started","stream_id":"bonmezoa"}
+{"time":"2025-09-26T16:26:09.130609675+02:00","level":"INFO","msg":"Starting system monitor"}

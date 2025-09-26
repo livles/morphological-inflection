@@ -1,0 +1,30 @@
+{
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-09-26T14:22:34.243743Z",
+  "program": "/home/livles/tum/ws25/bachelorarbeit/morphological-inflection/ByT5/fine-tuned_ByT5.py",
+  "codePath": "ByT5/fine-tuned_ByT5.py",
+  "git": {
+    "remote": "https://github.com/livles/morphological-inflection.git"
+  },
+  "email": "lucy.yang@outlook.de",
+  "root": "/home/livles/tum/ws25/bachelorarbeit/morphological-inflection/ByT5",
+  "host": "HuaweiMateBook",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "fine-tuned_ByT5.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "129438650368"
+    }
+  },
+  "memory": {
+    "total": "8221052928"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
