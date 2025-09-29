@@ -1,4 +1,4 @@
-lang = "sme"
+lang = "grc"
 PATH_NEURAL_BASELINE = f"../../neural-transducer/checkpoints/sig23/tagtransformer/{lang}.decode.test.tsv"
 PATH_NONNEURAL_BASELINE = f"../../2023InflectionST/part1/data/{lang}.out"
 path = PATH_NEURAL_BASELINE
@@ -8,12 +8,12 @@ with open(path,"r") as f, open(ref_file_path,"r") as ref_file, open (output_file
     LINES_NEURAL = f.readlines()[1:]
     LINES_REF = ref_file.readlines()
     LINES_NONNEURAL_BASELINE = FILE_NONNEURAL_BASELINE.readlines()
+    lastlemma = ""
+    lemma = ""
     for pred_line_neural,ref_line,pred_line_nonneural in zip(LINES_NEURAL,LINES_REF,LINES_NONNEURAL_BASELINE):
         pred_line_neural,ref_line,pred_line_nonneural = pred_line_neural.strip(),ref_line.strip(),pred_line_nonneural.strip()
         error_detect = False
         text = ""
-        lemma = ""
-        lastlemma = ""
 
         # neural model mistakes
         lemma,rule = ref_line.split("\t")[:2]
@@ -29,14 +29,16 @@ with open(path,"r") as f, open(ref_file_path,"r") as ref_file, open (output_file
             error_detect = True
             text+=("Non-neural:\t"+pred_line_nonneural+"\n")
         
-        # filter out errors that occur only for one model
+        # filter for errors that occur only in one model
         if error_detect:
-            if (text.count("\n")<2):
-                # if (lastlemma != lemma):
-                #     text ="\n" + lemma 
+            if (text.count("\n")==2):
+                print("lemma:"+lemma,"lastlemma:"+lastlemma)
+                if (lastlemma != lemma):
+                    text="\n"+text
+                    print(lastlemma)
                 text+="Ref:\t\t"+f"{ref_line}\n"
                 output_file.write(text)
                 output_file.flush()
-            lastlemma = lemma
-
+                lastlemma = lemma
+                print("lemma:"+lemma,"lastlemma:"+lastlemma)
 print(output_file_path)
