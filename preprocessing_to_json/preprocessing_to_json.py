@@ -1,23 +1,29 @@
-TRAIN_FILEPATH = ""
-TEST_FILEPATH = ""
-OUTPUT_TRAIN_FILEPATH = ""
-OUTPUT_TEST_FILEPATH = ""  
-LANGS = []
+TRAIN_FILEPATH = "../2023InflectionST/part1/data/"
+TEST_FILEPATH = "../2023InflectionST/part1/data/"
+EVAL_FILEPATH = "../2023InflectionST/part1/data/"
+OUTPUT_TRAIN_FILEPATH = "data/"
+OUTPUT_TEST_FILEPATH = "data/"  
+OUTPUT_EVAL_FILEPATH = "data/"  
+LANGS = ["grc"]
 
 
 def preprocess(x):
+    x = x.strip()
     lemma, features, target = x.split("\t")
-    prompt = "inflect " + lemma + " using " + features
-    target_string = lemma+"\t"+features+"\t"+target
+    prompt = "Inflect " + lemma + " using " + features
+    target_string = target
     line = '{"text":"'+prompt+'","summary":"'+target_string+'"}'
+    return line
 
 
 for lang in LANGS:
-    with open(TRAIN_FILEPATH,"r") as train_file, open(TEST_FILEPATH,"r") as test_file, open (OUTPUT_TRAIN_FILEPATH + "_"+lang+ ".json","w") out_train_file, open (OUTPUT_TEST_FILEPATH + "_" + lang + ".json", "w") as out_test_file:
+    with open(TRAIN_FILEPATH + lang + ".trn","r") as train_file, open(EVAL_FILEPATH + lang + ".dev","r") as eval_file, open(TEST_FILEPATH + lang + ".tst","r") as test_file, open (OUTPUT_TRAIN_FILEPATH + lang+ "_train.json","w") as out_train_file,  open (OUTPUT_EVAL_FILEPATH + lang+ "_eval.json","w") as out_eval_file, open (OUTPUT_TEST_FILEPATH + lang + "_test.json", "w") as out_test_file:
         train_lines = train_file.readlines()
+        eval_lines = eval_file.readlines()
         test_lines = test_file.readlines()
-        train_lines_list = map(f,train_lines)
-        test_json_lines_list = map(f,test_lines)
-        train_json_lines = "\n".join(train_lines_list)
-        test_json_lines = "\n".join(test_json_lines_list)
-
+        train_json_lines = "\n".join(map(preprocess,train_lines))
+        test_json_lines = "\n".join(map(preprocess,test_lines))
+        eval_json_lines = "\n".join(map(preprocess,eval_lines))
+        out_train_file.write(train_json_lines)
+        out_test_file.write(test_json_lines)
+        out_eval_file.write(eval_json_lines)
