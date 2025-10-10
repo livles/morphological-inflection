@@ -4,7 +4,7 @@ EVAL_FILEPATH = "../2023InflectionST/part1/data/"
 OUTPUT_TRAIN_FILEPATH = "data/"
 OUTPUT_TEST_FILEPATH = "data/"  
 OUTPUT_EVAL_FILEPATH = "data/"  
-LANGS = ["grc","dan","fra","sme","deu","nav","jap","klr","eng"]
+LANGS = ["grc","dan","fra","sme","deu","nav","jap","klr","eng","mul","deu_eng"]
 
 
 def preprocess(x):
