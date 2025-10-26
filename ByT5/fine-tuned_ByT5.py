@@ -1,17 +1,19 @@
-from dotenv import load_dotenv
-import os
+# from dotenv import load_dotenv
+# import os
 
-load_dotenv()
+# load_dotenv()
 
-HF_TOKEN = os.getenv("HF_TOKEN")
+# HF_TOKEN = os.getenv("HF_TOKEN")
 
-# print("HF_TOKEN: ", HF_TOKEN)
+# # print("HF_TOKEN: ", HF_TOKEN)
 
-# source: https://huggingface.co/docs/transformers/v4.28.1/tasks/summarization
-from huggingface_hub import login
+# # source: https://huggingface.co/docs/transformers/v4.28.1/tasks/summarization
+# from huggingface_hub import login
 
-login(HF_TOKEN)
+# login(HF_TOKEN)
 LANGS = ["grc","dan","fra","sme","deu","nav","jap","klr","eng","mul","deu_eng"]
+LANGS = LANGS[-3:]
+
 PATH_JSON_DATA = "../preprocessing_to_json/data/"
 
 for lang in LANGS:
@@ -38,9 +40,6 @@ for lang in LANGS:
         Seq2SeqTrainer
     )
     from datasets import load_dataset
-
-    # prefix = "summarize: "
-
 
     def preprocess_function(examples):
         # inputs = [prefix + doc for doc in examples["text"]]
@@ -104,7 +103,7 @@ for lang in LANGS:
     model.to(device)
 
     training_args = Seq2SeqTrainingArguments(
-        output_dir="byt5-small/"+lang,
+        output_dir="byt5_small/"+lang,
         eval_strategy="epoch",
         learning_rate=5e-5,
         per_device_train_batch_size=16,
@@ -115,7 +114,7 @@ for lang in LANGS:
         predict_with_generate=True,
         # save_strategy="epoch",
         fp16=False,# did not work with True #change to bf16=True for XPU 
-        # bf16 = True, # because Nvidia Ampere A100 supports bf16
+        #bf16 = True, # performance was best without setting fp16 or bf16 to true
         push_to_hub=True,
         warmup_steps = 500,
         # load_best_model_at_end=True, # otherwise not model with minimum loss during training, like https://huggingface.co/docs/transformers/tasks/sequence_classification
