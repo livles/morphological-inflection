@@ -1,0 +1,476 @@
+zszywacz	N;ESS(PL)	zszywaczach
+zszywacz	N;INS(PL)	zszywaczami
+zszywacz	N;INS(SG)	zszywaczem
+zszywacz	N;ACC(PL)	zszywacze
+zszywacz	N;NOM(PL)	zszywacze
+zszywacz	N;VOC(PL)	zszywacze
+zszywacz	N;DAT(PL)	zszywaczom
+zszywacz	N;VOC(SG)	zszywaczu
+zszywacz	N;GEN(PL)	zszywaczy
+seler	N;ESS(PL)	selerach
+seler	N;ACC(SG)	selera
+seler	N;NOM(SG)	seler
+seler	N;DAT(PL)	selerom
+seler	N;DAT(SG)	selerowi
+seler	N;NOM(PL)	selery
+seler	N;VOC(PL)	selery
+seler	N;VOC(SG)	selerze
+obejmować	V;FUT;NOM(3,PL,MASC,HUM)	będą obejmowali
+obejmować	V;FUT;NOM(1,SG,FEM)	będziemy obejmowała
+obejmować	V;FUT;NOM(1,SG,MASC)	będziemy obejmował
+obejmować	V;FUT;NOM(2,PL)	będziecie obejmowały
+obejmować	V;FUT;NOM(3,SG,NEUT)	będzie obejmowało
+obejmować	V;FUT;NOM(2,SG,FEM)	będziesz obejmowała
+obejmować	V;FUT;NOM(2,SG,MASC)	będziesz obejmował
+obejmować	V;IMP;NOM(3,PL)	niech obejmują
+obejmować	V;COND;NOM(2,SG,FEM)	obejmowałabyś
+obejmować	V;PST;NOM(1,SG,FEM)	obejmowałam
+obejmować	V;COND;NOM(2,SG,MASC)	obejmowałbyś
+obejmować	V;COND;NOM(3,SG,MASC)	obejmowałby
+obejmować	V;PST;NOM(1,SG,MASC)	obejmowałem
+obejmować	V;PST;NOM(2,SG,MASC)	obejmowałeś
+obejmować	V;COND;NOM(1,PL,MASC,HUM)	obejmowalibyśmy
+obejmować	V;PST;NOM(3,PL,MASC,HUM)	obejmowali
+obejmować	V;COND;NOM(2,PL)	obejmowałybyście
+obejmować	V;COND;NOM(1,PL)	obejmowałybyśmy
+obejmować	V;PST;NOM(1,PL)	obejmowałyśmy
+obejmować	V.MSDR;NOM()	obejmowanie
+obejmować	V.PTCP;PST;ACT;NOM(PL,MASC,HUM)	obejmowali
+obejmować	V.PTCP;PST;ACT;NOM(SG,MASC)	obejmowano
+obejmować	V;PRS;NOM(3,PL)	obejmują
+obejmować	V;IMP;NOM(2,PL)	obejmujcie
+obejmować	V;PRS;NOM(2,PL)	obejmujcie
+obejmować	V;PRS;NOM(2,SG)	obejmujesz
+obejmować	V;PRS;NOM(1,SG)	obejmuje
+obejmować	V;PRS;NOM(3,SG)	obejmuje
+obejmować	V;IMP;NOM(1,PL)	niech obejmujmy
+frywolny	ADJ;ACC(SG,FEM)	frywolną
+frywolny	ADJ;INS(SG,FEM)	frywolną
+frywolny	ADJ;NOM(SG,NEUT)	frywolne
+frywolny	ADJ;ACC(SG,MASC,ANIM)	frywolnego
+frywolny	ADJ;ACC(SG,MASC,HUM)	frywolnego
+frywolny	ADJ;ESS(SG,FEM)	frywolnej
+frywolny	ADJ;DAT(SG,MASC)	frywolnemu
+frywolny	ADJ;NOM(PL,MASC,HUM)	frywolni
+frywolny	ADJ;ACC(SG,MASC,INAN)	frywolny
+frywolny	ADJ;NOM(SG,MASC)	frywolny
+frywolny	ADJ;DAT(PL)	frywolnym
+frywolny	ADJ;ESS(SG,MASC)	frywolnym
+frywolny	ADJ;INS(SG,MASC)	frywolnym
+frywolny	ADJ;ESS(SG,NEUT)	frywolnym
+lipa	N;ESS(PL)	lipach
+lipa	N;INS(SG)	lipą
+lipa	N;NOM(SG)	lipa
+lipa	N;ACC(SG)	lipę
+lipa	N;DAT(SG)	lipie
+lipa	N;DAT(PL)	lipom
+lipa	N;VOC(SG)	lipo
+lipa	N;GEN(SG)	lipy
+mak	N;ESS(PL)	makach
+mak	N;INS(PL)	makami
+mak	N;INS(SG)	makiem
+mak	N;ACC(PL)	maki
+mak	N;NOM(PL)	maki
+mak	N;DAT(PL)	makom
+mak	N;GEN(PL)	maków
+mak	N;ESS(SG)	maku
+mak	N;GEN(SG)	maka
+telenowela	N;INS(PL)	telenowelami
+telenowela	N;NOM(SG)	telenowela
+telenowela	N;ACC(PL)	telenowele
+telenowela	N;VOC(PL)	telenowele
+telenowela	N;ESS(SG)	telenoweli
+telenowela	N;GEN(SG)	telenoweli
+telenowela	N;GEN(PL)	telenowel
+telenowela	N;VOC(SG)	telenowelo
+środowisko	N;GEN(PL)	środowisków
+środowisko	N;INS(PL)	środowiskami
+środowisko	N;GEN(SG)	środowiska
+środowisko	N;NOM(PL)	środowiska
+środowisko	N;INS(SG)	środowiskiem
+środowisko	N;ACC(SG)	środowisko
+środowisko	N;NOM(SG)	środowisko
+środowisko	N;ESS(SG)	środowisku
+telefonowanie	N;GEN(SG)	telefonowania
+telefonowanie	N;VOC(SG)	telefonowanie
+telefonowanie	N;ESS(SG)	telefonowaniu
+cholerny	ADJ;ACC(SG,FEM)	cholerną
+cholerny	ADJ;ACC(PL)	cholerne
+cholerny	ADJ;ACC(SG,NEUT)	cholerne
+cholerny	ADJ;GEN(SG,MASC)	cholernego
+cholerny	ADJ;GEN(SG,FEM)	cholernej
+cholerny	ADJ;NOM(PL,MASC,HUM)	cholerni
+cholerny	ADJ;ACC(SG,MASC,INAN)	cholerny
+cholerny	ADJ;ESS(PL)	cholernych
+cholerny	ADJ;ACC(PL,MASC,HUM)	cholernych
+cholerny	ADJ;INS(SG,MASC)	cholernym
+cholerny	ADJ;ESS(SG,NEUT)	cholernym
+cholerny	ADJ;INS(SG,NEUT)	cholernym
+cholerny	ADJ;INS(PL)	cholernymi
+utlenić	V;IMP;NOM(1,SG)	niech utlenij
+utlenić	V;IMP;NOM(3,SG)	niech utlenij
+utlenić	V;IMP;NOM(2,PL)	niech utlenijcie
+utlenić	V;FUT;NOM(2,PL)	będziecie utleniły
+utlenić	V;NFIN;NOM()	utlenić
+utlenić	V;FUT;NOM(1,SG)	będziemy utleniły
+utlenić	V;COND;NOM(1,SG,FEM)	utleniłabym
+utlenić	V;COND;NOM(3,SG,FEM)	utleniłaby
+utlenić	V;PST;NOM(1,SG,FEM)	utleniłam
+utlenić	V;PST;NOM(3,SG,FEM)	utleniła
+utlenić	V;COND;NOM(3,SG,MASC)	utleniłby
+utlenić	V;PST;NOM(1,SG,MASC)	utleniłem
+utlenić	V;COND;NOM(2,PL,MASC,HUM)	utlenilibyście
+utlenić	V;COND;NOM(1,PL,MASC,HUM)	utlenilibyśmy
+utlenić	V;COND;NOM(3,PL,MASC,HUM)	utleniliby
+utlenić	V;PST;NOM(2,PL,MASC,HUM)	utleniliście
+utlenić	V;PST;NOM(3,SG,MASC)	utlenił
+utlenić	V;COND;NOM(2,PL)	utleniłybyście
+utlenić	V;COND;NOM(1,PL)	utleniłybyśmy
+utlenić	V;COND;NOM(3,PL)	utleniłyby
+utlenić	V;PST;NOM(2,PL)	utleniłyście
+utlenić	V.PTCP;PST;PASS;NOM(SG,NEUT)	utlenione
+utlenić	V.PTCP;PST;PASS;NOM()	utlenione
+utlenić	V.PTCP;PST;PASS;NOM(SG,MASC)	utlenione
+utlenić	V;FUT;NOM(3,SG)	będzie utleniła
+utlenić	V.CVB;PST;NOM()	utleniłem
+utlenić	V;IMP;NOM(1,PL)	niech utlenijmy
+łycha	N;ESS(PL)	łychach
+łycha	N;NOM(SG)	łycha
+łycha	N;ACC(SG)	łychę
+łycha	N;GEN(PL)	łych
+łycha	N;VOC(SG)	łycho
+łycha	N;ACC(PL)	łychy
+łycha	N;ESS(SG)	łychie
+budżetówka	N;DAT(SG)	budżetówce
+budżetówka	N;ESS(SG)	budżetówce
+budżetówka	N;GEN(PL)	budżetówek
+budżetówka	N;VOC(PL)	budżetówki
+budżetówka	N;VOC(SG)	budżetówko
+zalogować	V;IMP;NOM(3,PL)	niech zalogują
+zalogować	V;NFIN;NOM()	zalogować
+zalogować	V;COND;NOM(2,SG,FEM)	zalogowałabyś
+zalogować	V;COND;NOM(3,SG,FEM)	zalogowałaby
+zalogować	V;PST;NOM(1,SG,FEM)	zalogowałam
+zalogować	V;PST;NOM(2,SG,FEM)	zalogowałaś
+zalogować	V;COND;NOM(1,SG,MASC)	zalogowałbym
+zalogować	V;COND;NOM(3,SG,MASC)	zalogowałby
+zalogować	V;PST;NOM(2,SG,MASC)	zalogowałeś
+zalogować	V;PST;NOM(2,PL,MASC,HUM)	zalogowaliście
+zalogować	V;PST;NOM(1,PL,MASC,HUM)	zalogowaliśmy
+zalogować	V;PST;NOM(3,PL,MASC,HUM)	zalogowali
+zalogować	V;PST;NOM(3,SG,NEUT)	zalogowało
+zalogować	V;PST;NOM(3,SG,MASC)	zalogował
+zalogować	V;COND;NOM(2,PL)	zalogowałybyście
+zalogować	V;COND;NOM(3,PL)	zalogowałyby
+zalogować	V.PTCP;PST;PASS;NOM()	zalogowano
+zalogować	V.CVB;PST;NOM()	zalogowano
+zalogować	V;FUT;NOM(3,PL)	będą zalogowały
+zalogować	V;FUT;NOM(2,PL)	będziecie zalogowały
+zalogować	V;FUT;NOM(1,PL)	będziemy zalogowały
+zalogować	V;FUT;NOM(3,SG)	będzie zalogowała
+zalogować	V;IMP;NOM(2,SG)	zaloguj
+przyjemniejszy	ADJ;NOM(PL,MASC,HUM)	przyjemniejsi
+przyjemniejszy	ADJ;ACC(SG,FEM)	przyjemniejszą
+przyjemniejszy	ADJ;NOM(SG,FEM)	przyjemniejsza
+przyjemniejszy	ADJ;ACC(PL)	przyjemniejsze
+przyjemniejszy	ADJ;ACC(SG,NEUT)	przyjemniejsze
+przyjemniejszy	ADJ;NOM(PL)	przyjemniejsze
+przyjemniejszy	ADJ;ACC(SG,MASC,ANIM)	przyjemniejszego
+przyjemniejszy	ADJ;GEN(SG,MASC)	przyjemniejszego
+przyjemniejszy	ADJ;ACC(SG,MASC,HUM)	przyjemniejszego
+przyjemniejszy	ADJ;GEN(SG,FEM)	przyjemniejszej
+przyjemniejszy	ADJ;DAT(SG,MASC)	przyjemniejszemu
+przyjemniejszy	ADJ;ACC(SG,MASC,INAN)	przyjemniejszy
+przyjemniejszy	ADJ;NOM(SG,MASC)	przyjemniejszy
+przyjemniejszy	ADJ;ESS(PL)	przyjemniejszych
+przyjemniejszy	ADJ;GEN(PL)	przyjemniejszych
+przyjemniejszy	ADJ;ESS(SG,MASC)	przyjemniejszym
+przyjemniejszy	ADJ;ESS(SG,NEUT)	przyjemniejszym
+przyjemniejszy	ADJ;INS(SG,NEUT)	przyjemniejszym
+powietrzny	ADJ;ACC(PL)	powietrzne
+powietrzny	ADJ;ACC(SG,NEUT)	powietrzne
+powietrzny	ADJ;NOM(SG,NEUT)	powietrzne
+powietrzny	ADJ;NOM(PL)	powietrzne
+powietrzny	ADJ;ACC(SG,MASC,HUM)	powietrznego
+powietrzny	ADJ;GEN(SG,FEM)	powietrznej
+powietrzny	ADJ;DAT(SG,NEUT)	powietrznemu
+powietrzny	ADJ;NOM(PL,MASC,HUM)	powietrzni
+powietrzny	ADJ;ACC(SG,MASC,INAN)	powietrzny
+powietrzny	ADJ;NOM(SG,MASC)	powietrzny
+powietrzny	ADJ;ESS(PL)	powietrznych
+powietrzny	ADJ;GEN(PL)	powietrznych
+powietrzny	ADJ;ACC(PL,MASC,HUM)	powietrznych
+powietrzny	ADJ;DAT(PL)	powietrznym
+powietrzny	ADJ;ESS(SG,NEUT)	powietrznym
+powietrzny	ADJ;INS(SG,NEUT)	powietrznym
+powietrzny	ADJ;INS(PL)	powietrznymi
+jadać	V;FUT;NOM(3,PL)	będą jadały
+jadać	V;FUT;NOM(1,SG,FEM)	będziemy jadała
+jadać	V;FUT;NOM(1,SG,MASC)	będziemy jadał
+jadać	V;FUT;NOM(2,PL)	będziecie jadały
+jadać	V;FUT;NOM(3,SG,NEUT)	będzie jadało
+jadać	V;FUT;NOM(2,SG,FEM)	będziesz jadała
+jadać	V;NFIN;NOM()	jadać
+jadać	V.PTCP;PST;ACT;NOM(SG,FEM)	jadająca
+jadać	V.PTCP;PST;ACT;NOM(PL)	jadające
+jadać	V.PTCP;PST;ACT;NOM(SG,NEUT)	jadające
+jadać	V.CVB;NOM()	jadanie
+jadać	V;IMP;NOM(2,PL)	jadajcie
+jadać	V;PST;NOM(3,SG,FEM)	jadała
+jadać	V;COND;NOM(2,PL,MASC,HUM)	jadalibyście
+jadać	V;COND;NOM(1,PL,MASC,HUM)	jadalibyśmy
+jadać	V;PST;NOM(2,PL,MASC,HUM)	jadaliście
+jadać	V;PST;NOM(3,PL,MASC,HUM)	jadali
+jadać	V;PST;NOM(3,SG,NEUT)	jadało
+jadać	V;PST;NOM(3,SG,MASC)	jadał
+jadać	V;COND;NOM(2,PL)	jadałybyście
+jadać	V;PST;NOM(2,PL)	jadałyście
+jadać	V;PRS;NOM(1,SG)	jadam
+jadać	V;PRS;NOM(1,PL)	jadamy
+jadać	V.PTCP;PST;PASS;NOM(SG,NEUT)	jadane
+jadać	V.PTCP;PST;PASS;NOM(PL,MASC,HUM)	jadali
+jadać	V;PRS;NOM(3,SG)	jada
+przyjaciel	N;ACC(SG)	przyjaciel
+przyjaciel	N;GEN(SG)	przyjaciela
+przyjaciel	N;INS(SG)	przyjacielem
+przyjaciel	N;ESS(SG)	przyjacielu
+przyjaciel	N;GEN(PL)	przyjaciów
+przyjaciel	N;DAT(PL)	przyjacielom
+zasób	N;ESS(PL)	zasóbach
+zasób	N;INS(PL)	zasóbami
+zasób	N;ACC(SG)	zasób
+zasób	N;NOM(SG)	zasób
+zasób	N;DAT(PL)	zasóbom
+zasób	N;NOM(PL)	zasóby
+spot	N;VOC(SG)	spotowie
+spot	N;ESS(PL)	spotach
+spot	N;INS(PL)	spotami
+spot	N;ACC(SG)	spot
+spot	N;NOM(SG)	spot
+spot	N;DAT(SG)	spotowi
+spot	N;GEN(PL)	spotów
+leśny	ADJ;ACC(SG,FEM)	leśną
+leśny	ADJ;INS(SG,FEM)	leśną
+leśny	ADJ;ACC(SG,NEUT)	leśne
+leśny	ADJ;NOM(SG,NEUT)	leśne
+leśny	ADJ;NOM(PL)	leśne
+leśny	ADJ;ACC(SG,MASC,HUM)	leśnego
+leśny	ADJ;DAT(SG,FEM)	leśnej
+leśny	ADJ;GEN(SG,FEM)	leśnej
+leśny	ADJ;NOM(PL,MASC,HUM)	leśni
+leśny	ADJ;ACC(SG,MASC,INAN)	leśny
+leśny	ADJ;NOM(SG,MASC)	leśny
+leśny	ADJ;ESS(PL)	leśnych
+leśny	ADJ;GEN(PL)	leśnych
+leśny	ADJ;ACC(PL,MASC,HUM)	leśnych
+leśny	ADJ;ESS(SG,MASC)	leśnym
+leśny	ADJ;INS(SG,MASC)	leśnym
+leśny	ADJ;ESS(SG,NEUT)	leśnym
+leśny	ADJ;INS(SG,NEUT)	leśnym
+iniekcja	N;ESS(PL)	iniekcjach
+iniekcja	N;INS(PL)	iniekcjami
+iniekcja	N;INS(SG)	iniekcją
+iniekcja	N;ESS(SG)	iniekcji
+iniekcja	N;GEN(PL)	iniekcji
+azerbejdżański	ADJ;NOM(PL,MASC,HUM)	azerbejdżańscy
+azerbejdżański	ADJ;ACC(SG,FEM)	azerbejdżańską
+azerbejdżański	ADJ;INS(SG,FEM)	azerbejdżańską
+azerbejdżański	ADJ;NOM(SG,FEM)	azerbejdżańska
+azerbejdżański	ADJ;ACC(SG,MASC,INAN)	azerbejdżański
+azerbejdżański	ADJ;NOM(SG,MASC)	azerbejdżański
+azerbejdżański	ADJ;ESS(PL)	azerbejdżańskich
+azerbejdżański	ADJ;GEN(PL)	azerbejdżańskich
+azerbejdżański	ADJ;ACC(PL)	azerbejdżańskie
+azerbejdżański	ADJ;NOM(SG,NEUT)	azerbejdżańskie
+azerbejdżański	ADJ;ACC(SG,MASC,ANIM)	azerbejdżańskiego
+azerbejdżański	ADJ;DAT(SG,FEM)	azerbejdżańskiej
+azerbejdżański	ADJ;GEN(SG,FEM)	azerbejdżańskiej
+azerbejdżański	ADJ;DAT(SG,MASC)	azerbejdżańskiemu
+azerbejdżański	ADJ;DAT(SG,NEUT)	azerbejdżańskiemu
+azerbejdżański	ADJ;DAT(PL)	azerbejdżańskim
+azerbejdżański	ADJ;ESS(SG,MASC)	azerbejdżańskim
+azerbejdżański	ADJ;ESS(SG,NEUT)	azerbejdżańskim
+azerbejdżański	ADJ;INS(SG,NEUT)	azerbejdżańskim
+azerbejdżański	ADJ;INS(PL)	azerbejdżańskimi
+nawyk	N;ESS(PL)	nawykach
+nawyk	N;INS(SG)	nawykiem
+nawyk	N;VOC(PL)	nawyki
+nawyk	N;ACC(SG)	nawyka
+nawyk	N;NOM(SG)	nawyk
+nawyk	N;DAT(PL)	nawykom
+nawyk	N;DAT(SG)	nawykowi
+nawyk	N;GEN(SG)	nawyka
+rybałt	N;ESS(SG)	rybałcie
+rybałt	N;NOM(PL)	rybałty
+rybałt	N;ESS(PL)	rybałtach
+rybałt	N;ACC(SG)	rybałt
+rybałt	N;GEN(SG)	rybałtu
+rybałt	N;INS(SG)	rybałtem
+rybałt	N;NOM(SG)	rybałt
+garaż	N;INS(PL)	garażami
+garaż	N;ACC(PL)	garaży
+garaż	N;VOC(PL)	garaże
+garaż	N;NOM(SG)	garaż
+garaż	N;DAT(PL)	garażom
+garaż	N;DAT(SG)	garażowi
+garaż	N;VOC(SG)	garażu
+garaż	N;GEN(PL)	garaży
+struktura	N;INS(PL)	strukturami
+struktura	N;NOM(SG)	struktura
+struktura	N;ACC(SG)	strukturę
+struktura	N;GEN(PL)	struktur
+struktura	N;VOC(SG)	strukturo
+struktura	N;VOC(PL)	struktury
+struktura	N;DAT(SG)	strukturze
+struktura	N;ESS(SG)	strukturze
+srać	V;FUT;NOM(3,PL,MASC,HUM)	będą srali
+srać	V;FUT;NOM(3,PL)	będą srały
+srać	V;FUT;NOM(1,SG,FEM)	będziemy srała
+srać	V;FUT;NOM(1,PL,MASC,HUM)	będziemy srali
+srać	V;FUT;NOM(3,SG,MASC)	będzie srał
+srać	V;IMP;NOM(3,SG)	niech sraj
+srać	V;NFIN;NOM()	srać
+srać	V.PTCP;PST;ACT;NOM(PL)	srające
+srać	V.CVB;NOM()	sranie
+srać	V.PTCP;PST;ACT;NOM(PL,MASC,HUM)	srali
+srać	V.PTCP;PST;ACT;NOM(SG,MASC)	srające
+srać	V;PRS;NOM(3,PL)	srają
+srać	V;IMP;NOM(2,PL)	srajcie
+srać	V;COND;NOM(3,SG,FEM)	srałaby
+srać	V;PST;NOM(1,SG,FEM)	srałam
+srać	V;PST;NOM(2,SG,FEM)	srałaś
+srać	V;COND;NOM(1,SG,MASC)	srałbym
+srać	V;COND;NOM(3,PL,MASC,HUM)	sraliby
+srać	V;PST;NOM(1,PL,MASC,HUM)	sraliśmy
+srać	V;PST;NOM(3,PL,MASC,HUM)	srali
+srać	V;COND;NOM(3,SG,NEUT)	srałoby
+srać	V;COND;NOM(1,PL)	srałybyśmy
+srać	V;PST;NOM(2,PL)	srałyście
+srać	V;PRS;NOM(1,PL)	sramy
+srać	V.PTCP;PST;PASS;NOM(SG,FEM)	srana
+srać	V.PTCP;PST;PASS;NOM(SG,MASC)	srające
+srać	V;PRS;NOM(3,SG)	sra
+jadeit	N;ACC(SG)	jadeit
+jadeit	N;DAT(SG)	jadeitowi
+jadeit	N;GEN(SG)	jadeita
+kij	N;INS(PL)	kijami
+kij	N;INS(SG)	kijem
+kij	N;ACC(PL)	kije
+kij	N;ACC(SG)	kij
+kij	N;DAT(SG)	kijowi
+kij	N;ESS(SG)	kijie
+kij	N;VOC(SG)	kiju
+temblak	N;GEN(SG)	temblaka
+temblak	N;NOM(PL)	temblaki
+temblak	N;NOM(SG)	temblak
+temblak	N;DAT(SG)	temblakowi
+temblak	N;ESS(SG)	temblaku
+szczypiorek	N;ACC(SG)	szczypiorka
+szczypiorek	N;ESS(PL)	szczypiorkach
+szczypiorek	N;INS(PL)	szczypiorkami
+szczypiorek	N;ACC(PL)	szczypiorki
+szczypiorek	N;DAT(PL)	szczypiorkom
+szczypiorek	N;ESS(SG)	szczypiorku
+eksplozja	N;ESS(PL)	eksplozjach
+eksplozja	N;INS(PL)	eksplozjami
+eksplozja	N;INS(SG)	eksplozją
+eksplozja	N;NOM(SG)	eksplozja
+eksplozja	N;ACC(PL)	eksplozje
+eksplozja	N;ACC(SG)	eksplozję
+eksplozja	N;VOC(PL)	eksplozje
+eksplozja	N;DAT(SG)	eksplozji
+eksplozja	N;ESS(SG)	eksplozji
+eksplozja	N;GEN(PL)	eksplozji
+eksplozja	N;GEN(SG)	eksplozji
+eksplozja	N;VOC(SG)	eksplozjo
+Bałt	N;ESS(SG)	Bałcie
+Bałt	N;VOC(SG)	Bałtowie
+Bałt	N;ESS(PL)	Bałtach
+Bałt	N;INS(SG)	Bałtem
+Bałt	N;DAT(PL)	Bałtom
+Bałt	N;DAT(SG)	Bałtowi
+Bałt	N;ACC(PL)	Bałty
+mięsień	N;ACC(SG)	mięsień
+mięsień	N;ESS(PL)	mięsieniach
+mięsień	N;INS(PL)	mięsieniami
+mięsień	N;ACC(PL)	mięsienia
+mięsień	N;GEN(PL)	mięsień
+mięsień	N;DAT(PL)	mięsieniom
+mięsień	N;ESS(SG)	mięsieniu
+powyłamywany	ADJ;INS(SG,FEM)	powyłamywaną
+powyłamywany	ADJ;NOM(SG,FEM)	powyłamywana
+powyłamywany	ADJ;ACC(PL)	powyłamywane
+powyłamywany	ADJ;ACC(SG,NEUT)	powyłamywane
+powyłamywany	ADJ;ACC(SG,MASC,ANIM)	powyłamywanego
+powyłamywany	ADJ;GEN(SG,FEM)	powyłamywanej
+powyłamywany	ADJ;DAT(SG,MASC)	powyłamywanemu
+powyłamywany	ADJ;DAT(SG,NEUT)	powyłamywanemu
+powyłamywany	ADJ;NOM(SG,MASC)	powyłamywany
+szkwał	N;INS(PL)	szkwałami
+szkwał	N;ESS(SG)	szkwałze
+szkwał	N;VOC(SG)	szkwało
+szkwał	N;NOM(SG)	szkwał
+szkwał	N;DAT(PL)	szkwałom
+szkwał	N;GEN(PL)	szkwałów
+szkwał	N;GEN(SG)	szkwała
+szkwał	N;VOC(PL)	szkwały
+łaknąć	V;FUT;NOM(3,PL)	będą łaknęły
+łaknąć	V;FUT;NOM(2,PL,MASC,HUM)	będziecie łaknęli
+łaknąć	V;FUT;NOM(3,SG,MASC)	będzie łaknił
+łaknąć	V;FUT;NOM(1,PL,MASC,HUM)	będziemy łaknęli
+łaknąć	V;FUT;NOM(1,PL)	będziemy łaknęły
+łaknąć	V;FUT;NOM(2,SG,MASC)	będziesz łaknął
+łaknąć	V.PTCP;PST;ACT;NOM(PL)	łaknące
+łaknąć	V.PTCP;PST;ACT;NOM(SG,NEUT)	łaknące
+łaknąć	V.CVB;NOM()	łakniąc
+łaknąć	V.PTCP;PST;ACT;NOM(PL,MASC,HUM)	łaknący
+łaknąć	V;COND;NOM(2,SG,MASC)	łaknąłbyś
+łaknąć	V;COND;NOM(3,SG,MASC)	łaknąłby
+łaknąć	V;PST;NOM(3,SG,MASC)	łaknął
+łaknąć	V;PRS;NOM(3,PL)	łakną
+łaknąć	V;COND;NOM(2,SG,FEM)	łaknęłabyś
+łaknąć	V;COND;NOM(3,SG,FEM)	łaknęłaby
+łaknąć	V;PST;NOM(3,SG,FEM)	łaknąła
+łaknąć	V;COND;NOM(2,PL,MASC,HUM)	łaknęlibyście
+łaknąć	V;COND;NOM(1,PL,MASC,HUM)	łaknęlibyśmy
+łaknąć	V;PST;NOM(2,PL,MASC,HUM)	łaknęliście
+łaknąć	V;PST;NOM(3,SG,NEUT)	łaknąło
+łaknąć	V;COND;NOM(2,PL)	łaknąłybyście
+łaknąć	V;COND;NOM(3,PL)	łaknęłyby
+łaknąć	V;PST;NOM(2,PL)	łaknąłyście
+łaknąć	V;PST;NOM(3,PL)	łaknąły
+łaknąć	V;PRS;NOM(2,PL)	łakniecie
+łaknąć	V;PRS;NOM(1,PL)	łaknimy
+łaknąć	V;PRS;NOM(2,SG)	łaknisz
+łaknąć	V;PRS;NOM(3,SG)	łaknie
+łaknąć	V;IMP;NOM(1,PL)	niech łaknąjmy
+łaknąć	V.PTCP;PST;PASS;NOM()	łaknące
+łaknąć	V;IMP;NOM(3,SG)	niech łaknę
+rytm	N;ESS(PL)	rytmach
+rytm	N;INS(PL)	rytmami
+rytm	N;INS(SG)	rytmem
+rytm	N;ESS(SG)	rytmie
+rytm	N;NOM(SG)	rytm
+rytm	N;DAT(PL)	rytmom
+rytm	N;GEN(PL)	rytmów
+rytm	N;VOC(PL)	rytmy
+murzyn	N;ESS(PL)	murzynach
+dupek	N;ESS(PL)	dupkach
+dupek	N;INS(PL)	dupkami
+dupek	N;ACC(PL)	dupki
+dupek	N;NOM(PL)	dupki
+dupek	N;DAT(PL)	dupkom
+charkać	V;FUT;NOM(3,PL)	będą charkały
+charkać	V;FUT;NOM(1,SG,FEM)	będziemy charkała
+charkać	V;FUT;NOM(3,SG,FEM)	będzie charkała
+charkać	V;FUT;NOM(3,SG,MASC)	będzie charkał
+charkać	V;FUT;NOM(2,PL,MASC,HUM)	będziecie charkali
+charkać	V;FUT;NOM(2,SG,FEM)	będziesz charkała
+charkać	V;FUT;NOM(2,SG,MASC)	będziesz charkał
+charkać	V;PRS;NOM(2,PL)	charkacie
+charkać	V;NFIN;NOM()	charkać
+charkać	V.PTCP;PST;ACT;NOM(SG,FEM)	charkająca
+charkać	V.PTCP;PST;ACT;NOM(PL)	charkające
+charkać	V.PTCP;PST;ACT;NOM(SG,MASC)	charkający
+charkać	V;IMP;NOM(2,PL)	charkajcie
+charkać	V;COND;NOM(3,SG,FEM)	charkałaby

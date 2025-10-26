@@ -1,7 +1,0 @@
-{"time":"2025-09-26T16:21:25.564461003+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/home/livles/tum/ws25/bachelorarbeit/morphological-inflection/ByT5/wandb/run-20250926_162125-h9y39xe3/logs/debug-core.log"}
-{"time":"2025-09-26T16:21:25.702516086+02:00","level":"INFO","msg":"created new stream","id":"h9y39xe3"}
-{"time":"2025-09-26T16:21:25.702573576+02:00","level":"INFO","msg":"stream: started","id":"h9y39xe3"}
-{"time":"2025-09-26T16:21:25.702720352+02:00","level":"INFO","msg":"handler: started","stream_id":"h9y39xe3"}
-{"time":"2025-09-26T16:21:25.703159017+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"h9y39xe3"}
-{"time":"2025-09-26T16:21:25.70421138+02:00","level":"INFO","msg":"sender: started","stream_id":"h9y39xe3"}
-{"time":"2025-09-26T16:21:26.128470623+02:00","level":"INFO","msg":"Starting system monitor"}
