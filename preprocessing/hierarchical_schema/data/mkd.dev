@@ -1,0 +1,1000 @@
+остар	остар	ADJ;MASC;SG;INDF
+остар	остра	ADJ;FEM;SG;INDF
+остар	острава	ADJ;FEM;SG;DEF;PROX
+остар	острана	ADJ;FEM;SG;DEF;REMT
+остар	острата	ADJ;FEM;SG;DEF
+остар	остриве	ADJ;PL;DEF;PROX
+остар	остриов	ADJ;MASC;SG;DEF;PROX
+остар	острион	ADJ;MASC;SG;DEF;REMT
+остар	острово	ADJ;NEUT;SG;DEF;PROX
+остар	остроно	ADJ;NEUT;SG;DEF;REMT
+остар	острото	ADJ;NEUT;SG;DEF
+гребен	гребен	N;SG;INDF
+гребен	гребени	N;PL;VOC
+гребен	гребениве	N;PL;DEF;PROX
+гребен	гребенине	N;PL;DEF;REMT
+гребен	гребените	N;PL;DEF
+гребен	гребенот	N;SG;DEF
+гребен	гребену	N;SG;VOC
+љубомора	љубомора	N;SG;INDF
+љубомора	љубоморава	N;SG;DEF;PROX
+љубомора	љубоморана	N;SG;DEF;REMT
+продукт	продукт	N;SG;INDF
+продукт	продукта	N;PL
+продукт	продукти	N;PL;INDF
+продукт	продуктиве	N;PL;DEF;PROX
+продукт	продуктине	N;PL;DEF;REMT
+продукт	продуктите	N;PL;DEF
+продукт	продуктов	N;SG;DEF;PROX
+продукт	продуктон	N;SG;DEF;REMT
+тестамент	тестамент	N;SG;INDF
+тестамент	тестамента	N;PL
+тестамент	тестаментиве	N;PL;DEF;PROX
+тестамент	тестаментот	N;SG;DEF
+тестамент	тестаменту	N;SG;VOC
+јавач	јавач	N;SG;INDF
+јавач	јавача	N;PL
+јавач	јавачи	N;PL;INDF
+јавач	јавачиве	N;PL;DEF;PROX
+јавач	јавачине	N;PL;DEF;REMT
+јавач	јавачов	N;SG;DEF;PROX
+скенира	искенира	V;PST;3;SG
+скенира	искенираа	V;PROG;PST;3;PL
+скенира	искенираа	V;PST;3;PL
+скенира	искенираат	V;PRS;3;PL
+скенира	искенирав	V;PROG;PST;1;SG
+скенира	искениравме	V;PROG;PST;1;PL
+скенира	искениравме	V;PST;1;PL
+скенира	искениравте	V;PROG;PST;2;PL
+скенира	искенирај	V;IMP;2;SG
+скенира	искенирајте	V;IMP;2;PL
+скенира	искенирал	V.PTCP;PROG;PST;MASC;SG
+скенира	искенирал	V.PTCP;PST;MASC;SG
+скенира	искенирала	V.PTCP;PROG;PST;FEM;SG
+скенира	искенирале	V.PTCP;PROG;PST;PL
+скенира	искенирам	V;PRS;1;SG
+скенира	искенираме	V;PRS;1;PL
+скенира	искениран	V.PTCP;PST;PASS
+скенира	искенираш	V;PRS;2;SG
+скенира	искенираше	V;PROG;PST;3;SG
+агресивност	агресивност	N;SG;INDF
+агресивност	агресивност	N;SG;VOC
+агресивност	агресивноста	N;SG;DEF
+виола	виолава	N;SG;DEF;PROX
+виола	виолана	N;SG;DEF;REMT
+виола	виолата	N;SG;DEF
+виола	виоли	N;PL;INDF
+виола	виоли	N;PL;VOC
+виола	виоливе	N;PL;DEF;PROX
+виола	виолите	N;PL;DEF
+виола	виоло	N;SG;VOC
+заќути	заќутат	V;PRS;3;PL
+заќути	заќуте	V;PST;2;SG
+заќути	заќутеа	V;PROG;PST;3;PL
+заќути	заќутев	V;PROG;PST;1;SG
+заќути	заќутев	V;PST;1;SG
+заќути	заќутевме	V;PROG;PST;1;PL
+заќути	заќутевме	V;PST;1;PL
+заќути	заќутел	V.PTCP;PROG;PST;MASC;SG
+заќути	заќутел	V.PTCP;PST;MASC;SG
+заќути	заќутела	V.PTCP;PROG;PST;FEM;SG
+заќути	заќутела	V.PTCP;PST;FEM;SG
+заќути	заќутеле	V.PTCP;PROG;PST;PL
+заќути	заќутело	V.PTCP;PST;NEUT;SG
+заќути	заќутете	V;IMP;2;PL
+заќути	заќутеше	V;PROG;PST;2;SG
+заќути	заќутеше	V;PROG;PST;3;SG
+заќути	заќути	V;IMP;2;SG
+заќути	заќути	V;PRS;3;SG
+заќути	заќутиме	V;PRS;1;PL
+заќути	заќутите	V;PRS;2;PL
+заќути	заќутиш	V;PRS;2;SG
+исенчи	исенчам	V;PRS;1;SG
+исенчи	исенчев	V;PROG;PST;1;SG
+исенчи	исенчела	V.PTCP;PROG;PST;FEM;SG
+исенчи	исенчеле	V.PTCP;PROG;PST;PL
+исенчи	исенчен	V.PTCP;PST;PASS
+исенчи	исенчеше	V;PROG;PST;2;SG
+исенчи	исенчеше	V;PROG;PST;3;SG
+исенчи	исенчив	V;PST;1;SG
+исенчи	исенчивме	V;PST;1;PL
+исенчи	исенчивте	V;PST;2;PL
+исенчи	исенчија	V;PST;3;PL
+исенчи	исенчил	V.PTCP;PST;MASC;SG
+исенчи	исенчила	V.PTCP;PST;FEM;SG
+исенчи	исенчило	V.PTCP;PST;NEUT;SG
+исенчи	исенчиме	V;PRS;1;PL
+огорченост	огорченост	N;SG;VOC
+читач	читач	N;SG;INDF
+читач	читача	N;PL
+читач	читачи	N;PL;INDF
+читач	читачиве	N;PL;DEF;PROX
+читач	читачите	N;PL;DEF
+читач	читачот	N;SG;DEF
+читач	читачу	N;SG;VOC
+дупнатина	дупнатина	N;SG;INDF
+дупнатина	дупнатинава	N;SG;DEF;PROX
+дупнатина	дупнатинана	N;SG;DEF;REMT
+дупнатина	дупнатини	N;PL;INDF
+дупнатина	дупнатини	N;PL;VOC
+дупнатина	дупнатиниве	N;PL;DEF;PROX
+дупнатина	дупнатинине	N;PL;DEF;REMT
+дупнатина	дупнатините	N;PL;DEF
+дупнатина	дупнатино	N;SG;VOC
+мирен	мирен	ADJ;MASC;SG;INDF
+мирен	мирнава	ADJ;FEM;SG;DEF;PROX
+мирен	мирнана	ADJ;FEM;SG;DEF;REMT
+мирен	мирната	ADJ;FEM;SG;DEF
+мирен	мирниве	ADJ;PL;DEF;PROX
+мирен	мирнине	ADJ;PL;DEF;REMT
+мирен	мирниот	ADJ;MASC;SG;DEF
+мирен	мирните	ADJ;PL;DEF
+мирен	мирново	ADJ;NEUT;SG;DEF;PROX
+мирен	мирноно	ADJ;NEUT;SG;DEF;REMT
+мирен	мирното	ADJ;NEUT;SG;DEF
+заварува	заваруваат	V;PRS;3;PL
+заварува	заварував	V;PROG;PST;1;SG
+заварува	заварувај	V;IMP;2;SG
+заварува	заварувал	V.PTCP;PROG;PST;MASC;SG
+заварува	заварувала	V.PTCP;PROG;PST;FEM;SG
+заварува	заварувале	V.PTCP;PROG;PST;PL
+заварува	заварување	V.MSDR
+заварува	заварувате	V;PRS;2;PL
+заварува	заваруваш	V;PRS;2;SG
+заварува	заваруваше	V;PROG;PST;2;SG
+заварува	заваруваше	V;PROG;PST;3;SG
+се состои	се состоев	V;PROG;PST;1;SG
+се состои	се состоеле	V.PTCP;PROG;PST;PL
+се состои	се состоело	V.PTCP;PROG;PST;NEUT;SG
+се состои	се состоеше	V;PROG;PST;2;SG
+се состои	се состоеше	V;PROG;PST;3;SG
+се состои	се состои	V;PRS;3;SG
+се состои	се состоиме	V;PRS;1;PL
+се состои	се состоите	V;PRS;2;PL
+се состои	се состоиш	V;PRS;2;SG
+се состои	состоејќи се	V.CVB
+се состои	состој се	V;IMP;2;SG
+се исценка	исценкај се	V;IMP;2;SG
+се исценка	се исценка	V;PRS;3;SG
+се исценка	се исценка	V;PST;2;SG
+се исценка	се исценка	V;PST;3;SG
+се исценка	се исценкаа	V;PROG;PST;3;PL
+се исценка	се исценкаа	V;PST;3;PL
+се исценка	се исценкав	V;PROG;PST;1;SG
+се исценка	се исценкавме	V;PROG;PST;1;PL
+се исценка	се исценкавме	V;PST;1;PL
+се исценка	се исценкавте	V;PROG;PST;2;PL
+се исценка	се исценкавте	V;PST;2;PL
+се исценка	се исценкала	V.PTCP;PROG;PST;FEM;SG
+се исценка	се исценкала	V.PTCP;PST;FEM;SG
+се исценка	се исценкале	V.PTCP;PST;PL
+се исценка	се исценкало	V.PTCP;PROG;PST;NEUT;SG
+се исценка	се исценкало	V.PTCP;PST;NEUT;SG
+се исценка	се исценкам	V;PRS;1;SG
+се исценка	се исценкаме	V;PRS;1;PL
+се исценка	се исценкаш	V;PRS;2;SG
+се исценка	се исценкаше	V;PROG;PST;2;SG
+се исценка	се исценкаше	V;PROG;PST;3;SG
+кесе	кесе	N;SG;INDF
+кесе	кесе	N;SG;VOC
+кесе	кесено	N;SG;DEF;REMT
+кесе	кесето	N;SG;DEF
+кесе	кесиња	N;PL;INDF
+кесе	кесиња	N;PL;VOC
+кесе	кесињава	N;PL;DEF;PROX
+кесе	кесињана	N;PL;DEF;REMT
+кесе	кесињата	N;PL;DEF
+нутрија	нутрииве	N;PL;DEF;PROX
+нутрија	нутриине	N;PL;DEF;REMT
+нутрија	нутриите	N;PL;DEF
+нутрија	нутрија	N;SG;INDF
+нутрија	нутријава	N;SG;DEF;PROX
+нутрија	нутријана	N;SG;DEF;REMT
+нутрија	нутријата	N;SG;DEF
+нутрија	нутријо	N;SG;VOC
+лакомец	лакомец	N;SG;INDF
+лакомец	лакомеца	N;PL
+лакомец	лакомецот	N;SG;DEF
+лакомец	лакомецу	N;SG;VOC
+лакомец	лакомци	N;PL;INDF
+лакомец	лакомциве	N;PL;DEF;PROX
+шило	шила	N;PL;INDF
+шило	шила	N;PL;VOC
+шило	шилава	N;PL;DEF;PROX
+шило	шилана	N;PL;DEF;REMT
+шило	шилото	N;SG;DEF
+подбив	подбив	N;SG;INDF
+подбив	подбиви	N;PL;INDF
+подбив	подбивов	N;SG;DEF;PROX
+подбив	подбиву	N;SG;VOC
+обвинител	обвинител	N;SG;INDF
+обвинител	обвинитела	N;PL
+обвинител	обвинителе	N;SG;VOC
+обвинител	обвинители	N;PL;INDF
+обвинител	обвинители	N;PL;VOC
+обвинител	обвинителиве	N;PL;DEF;PROX
+обвинител	обвинителине	N;PL;DEF;REMT
+обвинител	обвинителов	N;SG;DEF;PROX
+обвинител	обвинителот	N;SG;DEF
+раска	раска	N;SG;INDF
+раска	раскава	N;SG;DEF;PROX
+раска	раскана	N;SG;DEF;REMT
+раска	раската	N;SG;DEF
+раска	раски	N;PL;INDF
+раска	раски	N;PL;VOC
+раска	раските	N;PL;DEF
+раска	раско	N;SG;VOC
+прифатлив	прифатлива	ADJ;FEM;SG;INDF
+прифатлив	прифатливава	ADJ;FEM;SG;DEF;PROX
+прифатлив	прифатливата	ADJ;FEM;SG;DEF
+прифатлив	прифатливи	ADJ;PL;INDF
+прифатлив	прифатлививе	ADJ;PL;DEF;PROX
+прифатлив	прифатливине	ADJ;PL;DEF;REMT
+прифатлив	прифатливиов	ADJ;MASC;SG;DEF;PROX
+прифатлив	прифатливите	ADJ;PL;DEF
+прифатлив	прифатливо	ADJ;NEUT;SG;INDF
+прифатлив	прифатливово	ADJ;NEUT;SG;DEF;PROX
+прифатлив	прифатливото	ADJ;NEUT;SG;DEF
+заљубен	заљубен	ADJ;MASC;SG;INDF
+заљубен	заљубена	ADJ;FEM;SG;INDF
+заљубен	заљубенава	ADJ;FEM;SG;DEF;PROX
+заљубен	заљубенана	ADJ;FEM;SG;DEF;REMT
+заљубен	заљубени	ADJ;PL;INDF
+заљубен	заљубенине	ADJ;PL;DEF;REMT
+заљубен	заљубениов	ADJ;MASC;SG;DEF;PROX
+заљубен	заљубенион	ADJ;MASC;SG;DEF;REMT
+заљубен	заљубениот	ADJ;MASC;SG;DEF
+заљубен	заљубено	ADJ;NEUT;SG;INDF
+заљубен	заљубеново	ADJ;NEUT;SG;DEF;PROX
+заљубен	заљубеноно	ADJ;NEUT;SG;DEF;REMT
+заљубен	заљубеното	ADJ;NEUT;SG;DEF
+среден	среден	ADJ;MASC;SG;INDF
+среден	среднава	ADJ;FEM;SG;DEF;PROX
+среден	среднана	ADJ;FEM;SG;DEF;REMT
+среден	средни	ADJ;PL;INDF
+среден	средниве	ADJ;PL;DEF;PROX
+среден	среднине	ADJ;PL;DEF;REMT
+среден	средниов	ADJ;MASC;SG;DEF;PROX
+среден	среднион	ADJ;MASC;SG;DEF;REMT
+среден	средните	ADJ;PL;DEF
+среден	средно	ADJ;NEUT;SG;INDF
+среден	средноно	ADJ;NEUT;SG;DEF;REMT
+среден	средното	ADJ;NEUT;SG;DEF
+сопнува	сопнува	V;PRS;3;SG
+сопнува	сопнуваа	V;PROG;PST;3;PL
+сопнува	сопнуваат	V;PRS;3;PL
+сопнува	сопнував	V;PROG;PST;1;SG
+сопнува	сопнувавме	V;PROG;PST;1;PL
+сопнува	сопнувавте	V;PROG;PST;2;PL
+сопнува	сопнувајќи	V.CVB
+сопнува	сопнувал	V.PTCP;PROG;PST;MASC;SG
+сопнува	сопнувала	V.PTCP;PROG;PST;FEM;SG
+сопнува	сопнувам	V;PRS;1;SG
+сопнува	сопнуван	V.PTCP;PST;PASS
+сопнува	сопнување	V.MSDR
+сопнува	сопнуваш	V;PRS;2;SG
+Швеѓанка	Швеѓанкава	N;SG;DEF;PROX
+Швеѓанка	Швеѓанкана	N;SG;DEF;REMT
+Швеѓанка	Швеѓанки	N;PL;INDF
+Швеѓанка	Швеѓанкине	N;PL;DEF;REMT
+Швеѓанка	Швеѓанките	N;PL;DEF
+ролна	ролнава	N;SG;DEF;PROX
+ролна	ролнана	N;SG;DEF;REMT
+ролна	ролната	N;SG;DEF
+ролна	ролни	N;PL;INDF
+ролна	ролни	N;PL;VOC
+ролна	ролно	N;SG;VOC
+чкрипи	чкрипам	V;PRS;1;SG
+чкрипи	чкрипеа	V;PROG;PST;3;PL
+чкрипи	чкрипев	V;PROG;PST;1;SG
+чкрипи	чкрипевте	V;PROG;PST;2;PL
+чкрипи	чкрипејќи	V.CVB
+чкрипи	чкрипела	V.PTCP;PROG;PST;FEM;SG
+чкрипи	чкрипење	V.MSDR
+чкрипи	чкрипете	V;IMP;2;PL
+чкрипи	чкрипеше	V;PROG;PST;2;SG
+чкрипи	чкрипиш	V;PRS;2;SG
+трагедија	трагедии	N;PL;INDF
+трагедија	трагедии	N;PL;VOC
+трагедија	трагедииве	N;PL;DEF;PROX
+трагедија	трагедиите	N;PL;DEF
+трагедија	трагедијава	N;SG;DEF;PROX
+трагедија	трагедијата	N;SG;DEF
+трагедија	трагедијо	N;SG;VOC
+удар	удар	N;SG;INDF
+удар	удара	N;PL
+удар	удари	N;PL;INDF
+удар	удари	N;PL;VOC
+удар	удариве	N;PL;DEF;PROX
+удар	ударите	N;PL;DEF
+удар	ударов	N;SG;DEF;PROX
+удар	ударон	N;SG;DEF;REMT
+удар	удару	N;SG;VOC
+капира	капираа	V;PROG;PST;3;PL
+капира	капираат	V;PRS;3;PL
+капира	капирав	V;PROG;PST;1;SG
+капира	капиравте	V;PROG;PST;2;PL
+капира	капирај	V;IMP;2;SG
+капира	капирајте	V;IMP;2;PL
+капира	капирајќи	V.CVB
+капира	капирала	V.PTCP;PROG;PST;FEM;SG
+капира	капираме	V;PRS;1;PL
+капира	капирање	V.MSDR
+капира	капирате	V;PRS;2;PL
+капира	капираш	V;PRS;2;SG
+капира	капираше	V;PROG;PST;2;SG
+флоем	флоем	N;SG;INDF
+флоем	флоемов	N;SG;DEF;PROX
+флоем	флоемот	N;SG;DEF
+флоем	флоему	N;SG;VOC
+словенечки	словенечкава	ADJ;FEM;SG;DEF;PROX
+словенечки	словенечкана	ADJ;FEM;SG;DEF;REMT
+словенечки	словенечки	ADJ;PL;INDF
+словенечки	словенечкиве	ADJ;PL;DEF;PROX
+словенечки	словенечкине	ADJ;PL;DEF;REMT
+словенечки	словенечкиов	ADJ;MASC;SG;DEF;PROX
+словенечки	словенечкиот	ADJ;MASC;SG;DEF
+словенечки	словенечките	ADJ;PL;DEF
+словенечки	словенечко	ADJ;NEUT;SG;INDF
+словенечки	словенечково	ADJ;NEUT;SG;DEF;PROX
+словенечки	словенечконо	ADJ;NEUT;SG;DEF;REMT
+лукав	лукав	ADJ;MASC;SG;INDF
+лукав	лукава	ADJ;FEM;SG;INDF
+лукав	лукавава	ADJ;FEM;SG;DEF;PROX
+лукав	лукавана	ADJ;FEM;SG;DEF;REMT
+лукав	лукавата	ADJ;FEM;SG;DEF
+лукав	лукавиве	ADJ;PL;DEF;PROX
+лукав	лукавине	ADJ;PL;DEF;REMT
+лукав	лукавиов	ADJ;MASC;SG;DEF;PROX
+лукав	лукавион	ADJ;MASC;SG;DEF;REMT
+лукав	лукавите	ADJ;PL;DEF
+лукав	лукаво	ADJ;NEUT;SG;INDF
+лукав	лукавово	ADJ;NEUT;SG;DEF;PROX
+лукав	лукавоно	ADJ;NEUT;SG;DEF;REMT
+лукав	лукавото	ADJ;NEUT;SG;DEF
+долета	долета	V;PRS;3;SG
+долета	долета	V;PST;3;SG
+долета	долетаа	V;PST;3;PL
+долета	долетавме	V;PROG;PST;1;PL
+долета	долетавме	V;PST;1;PL
+долета	долетавте	V;PROG;PST;2;PL
+долета	долетал	V.PTCP;PROG;PST;MASC;SG
+долета	долетала	V.PTCP;PROG;PST;FEM;SG
+долета	долетала	V.PTCP;PST;FEM;SG
+долета	долетале	V.PTCP;PROG;PST;PL
+долета	долетале	V.PTCP;PST;PL
+долета	долетан	V.PTCP;PST;PASS
+долета	долеташ	V;PRS;2;SG
+долета	долеташе	V;PROG;PST;3;SG
+соновник	соновника	N;PL
+соновник	соновников	N;SG;DEF;PROX
+соновник	соновникон	N;SG;DEF;REMT
+соновник	соновникот	N;SG;DEF
+соновник	соновнику	N;SG;VOC
+соновник	соновнициве	N;PL;DEF;PROX
+соновник	соновниците	N;PL;DEF
+отклучува	отклучува	V;PRS;3;SG
+отклучува	отклучуваа	V;PROG;PST;3;PL
+отклучува	отклучувавте	V;PROG;PST;2;PL
+отклучува	отклучувај	V;IMP;2;SG
+отклучува	отклучувајќи	V.CVB
+отклучува	отклучувал	V.PTCP;PROG;PST;MASC;SG
+отклучува	отклучувала	V.PTCP;PROG;PST;FEM;SG
+отклучува	отклучувале	V.PTCP;PROG;PST;PL
+отклучува	отклучувало	V.PTCP;PROG;PST;NEUT;SG
+отклучува	отклучуваме	V;PRS;1;PL
+отклучува	отклучуван	V.PTCP;PST;PASS
+отклучува	отклучување	V.MSDR
+отклучува	отклучуваш	V;PRS;2;SG
+отклучува	отклучуваше	V;PROG;PST;3;SG
+жестокост	жестокост	N;SG;INDF
+жестокост	жестокост	N;SG;VOC
+жестокост	жестокоста	N;SG;DEF
+новак	новак	N;SG;INDF
+новак	новака	N;PL
+новак	новаков	N;SG;DEF;PROX
+новак	новакон	N;SG;DEF;REMT
+новак	новакот	N;SG;DEF
+новак	новаку	N;SG;VOC
+новак	новаци	N;PL;INDF
+се извешти	извештен	V.PTCP;PST;PASS
+се извешти	извешти се	V;IMP;2;SG
+се извешти	се извештам	V;PRS;1;SG
+се извешти	се извештат	V;PRS;3;PL
+се извешти	се извештеа	V;PROG;PST;3;PL
+се извешти	се извештевме	V;PROG;PST;1;PL
+се извешти	се извештел	V.PTCP;PROG;PST;MASC;SG
+се извешти	се извештела	V.PTCP;PROG;PST;FEM;SG
+се извешти	се извештеле	V.PTCP;PROG;PST;PL
+се извешти	се извештеше	V;PROG;PST;2;SG
+се извешти	се извештеше	V;PROG;PST;3;SG
+се извешти	се извешти	V;PRS;3;SG
+се извешти	се извешти	V;PST;2;SG
+се извешти	се извешти	V;PST;3;SG
+се извешти	се извештивте	V;PST;2;PL
+се извешти	се извештија	V;PST;3;PL
+се извешти	се извештил	V.PTCP;PST;MASC;SG
+се извешти	се извештиле	V.PTCP;PST;PL
+се извешти	се извештиме	V;PRS;1;PL
+се извешти	се извештите	V;PRS;2;PL
+се извешти	се извештиш	V;PRS;2;SG
+посоли	посолат	V;PRS;3;PL
+посоли	посолеа	V;PROG;PST;3;PL
+посоли	посолев	V;PROG;PST;1;SG
+посоли	посолевте	V;PROG;PST;2;PL
+посоли	посолеле	V.PTCP;PROG;PST;PL
+посоли	посолете	V;IMP;2;PL
+посоли	посолеше	V;PROG;PST;3;SG
+посоли	посоли	V;IMP;2;SG
+посоли	посоли	V;PRS;3;SG
+посоли	посоли	V;PST;2;SG
+посоли	посоли	V;PST;3;SG
+посоли	посоливме	V;PST;1;PL
+посоли	посолија	V;PST;3;PL
+посоли	посолил	V.PTCP;PST;MASC;SG
+посоли	посолила	V.PTCP;PST;FEM;SG
+посоли	посолиле	V.PTCP;PST;PL
+посоли	посолило	V.PTCP;PST;NEUT;SG
+посоли	посолиме	V;PRS;1;PL
+посоли	посолите	V;PRS;2;PL
+посоли	посолиш	V;PRS;2;SG
+пародира	пародира	V;PRS;3;SG
+пародира	пародираа	V;PROG;PST;3;PL
+пародира	пародираат	V;PRS;3;PL
+пародира	пародирав	V;PROG;PST;1;SG
+пародира	пародиравте	V;PROG;PST;2;PL
+пародира	пародирајте	V;IMP;2;PL
+пародира	пародирајќи	V.CVB
+пародира	пародирал	V.PTCP;PROG;PST;MASC;SG
+пародира	пародирале	V.PTCP;PROG;PST;PL
+пародира	пародирало	V.PTCP;PROG;PST;NEUT;SG
+пародира	пародирам	V;PRS;1;SG
+пародира	пародиран	V.PTCP;PST;PASS
+пародира	пародирање	V.MSDR
+пародира	пародирате	V;PRS;2;PL
+пародира	пародираш	V;PRS;2;SG
+пародира	пародираше	V;PROG;PST;2;SG
+вистинитост	вистинитост	N;SG;INDF
+вистинитост	вистинитост	N;SG;VOC
+вистинитост	вистинитоста	N;SG;DEF
+нем	нем	ADJ;MASC;SG;INDF
+нем	нема	ADJ;FEM;SG;INDF
+нем	немава	ADJ;FEM;SG;DEF;PROX
+нем	немата	ADJ;FEM;SG;DEF
+нем	неми	ADJ;PL;INDF
+нем	немиве	ADJ;PL;DEF;PROX
+нем	немиов	ADJ;MASC;SG;DEF;PROX
+нем	немион	ADJ;MASC;SG;DEF;REMT
+нем	немиот	ADJ;MASC;SG;DEF
+нем	немо	ADJ;NEUT;SG;INDF
+нем	немово	ADJ;NEUT;SG;DEF;PROX
+нем	немото	ADJ;NEUT;SG;DEF
+разбуди	разбудам	V;PRS;1;SG
+разбуди	разбудат	V;PRS;3;PL
+разбуди	разбудев	V;PROG;PST;1;SG
+разбуди	разбудевме	V;PROG;PST;1;PL
+разбуди	разбудевте	V;PROG;PST;2;PL
+разбуди	разбуделе	V.PTCP;PROG;PST;PL
+разбуди	разбудело	V.PTCP;PROG;PST;NEUT;SG
+разбуди	разбудете	V;IMP;2;PL
+разбуди	разбудеше	V;PROG;PST;3;SG
+разбуди	разбуди	V;IMP;2;SG
+разбуди	разбуди	V;PST;2;SG
+разбуди	разбуди	V;PST;3;SG
+разбуди	разбудив	V;PST;1;SG
+разбуди	разбудивте	V;PST;2;PL
+разбуди	разбудил	V.PTCP;PST;MASC;SG
+разбуди	разбудила	V.PTCP;PST;FEM;SG
+разбуди	разбудиле	V.PTCP;PST;PL
+разбуди	разбудило	V.PTCP;PST;NEUT;SG
+разбуди	разбудиме	V;PRS;1;PL
+разбуди	разбудите	V;PRS;2;PL
+разбуди	разбудиш	V;PRS;2;SG
+расол	расолов	N;SG;DEF;PROX
+расол	расолон	N;SG;DEF;REMT
+расол	расолот	N;SG;DEF
+доземе	дозеде	V;PST;3;SG
+доземе	дозедоа	V;PST;3;PL
+доземе	дозедов	V;PST;1;SG
+доземе	дозедовме	V;PST;1;PL
+доземе	дозедовте	V;PST;2;PL
+доземе	дозел	V.PTCP;PST;MASC;SG
+доземе	дозела	V.PTCP;PST;FEM;SG
+доземе	дозеле	V.PTCP;PST;PL
+доземе	доземам	V;PRS;1;SG
+доземе	доземев	V;PROG;PST;1;SG
+доземе	доземевме	V;PROG;PST;1;PL
+доземе	доземевте	V;PROG;PST;2;PL
+доземе	доземел	V.PTCP;PROG;PST;MASC;SG
+доземе	доземела	V.PTCP;PROG;PST;FEM;SG
+доземе	доземеле	V.PTCP;PROG;PST;PL
+доземе	доземело	V.PTCP;PROG;PST;NEUT;SG
+доземе	доземеме	V;PRS;1;PL
+доземе	доземен	V.PTCP;PST;PASS
+доземе	доземете	V;PRS;2;PL
+доземе	доземеше	V;PROG;PST;2;SG
+доземе	доземеше	V;PROG;PST;3;SG
+доземе	доземи	V;IMP;2;SG
+уличка	уличка	N;SG;INDF
+уличка	уличкава	N;SG;DEF;PROX
+уличка	улички	N;PL;INDF
+уличка	уличкиве	N;PL;DEF;PROX
+уличка	уличкине	N;PL;DEF;REMT
+повраќа	повраќа	V;PRS;3;SG
+повраќа	повраќаа	V;PROG;PST;3;PL
+повраќа	повраќаат	V;PRS;3;PL
+повраќа	повраќавме	V;PROG;PST;1;PL
+повраќа	повраќај	V;IMP;2;SG
+повраќа	повраќајќи	V.CVB
+повраќа	повраќал	V.PTCP;PROG;PST;MASC;SG
+повраќа	повраќале	V.PTCP;PROG;PST;PL
+повраќа	повраќало	V.PTCP;PROG;PST;NEUT;SG
+повраќа	повраќам	V;PRS;1;SG
+повраќа	повраќаме	V;PRS;1;PL
+повраќа	повраќан	V.PTCP;PST;PASS
+повраќа	повраќате	V;PRS;2;PL
+повраќа	повраќаше	V;PROG;PST;2;SG
+неспособен	неспособен	ADJ;MASC;SG;INDF
+неспособен	неспособнава	ADJ;FEM;SG;DEF;PROX
+неспособен	неспособнана	ADJ;FEM;SG;DEF;REMT
+неспособен	неспособната	ADJ;FEM;SG;DEF
+неспособен	неспособниот	ADJ;MASC;SG;DEF
+неспособен	неспособните	ADJ;PL;DEF
+неспособен	неспособното	ADJ;NEUT;SG;DEF
+селанец	селанецов	N;SG;DEF;PROX
+селанец	селанецон	N;SG;DEF;REMT
+селанец	селанецу	N;SG;VOC
+селанец	селаниве	N;PL;DEF;PROX
+селанец	селаните	N;PL;DEF
+изедначи	изедначам	V;PRS;1;SG
+изедначи	изедначат	V;PRS;3;PL
+изедначи	изедначев	V;PROG;PST;1;SG
+изедначи	изедначевте	V;PROG;PST;2;PL
+изедначи	изедначела	V.PTCP;PROG;PST;FEM;SG
+изедначи	изедначеле	V.PTCP;PROG;PST;PL
+изедначи	изедначело	V.PTCP;PROG;PST;NEUT;SG
+изедначи	изедначен	V.PTCP;PST;PASS
+изедначи	изедначете	V;IMP;2;PL
+изедначи	изедначеше	V;PROG;PST;3;SG
+изедначи	изедначи	V;IMP;2;SG
+изедначи	изедначи	V;PRS;3;SG
+изедначи	изедначив	V;PST;1;SG
+изедначи	изедначивме	V;PST;1;PL
+изедначи	изедначивте	V;PST;2;PL
+изедначи	изедначија	V;PST;3;PL
+изедначи	изедначил	V.PTCP;PST;MASC;SG
+изедначи	изедначила	V.PTCP;PST;FEM;SG
+изедначи	изедначите	V;PRS;2;PL
+балкон	балкон	N;SG;INDF
+балкон	балкона	N;PL
+балкон	балкони	N;PL;INDF
+балкон	балкони	N;PL;VOC
+балкон	балконине	N;PL;DEF;REMT
+балкон	балконите	N;PL;DEF
+балкон	балконов	N;SG;DEF;PROX
+балкон	балконон	N;SG;DEF;REMT
+балкон	балконот	N;SG;DEF
+обеспокои	обеспокоевме	V;PROG;PST;1;PL
+обеспокои	обеспокоела	V.PTCP;PROG;PST;FEM;SG
+обеспокои	обеспокоеле	V.PTCP;PROG;PST;PL
+обеспокои	обеспокоело	V.PTCP;PROG;PST;NEUT;SG
+обеспокои	обеспокоеше	V;PROG;PST;3;SG
+обеспокои	обеспокои	V;PRS;3;SG
+обеспокои	обеспокои	V;PST;3;SG
+обеспокои	обеспокоивте	V;PST;2;PL
+обеспокои	обеспокоија	V;PST;3;PL
+обеспокои	обеспокоила	V.PTCP;PST;FEM;SG
+обеспокои	обеспокоиле	V.PTCP;PST;PL
+обеспокои	обеспокоиме	V;PRS;1;PL
+обеспокои	обеспокоиш	V;PRS;2;SG
+обеспокои	обеспокојам	V;PRS;1;SG
+обеспокои	обеспокојте	V;IMP;2;PL
+тркач	тркач	N;SG;INDF
+тркач	тркачи	N;PL;VOC
+тркач	тркачиве	N;PL;DEF;PROX
+тркач	тркачите	N;PL;DEF
+тркач	тркачон	N;SG;DEF;REMT
+тркач	тркачу	N;SG;VOC
+мускул	мускул	N;SG;INDF
+мускул	мускули	N;PL;INDF
+мускул	мускуливе	N;PL;DEF;PROX
+мускул	мускулине	N;PL;DEF;REMT
+мускул	мускулон	N;SG;DEF;REMT
+мускул	мускулот	N;SG;DEF
+мускул	мускулу	N;SG;VOC
+забуна	забуна	N;SG;INDF
+забуна	забуни	N;PL;INDF
+забуна	забуни	N;PL;VOC
+забуна	забуниве	N;PL;DEF;PROX
+забуна	забунине	N;PL;DEF;REMT
+забуна	забуно	N;SG;VOC
+безуспешност	безуспешност	N;SG;INDF
+љубопитник	љубопитник	N;SG;INDF
+љубопитник	љубопитнике	N;SG;VOC
+љубопитник	љубопитников	N;SG;DEF;PROX
+љубопитник	љубопитникон	N;SG;DEF;REMT
+љубопитник	љубопитникот	N;SG;DEF
+љубопитник	љубопитници	N;PL;INDF
+љубопитник	љубопитници	N;PL;VOC
+љубопитник	љубопитнициве	N;PL;DEF;PROX
+љубопитник	љубопитницине	N;PL;DEF;REMT
+љубопитник	љубопитниците	N;PL;DEF
+времетраење	времетраења	N;PL;INDF
+времетраење	времетраењава	N;PL;DEF;PROX
+времетраење	времетраењана	N;PL;DEF;REMT
+времетраење	времетраењата	N;PL;DEF
+времетраење	времетраење	N;SG;VOC
+времетраење	времетраењено	N;SG;DEF;REMT
+времетраење	времетраењето	N;SG;DEF
+чавка	чавка	N;SG;INDF
+чавка	чавкава	N;SG;DEF;PROX
+чавка	чавката	N;SG;DEF
+чавка	чавки	N;PL;INDF
+чавка	чавки	N;PL;VOC
+чавка	чавкиве	N;PL;DEF;PROX
+чавка	чавкине	N;PL;DEF;REMT
+чавка	чавките	N;PL;DEF
+пикник	пикник	N;SG;INDF
+пикник	пикника	N;PL
+пикник	пикников	N;SG;DEF;PROX
+пикник	пикникот	N;SG;DEF
+пикник	пикници	N;PL;VOC
+пикник	пикнициве	N;PL;DEF;PROX
+пикник	пикницине	N;PL;DEF;REMT
+пикник	пикниците	N;PL;DEF
+морал	моралов	N;SG;DEF;PROX
+морал	моралот	N;SG;DEF
+истушува	истушува	V;PRS;3;SG
+истушува	истушуваа	V;PROG;PST;3;PL
+истушува	истушував	V;PROG;PST;1;SG
+истушува	истушувавте	V;PROG;PST;2;PL
+истушува	истушувај	V;IMP;2;SG
+истушува	истушувајте	V;IMP;2;PL
+истушува	истушувајќи	V.CVB
+истушува	истушувал	V.PTCP;PROG;PST;MASC;SG
+истушува	истушувала	V.PTCP;PROG;PST;FEM;SG
+истушува	истушувале	V.PTCP;PROG;PST;PL
+истушува	истушувало	V.PTCP;PROG;PST;NEUT;SG
+истушува	истушувам	V;PRS;1;SG
+истушува	истушуваме	V;PRS;1;PL
+истушува	истушувате	V;PRS;2;PL
+истушува	истушуваш	V;PRS;2;SG
+истушува	истушуваше	V;PROG;PST;2;SG
+непогрешлив	непогрешлив	ADJ;MASC;SG;INDF
+непогрешлив	непогрешлива	ADJ;FEM;SG;INDF
+непогрешлив	непогрешливава	ADJ;FEM;SG;DEF;PROX
+непогрешлив	непогрешливана	ADJ;FEM;SG;DEF;REMT
+непогрешлив	непогрешливи	ADJ;PL;INDF
+непогрешлив	непогрешлививе	ADJ;PL;DEF;PROX
+непогрешлив	непогрешливине	ADJ;PL;DEF;REMT
+непогрешлив	непогрешливиот	ADJ;MASC;SG;DEF
+непогрешлив	непогрешливите	ADJ;PL;DEF
+непогрешлив	непогрешливово	ADJ;NEUT;SG;DEF;PROX
+непогрешлив	непогрешливоно	ADJ;NEUT;SG;DEF;REMT
+непогрешлив	непогрешливото	ADJ;NEUT;SG;DEF
+рубин	рубин	N;SG;INDF
+рубин	рубини	N;PL;INDF
+рубин	рубиниве	N;PL;DEF;PROX
+рубин	рубинине	N;PL;DEF;REMT
+рубин	рубините	N;PL;DEF
+рубин	рубинов	N;SG;DEF;PROX
+рубин	рубинон	N;SG;DEF;REMT
+рубин	рубину	N;SG;VOC
+папаја	папаи	N;PL;INDF
+папаја	папаи	N;PL;VOC
+папаја	папаиве	N;PL;DEF;PROX
+папаја	папаине	N;PL;DEF;REMT
+папаја	папаите	N;PL;DEF
+папаја	папаја	N;SG;INDF
+папаја	папајана	N;SG;DEF;REMT
+папаја	папајо	N;SG;VOC
+шпагета	шпагета	N;SG;INDF
+шпагета	шпагетана	N;SG;DEF;REMT
+шпагета	шпагетата	N;SG;DEF
+шпагета	шпагетине	N;PL;DEF;REMT
+шпагета	шпагетите	N;PL;DEF
+се позабавува	позабавувај се	V;IMP;2;SG
+се позабавува	се позабавува	V;PRS;3;SG
+се позабавува	се позабавува	V;PST;2;SG
+се позабавува	се позабавува	V;PST;3;SG
+се позабавува	се позабавуваат	V;PRS;3;PL
+се позабавува	се позабавував	V;PST;1;SG
+се позабавува	се позабавувавме	V;PROG;PST;1;PL
+се позабавува	се позабавувавте	V;PROG;PST;2;PL
+се позабавува	се позабавувавте	V;PST;2;PL
+се позабавува	се позабавувал	V.PTCP;PROG;PST;MASC;SG
+се позабавува	се позабавувала	V.PTCP;PST;FEM;SG
+се позабавува	се позабавувале	V.PTCP;PROG;PST;PL
+се позабавува	се позабавувале	V.PTCP;PST;PL
+се позабавува	се позабавувало	V.PTCP;PST;NEUT;SG
+се позабавува	се позабавувате	V;PRS;2;PL
+се позабавува	се позабавуваше	V;PROG;PST;2;SG
+се позабавува	се позабавуваше	V;PROG;PST;3;SG
+галама	галама	N;SG;INDF
+галама	галамава	N;SG;DEF;PROX
+галама	галамата	N;SG;DEF
+галама	галами	N;PL;INDF
+галама	галамиве	N;PL;DEF;PROX
+лев	лев	ADJ;MASC;SG;INDF
+лев	лева	ADJ;FEM;SG;INDF
+лев	левата	ADJ;FEM;SG;DEF
+лев	леви	ADJ;PL;INDF
+лев	левиве	ADJ;PL;DEF;PROX
+лев	левине	ADJ;PL;DEF;REMT
+лев	левиов	ADJ;MASC;SG;DEF;PROX
+лев	левион	ADJ;MASC;SG;DEF;REMT
+лев	левиот	ADJ;MASC;SG;DEF
+лев	левите	ADJ;PL;DEF
+лев	левото	ADJ;NEUT;SG;DEF
+преубеди	преубедам	V;PRS;1;SG
+преубеди	преубедат	V;PRS;3;PL
+преубеди	преубедеа	V;PROG;PST;3;PL
+преубеди	преубедев	V;PROG;PST;1;SG
+преубеди	преубедевме	V;PROG;PST;1;PL
+преубеди	преубедевте	V;PROG;PST;2;PL
+преубеди	преубедел	V.PTCP;PROG;PST;MASC;SG
+преубеди	преубеделе	V.PTCP;PROG;PST;PL
+преубеди	преубедело	V.PTCP;PROG;PST;NEUT;SG
+преубеди	преубеден	V.PTCP;PST;PASS
+преубеди	преубедете	V;IMP;2;PL
+преубеди	преубеди	V;PRS;3;SG
+преубеди	преубеди	V;PST;2;SG
+преубеди	преубеди	V;PST;3;SG
+преубеди	преубедив	V;PST;1;SG
+преубеди	преубедија	V;PST;3;PL
+преубеди	преубедил	V.PTCP;PST;MASC;SG
+преубеди	преубедиле	V.PTCP;PST;PL
+преубеди	преубедило	V.PTCP;PST;NEUT;SG
+преубеди	преубедите	V;PRS;2;PL
+преубеди	преубедиш	V;PRS;2;SG
+лажица	лажицава	N;SG;DEF;PROX
+лажица	лажице	N;SG;VOC
+лажица	лажици	N;PL;INDF
+лажица	лажици	N;PL;VOC
+примамува	примамува	V;PRS;3;SG
+примамува	примамуваа	V;PROG;PST;3;PL
+примамува	примамувавме	V;PROG;PST;1;PL
+примамува	примамувај	V;IMP;2;SG
+примамува	примамувајќи	V.CVB
+примамува	примамувал	V.PTCP;PROG;PST;MASC;SG
+примамува	примамувала	V.PTCP;PROG;PST;FEM;SG
+примамува	примамувале	V.PTCP;PROG;PST;PL
+примамува	примамувало	V.PTCP;PROG;PST;NEUT;SG
+примамува	примамувам	V;PRS;1;SG
+примамува	примамуван	V.PTCP;PST;PASS
+примамува	примамување	V.MSDR
+примамува	примамувате	V;PRS;2;PL
+примамува	примамуваш	V;PRS;2;SG
+примамува	примамуваше	V;PROG;PST;2;SG
+зафати	зафатам	V;PRS;1;SG
+зафати	зафатат	V;PRS;3;PL
+зафати	зафатеа	V;PROG;PST;3;PL
+зафати	зафатев	V;PROG;PST;1;SG
+зафати	зафатевме	V;PROG;PST;1;PL
+зафати	зафател	V.PTCP;PROG;PST;MASC;SG
+зафати	зафатела	V.PTCP;PROG;PST;FEM;SG
+зафати	зафателе	V.PTCP;PROG;PST;PL
+зафати	зафатен	V.PTCP;PST;PASS
+зафати	зафатете	V;IMP;2;PL
+зафати	зафатеше	V;PROG;PST;2;SG
+зафати	зафати	V;IMP;2;SG
+зафати	зафати	V;PRS;3;SG
+зафати	зафати	V;PST;3;SG
+зафати	зафатив	V;PST;1;SG
+зафати	зафативте	V;PST;2;PL
+зафати	зафатил	V.PTCP;PST;MASC;SG
+зафати	зафатила	V.PTCP;PST;FEM;SG
+зафати	зафатило	V.PTCP;PST;NEUT;SG
+зафати	зафатиме	V;PRS;1;PL
+зафати	зафатите	V;PRS;2;PL
+дочита	дочита	V;PRS;3;SG
+дочита	дочита	V;PST;2;SG
+дочита	дочита	V;PST;3;SG
+дочита	дочитаа	V;PROG;PST;3;PL
+дочита	дочитаа	V;PST;3;PL
+дочита	дочитаат	V;PRS;3;PL
+дочита	дочитав	V;PROG;PST;1;SG
+дочита	дочитавме	V;PROG;PST;1;PL
+дочита	дочитавте	V;PROG;PST;2;PL
+дочита	дочитал	V.PTCP;PROG;PST;MASC;SG
+дочита	дочитал	V.PTCP;PST;MASC;SG
+дочита	дочитала	V.PTCP;PROG;PST;FEM;SG
+дочита	дочитале	V.PTCP;PROG;PST;PL
+дочита	дочитале	V.PTCP;PST;PL
+дочита	дочитало	V.PTCP;PROG;PST;NEUT;SG
+дочита	дочитало	V.PTCP;PST;NEUT;SG
+дочита	дочитам	V;PRS;1;SG
+дочита	дочитаме	V;PRS;1;PL
+дочита	дочиташе	V;PROG;PST;3;SG
+се изнасмее	изнасмеј се	V;IMP;2;SG
+се изнасмее	изнасмејте се	V;IMP;2;PL
+се изнасмее	се изнасмеa	V;PST;2;SG
+се изнасмее	се изнасмеa	V;PST;3;SG
+се изнасмее	се изнасмеaв	V;PST;1;SG
+се изнасмее	се изнасмеaвме	V;PST;1;PL
+се изнасмее	се изнасмеал	V.PTCP;PST;MASC;SG
+се изнасмее	се изнасмеала	V.PTCP;PST;FEM;SG
+се изнасмее	се изнасмеам	V;PRS;1;SG
+се изнасмее	се изнасмеат	V;PRS;3;PL
+се изнасмее	се изнасмеев	V;PROG;PST;1;SG
+се изнасмее	се изнасмеевме	V;PROG;PST;1;PL
+се изнасмее	се изнасмеевте	V;PROG;PST;2;PL
+се изнасмее	се изнасмееја	V;PROG;PST;3;PL
+се изнасмее	се изнасмеел	V.PTCP;PROG;PST;MASC;SG
+се изнасмее	се изнасмеела	V.PTCP;PROG;PST;FEM;SG
+се изнасмее	се изнасмееле	V.PTCP;PROG;PST;PL
+се изнасмее	се изнасмееме	V;PRS;1;PL
+се изнасмее	се изнасмеете	V;PRS;2;PL
+се изнасмее	се изнасмееш	V;PRS;2;SG
+се изнасмее	се изнасмееше	V;PROG;PST;3;SG
+се јавува	јавувајќи се	V.CVB
+се јавува	јавување	V.MSDR
+се јавува	се јавуваа	V;PROG;PST;3;PL
+се јавува	се јавувавте	V;PROG;PST;2;PL
+се јавува	се јавувала	V.PTCP;PROG;PST;FEM;SG
+се јавува	се јавувало	V.PTCP;PROG;PST;NEUT;SG
+се јавува	се јавувам	V;PRS;1;SG
+се јавува	се јавуваме	V;PRS;1;PL
+се јавува	се јавувате	V;PRS;2;PL
+се јавува	се јавуваш	V;PRS;2;SG
+се јавува	се јавуваше	V;PROG;PST;2;SG
+Италијанка	Италијанкана	N;SG;DEF;REMT
+Италијанка	Италијанката	N;SG;DEF
+Италијанка	Италијанке	N;SG;VOC
+Италијанка	Италијанкиве	N;PL;DEF;PROX
+Италијанка	Италијанките	N;PL;DEF
+заржи	заржа	V;PST;2;SG
+заржи	заржа	V;PST;3;SG
+заржи	заржаа	V;PST;3;PL
+заржи	заржав	V;PST;1;SG
+заржи	заржавте	V;PST;2;PL
+заржи	заржал	V.PTCP;PST;MASC;SG
+заржи	заржала	V.PTCP;PST;FEM;SG
+заржи	заржале	V.PTCP;PST;PL
+заржи	заржам	V;PRS;1;SG
+заржи	заржев	V;PROG;PST;1;SG
+заржи	заржевте	V;PROG;PST;2;PL
+заржи	заржел	V.PTCP;PROG;PST;MASC;SG
+заржи	заржеле	V.PTCP;PROG;PST;PL
+заржи	заржело	V.PTCP;PROG;PST;NEUT;SG
+заржи	заржете	V;IMP;2;PL
+заржи	заржеше	V;PROG;PST;2;SG
+заржи	заржеше	V;PROG;PST;3;SG
+заржи	заржи	V;PRS;3;SG
+заржи	заржиме	V;PRS;1;PL
+заржи	заржиш	V;PRS;2;SG
+тангенс	тангенса	N;PL
+тангенс	тангенсине	N;PL;DEF;REMT
+тангенс	тангенсите	N;PL;DEF
+тангенс	тангенсов	N;SG;DEF;PROX
+тангенс	тангенсон	N;SG;DEF;REMT
+тангенс	тангенсот	N;SG;DEF
+тангенс	тангенсу	N;SG;VOC
+ќурка	ќуркана	N;SG;DEF;REMT
+ќурка	ќурката	N;SG;DEF
+ќурка	ќурки	N;PL;VOC
+ќурка	ќуркиве	N;PL;DEF;PROX
+ќурка	ќуркине	N;PL;DEF;REMT
+ќурка	ќурките	N;PL;DEF
+ќурка	ќурко	N;SG;VOC
+греда	гредана	N;SG;DEF;REMT
+греда	греди	N;PL;VOC
+греда	гредиве	N;PL;DEF;PROX
+греда	гредите	N;PL;DEF
+греда	гредо	N;SG;VOC
+извира	извираа	V;PROG;PST;3;PL
+извира	извираат	V;PRS;3;PL
+извира	извиравме	V;PROG;PST;1;PL
+извира	извиравте	V;PROG;PST;2;PL
+извира	извирајте	V;IMP;2;PL
+извира	извирајќи	V.CVB
+извира	извирал	V.PTCP;PROG;PST;MASC;SG
+извира	извирала	V.PTCP;PROG;PST;FEM;SG
+извира	извирало	V.PTCP;PROG;PST;NEUT;SG
+извира	извирам	V;PRS;1;SG
+извира	извираме	V;PRS;1;PL
+извира	извирање	V.MSDR
+извира	извирате	V;PRS;2;PL
+извира	извираше	V;PROG;PST;2;SG
+извира	извираше	V;PROG;PST;3;SG
+борба	борба	N;SG;INDF
+борба	борбава	N;SG;DEF;PROX
+борба	борбана	N;SG;DEF;REMT
+борба	борбата	N;SG;DEF
+борба	борби	N;PL;INDF
+борба	борби	N;PL;VOC
+борба	борбо	N;SG;VOC
+згрижи	згрижат	V;PRS;3;PL
+згрижи	згрижеа	V;PROG;PST;3;PL
+згрижи	згрижев	V;PROG;PST;1;SG
+згрижи	згрижел	V.PTCP;PROG;PST;MASC;SG
+згрижи	згрижела	V.PTCP;PROG;PST;FEM;SG
+згрижи	згрижеле	V.PTCP;PROG;PST;PL
+згрижи	згрижен	V.PTCP;PST;PASS
+згрижи	згрижете	V;IMP;2;PL
+згрижи	згрижи	V;IMP;2;SG
+згрижи	згрижи	V;PST;3;SG
+згрижи	згриживме	V;PST;1;PL
+згрижи	згрижила	V.PTCP;PST;FEM;SG
+згрижи	згрижиле	V.PTCP;PST;PL
+згрижи	згрижило	V.PTCP;PST;NEUT;SG
+згрижи	згрижите	V;PRS;2;PL
+шамиче	шамиче	N;SG;INDF
+шамиче	шамичево	N;SG;DEF;PROX
+шамиче	шамичено	N;SG;DEF;REMT
+шамиче	шамичето	N;SG;DEF
+шамиче	шамичињана	N;PL;DEF;REMT
+мрмори	мрмореа	V;PROG;PST;3;PL
+мрмори	мрморејќи	V.CVB
+мрмори	мрморело	V.PTCP;PROG;PST;NEUT;SG
+мрмори	мрморете	V;IMP;2;PL
+мрмори	мрмореше	V;PROG;PST;2;SG
+мрмори	мрмореше	V;PROG;PST;3;SG
+мрмори	мрмори	V;PRS;3;SG
+мрмори	мрмориме	V;PRS;1;PL
+мрмори	мрморите	V;PRS;2;PL
+поклоник	поклоник	N;SG;INDF
+поклоник	поклоника	N;PL
+поклоник	поклоников	N;SG;DEF;PROX
+поклоник	поклоникон	N;SG;DEF;REMT
+поклоник	поклоници	N;PL;INDF
+поклоник	поклониците	N;PL;DEF
+соученичка	соученички	N;PL;INDF
+соученичка	соученички	N;PL;VOC
+соученичка	соученичкиве	N;PL;DEF;PROX
+соученичка	соученичкине	N;PL;DEF;REMT
+соученичка	соученичките	N;PL;DEF
+горен	горен	ADJ;MASC;SG;INDF
+горен	горна	ADJ;FEM;SG;INDF
+горен	горни	ADJ;PL;INDF
+горен	горниве	ADJ;PL;DEF;PROX
+горен	горнине	ADJ;PL;DEF;REMT
+горен	горнион	ADJ;MASC;SG;DEF;REMT
+горен	горниот	ADJ;MASC;SG;DEF
+горен	горните	ADJ;PL;DEF
+горен	горноно	ADJ;NEUT;SG;DEF;REMT
+горен	горното	ADJ;NEUT;SG;DEF
+сатира	сатира	N;SG;INDF
+сатира	сатирана	N;SG;DEF;REMT
+сатира	сатирата	N;SG;DEF
+сатира	сатири	N;PL;INDF
+сатира	сатири	N;PL;VOC
+сатира	сатириве	N;PL;DEF;PROX
+сатира	сатиро	N;SG;VOC
+заебанција	заебанции	N;PL;INDF
+заебанција	заебанции	N;PL;VOC
+заебанција	заебанцииве	N;PL;DEF;PROX
+заебанција	заебанциине	N;PL;DEF;REMT
+заебанција	заебанциите	N;PL;DEF
+заебанција	заебанција	N;SG;INDF
+заебанција	заебанцијава	N;SG;DEF;PROX
+заебанција	заебанцијана	N;SG;DEF;REMT
+расен	расна	ADJ;FEM;SG;INDF
+расен	раснава	ADJ;FEM;SG;DEF;PROX
+расен	расната	ADJ;FEM;SG;DEF
+расен	расни	ADJ;PL;INDF
+расен	расниве	ADJ;PL;DEF;PROX
+расен	раснине	ADJ;PL;DEF;REMT
+расен	расниов	ADJ;MASC;SG;DEF;PROX
+расен	расниот	ADJ;MASC;SG;DEF
+расен	расно	ADJ;NEUT;SG;INDF
+расен	расноно	ADJ;NEUT;SG;DEF;REMT
+штрајкува	штрајкуваат	V;PRS;3;PL
+штрајкува	штрајкував	V;PROG;PST;1;SG
+штрајкува	штрајкувавме	V;PROG;PST;1;PL
+штрајкува	штрајкувавте	V;PROG;PST;2;PL
+штрајкува	штрајкувајте	V;IMP;2;PL
+штрајкува	штрајкувајќи	V.CVB
+штрајкува	штрајкувал	V.PTCP;PROG;PST;MASC;SG
+штрајкува	штрајкувала	V.PTCP;PROG;PST;FEM;SG
+штрајкува	штрајкуваме	V;PRS;1;PL
+штрајкува	штрајкуван	V.PTCP;PST;PASS
+штрајкува	штрајкување	V.MSDR
+надвојвода	надвојводава	N;SG;DEF;PROX
+надвојвода	надвојводана	N;SG;DEF;REMT
+надвојвода	надвојводата	N;SG;DEF
+надвојвода	надвојводи	N;PL;INDF
+надвојвода	надвојводи	N;PL;VOC
+надвојвода	надвојводиве	N;PL;DEF;PROX
+надвојвода	надвојводине	N;PL;DEF;REMT
+надвојвода	надвојводо	N;SG;VOC
