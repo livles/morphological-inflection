@@ -8,7 +8,7 @@ bezgrzeszny	ADJ;ESS(SG,FEM)	bezgrzesznej
 bezgrzeszny	ADJ;GEN(SG,FEM)	bezgrzesznej
 bezgrzeszny	ADJ;DAT(SG,MASC)	bezgrzesznemu
 bezgrzeszny	ADJ;DAT(SG,NEUT)	bezgrzesznemu
-bezgrzeszny	ADJ;ACC(SG,MASC,INAN)	bezgrzeszny
+bezgrzeszny	ADJ;ACC(SG,MASC,INAN)	bezgrzesznego
 bezgrzeszny	ADJ;ESS(PL)	bezgrzesznych
 bezgrzeszny	ADJ;GEN(PL)	bezgrzesznych
 bezgrzeszny	ADJ;ACC(PL,MASC,HUM)	bezgrzesznych
@@ -31,44 +31,44 @@ zdanie podrzędne	N;INS(SG)	zdaniem podrzędnym
 zdanie podrzędne	N;VOC(SG)	zdanie podrzędne
 zdanie podrzędne	N;DAT(SG)	zdaniu podrzędnemu
 zdanie podrzędne	N;GEN(PL)	zdania podrzędnych
-nosić	V;FUT;3;PL;MASC;HUM	będziemy nosili
-nosić	V;FUT;3;PL	będziemy nosiły
-nosić	V;FUT;2;PL;MASC;HUM	będą nosili
-nosić	V;FUT;2;PL	będziemy nosiły
+nosić	V;FUT;3;PL;MASC;HUM	będziecie nosili
+nosić	V;FUT;3;PL	będzie nosiły
+nosić	V;FUT;2;PL;MASC;HUM	będziecie nosili
+nosić	V;FUT;2;PL	będziecie nosiły
 nosić	V;FUT;3;SG;FEM	będzie nosiła
 nosić	V;FUT;3;SG;MASC	będzie nosił
-nosić	V;FUT;2;SG;FEM	będzie nosiła
-nosić	V;IMP;3;SG	niech nosi
-nosić	V;IMP;2;PL	niech nosili
-nosić	V;NFIN	nosił
+nosić	V;FUT;2;SG;FEM	będziesz nosiła
+nosić	V;IMP;3;SG	będzie nosił
+nosić	V;IMP;2;PL	nosimy
+nosić	V;NFIN	nosić
 nosić	V;COND;1;SG;FEM	nosiłabym
 nosić	V;COND;2;SG;FEM	nosiłabyś
-nosić	V;COND;3;SG;FEM	nosiłabyś
+nosić	V;COND;3;SG;FEM	nosiłaby
 nosić	V;PST;1;SG;FEM	nosiłam
 nosić	V;COND;1;SG;MASC	nosiłbym
 nosić	V;COND;2;SG;MASC	nosiłbyś
 nosić	V;PST;2;SG;MASC	nosiłeś
 nosić	V;COND;2;PL;MASC;HUM	nosilibyście
 nosić	V;COND;1;PL;MASC;HUM	nosilibyśmy
-nosić	V;COND;3;PL;MASC;HUM	nosilibyście
+nosić	V;COND;3;PL;MASC;HUM	nosiliby
 nosić	V;PST;2;PL;MASC;HUM	nosiliście
 nosić	V;PST;1;PL;MASC;HUM	nosiliśmy
-nosić	V;PST;3;PL;MASC;HUM	nosiliście
-nosić	V;COND;3;SG;NEUT	nosiłbyś
-nosić	V;PST;3;SG;MASC	nosiłeś
+nosić	V;PST;3;PL;MASC;HUM	nosili
+nosić	V;COND;3;SG;NEUT	nosiłby
+nosić	V;PST;3;SG;MASC	nosił
 nosić	V;PST;2;PL	nosiłyście
-nosić	V;PST;3;PL	nosiłyście
+nosić	V;PST;3;PL	nosiły
 nosić	V;PRS;1;PL	nosiłyśmy
-nosić	V;PRS;2;SG	nosił
-nosić	V;IMP;1;PL	niech nosimy
+nosić	V;PRS;2;SG	nosiło
+nosić	V;IMP;1;PL	nosimy
 nosić	V.PTCP;PST;ACT;SG;FEM	nosiłabym
-nosić	V.PTCP;PST;ACT;PL	noszące
-nosić	V.PTCP;PST;ACT;SG;NEUT	noszące
-nosić	V.PTCP;PST;ACT;PL;MASC;HUM	nosilibyśmy
-nosić	V;PRS;3;PL	nosiłyście
-nosić	V.MSDR	nosić
-nosić	V.PTCP;PST;PASS;PL;MASC;HUM	nosilibyśmy
-nosić	V;PRS;1;SG	nosił
+nosić	V.PTCP;PST;ACT;PL	nosące
+nosić	V.PTCP;PST;ACT;SG;NEUT	nosiące
+nosić	V.PTCP;PST;ACT;PL;MASC;HUM	nosilibyście
+nosić	V;PRS;3;PL	nosiły
+nosić	V.MSDR	nosiłybyśmy
+nosić	V.PTCP;PST;PASS;PL;MASC;HUM	nosilibyście
+nosić	V;PRS;1;SG	nosiło
 nosić	V.PTCP;PST;PASS;SG;FEM	nosiłabym
 nosić	V.PTCP;PST;PASS;PL	noszące
 nosić	V.PTCP;PST;PASS;SG;NEUT	noszące
@@ -94,22 +94,22 @@ kosmonauta	N;GEN(SG)	kosmonauty
 rosół	N;ESS(PL)	rosółach
 rosół	N;INS(PL)	rosółami
 rosół	N;INS(SG)	rosółem
-rosół	N;VOC(SG)	rosół
+rosół	N;VOC(SG)	rosołu
 rosół	N;ACC(SG)	rosół
-rosół	N;GEN(PL)	rosół
+rosół	N;GEN(PL)	rosółów
 rosół	N;VOC(PL)	rosóły
 bękart	N;ESS(SG)	bękarcie
-bękart	N;VOC(SG)	bękartowi
+bękart	N;VOC(SG)	bękartu
 bękart	N;ESS(PL)	bękartach
 bękart	N;INS(PL)	bękartami
 bękart	N;DAT(PL)	bękartom
-bękart	N;DAT(SG)	bękarcowi
+bękart	N;DAT(SG)	bękarce
 bękart	N;GEN(PL)	bękartów
 naukowy	ADJ;NOM(SG,FEM)	naukowa
 naukowy	ADJ;ACC(PL)	naukowe
 naukowy	ADJ;ACC(SG,NEUT)	naukowe
 naukowy	ADJ;NOM(PL)	naukowe
-naukowy	ADJ;ACC(SG,MASC,ANIM)	naukowy
+naukowy	ADJ;ACC(SG,MASC,ANIM)	naukowego
 naukowy	ADJ;GEN(SG,MASC)	naukowego
 naukowy	ADJ;ACC(SG,MASC,HUM)	naukowego
 naukowy	ADJ;GEN(SG,NEUT)	naukowego
@@ -145,7 +145,7 @@ gnój	N;VOC(PL)	gnóje
 gnój	N;ACC(SG)	gnój
 gnój	N;NOM(SG)	gnój
 gnój	N;DAT(SG)	gnojowi
-gnój	N;ESS(SG)	gnóju
+gnój	N;ESS(SG)	gnoju
 gnój	N;VOC(SG)	gnój
 winogronowy	ADJ;ACC(PL)	winogronowe
 winogronowy	ADJ;ACC(SG,NEUT)	winogronowe
@@ -157,35 +157,35 @@ winogronowy	ADJ;ESS(SG,FEM)	winogronowej
 winogronowy	ADJ;GEN(SG,FEM)	winogronowej
 winogronowy	ADJ;DAT(SG,MASC)	winogronowemu
 winogronowy	ADJ;DAT(SG,NEUT)	winogronowemu
-winogronowy	ADJ;NOM(SG,MASC)	winogronowy
+winogronowy	ADJ;NOM(SG,MASC)	winogronowe
 winogronowy	ADJ;DAT(PL)	winogronowym
 winogronowy	ADJ;ESS(SG,MASC)	winogronowym
-kleić	V;FUT;3;PL;MASC;HUM	będą kleili
-kleić	V;FUT;3;PL	będziemy kleiły
-kleić	V;FUT;1;SG;FEM	będzie kleiła
-kleić	V;FUT;1;SG;MASC	będzie kleił
-kleić	V;FUT;2;PL	będziemy kleiły
+kleić	V;FUT;3;PL;MASC;HUM	będziecie kleili
+kleić	V;FUT;3;PL	będzie kleiły
+kleić	V;FUT;1;SG;FEM	będziesz kleiła
+kleić	V;FUT;1;SG;MASC	będziesz kleił
+kleić	V;FUT;2;PL	będziecie kleiły
 kleić	V;FUT;3;SG;NEUT	będzie kleiło
-kleić	V;FUT;1;PL;MASC;HUM	będą kleili
-kleić	V;PRS;2;PL	kleją
-kleić	V;NFIN	kleiło
+kleić	V;FUT;1;PL;MASC;HUM	będziemy kleili
+kleić	V;PRS;2;PL	kleiłyście
+kleić	V;NFIN	kleić
 kleić	V;COND;1;SG;FEM	kleiłabym
 kleić	V;COND;2;SG;FEM	kleiłabyś
 kleić	V;PST;1;SG;FEM	kleiłam
-kleić	V;COND;3;SG;MASC	kleiłbyś
-kleić	V;PST;1;SG;MASC	kleiłeś
-kleić	V;PST;2;SG;MASC	kleiło
+kleić	V;COND;3;SG;MASC	kleiłby
+kleić	V;PST;1;SG;MASC	kleiłem
+kleić	V;PST;2;SG;MASC	kleiłeś
 kleić	V;COND;1;PL;MASC;HUM	kleilibyśmy
 kleić	V;PST;2;PL;MASC;HUM	kleiliście
 kleić	V;PST;1;PL;MASC;HUM	kleiliśmy
 kleić	V;PST;3;SG;NEUT	kleiło
-kleić	V;PST;3;SG;MASC	kleiło
+kleić	V;PST;3;SG;MASC	kleił
 kleić	V;COND;2;PL	kleiłybyście
-kleić	V;COND;3;PL	kleiłybyście
+kleić	V;COND;3;PL	kleiłyby
 kleić	V;PST;2;PL	kleiłyście
 kleić	V;PST;1;PL	kleiłyśmy
-kleić	V;PRS;1;PL	kleją
-kleić	V.PTCP;PST;ACT;SG;FEM	klejąca
+kleić	V;PRS;1;PL	kleiłyśmy
+kleić	V.PTCP;PST;ACT;SG;FEM	kleiłabym
 kleić	V.PTCP;PST;ACT;PL	klejące
 kleić	V.PTCP;PST;ACT;PL;MASC;HUM	klejący
 kleić	V.PTCP;PST;ACT;SG;MASC	klejące
@@ -203,10 +203,10 @@ uczucie	N;DAT(SG)	uczuciu
 edyl	N;ESS(PL)	edylach
 edyl	N;INS(PL)	edylami
 edyl	N;GEN(SG)	edylu
-edyl	N;ACC(PL)	edyle
+edyl	N;ACC(PL)	edyly
 edyl	N;NOM(SG)	edyl
 edyl	N;DAT(PL)	edylom
-edyl	N;NOM(PL)	edyle
+edyl	N;NOM(PL)	edyly
 edyl	N;ESS(SG)	edylu
 edyl	N;VOC(SG)	edylu
 tłumaczenie	N;ESS(PL)	tłumaczeniach
@@ -215,7 +215,7 @@ tłumaczenie	N;VOC(PL)	tłumaczenia
 tłumaczenie	N;INS(SG)	tłumaczeniem
 tłumaczenie	N;ACC(SG)	tłumaczenie
 tłumaczenie	N;VOC(SG)	tłumaczenie
-tłumaczenie	N;DAT(SG)	tłumaczonemu
+tłumaczenie	N;DAT(SG)	tłumaczeniu
 tłumaczenie	N;ESS(SG)	tłumaczeniu
 plomba	N;INS(SG)	plombą
 plomba	N;NOM(SG)	plomba
@@ -223,7 +223,7 @@ plomba	N;ACC(SG)	plombę
 plomba	N;DAT(SG)	plombowi
 plomba	N;ESS(SG)	plombie
 plomba	N;GEN(PL)	plombów
-plomba	N;VOC(SG)	plombie
+plomba	N;VOC(SG)	plombo
 plomba	N;GEN(SG)	plomby
 plomba	N;VOC(PL)	plomby
 nieśmiertelny	ADJ;ACC(SG,FEM)	nieśmiertelną
@@ -242,20 +242,20 @@ kula	N;INS(SG)	kulą
 kula	N;NOM(SG)	kula
 kula	N;ACC(PL)	kule
 kula	N;VOC(PL)	kule
-kula	N;ESS(SG)	kulie
+kula	N;ESS(SG)	kuli
 kula	N;GEN(SG)	kuly
-kula	N;GEN(PL)	kul
+kula	N;GEN(PL)	kulów
 brzoskwiniowy	ADJ;INS(SG,FEM)	brzoskwiniową
 brzoskwiniowy	ADJ;NOM(SG,FEM)	brzoskwiniowa
 brzoskwiniowy	ADJ;ACC(PL)	brzoskwiniowe
 brzoskwiniowy	ADJ;ACC(SG,NEUT)	brzoskwiniowe
-brzoskwiniowy	ADJ;ACC(SG,MASC,ANIM)	brzoskwiniowy
+brzoskwiniowy	ADJ;ACC(SG,MASC,ANIM)	brzoskwiniowego
 brzoskwiniowy	ADJ;GEN(SG,MASC)	brzoskwiniowego
-brzoskwiniowy	ADJ;ACC(SG,MASC,HUM)	brzoskwiniowygo
+brzoskwiniowy	ADJ;ACC(SG,MASC,HUM)	brzoskwiniowego
 brzoskwiniowy	ADJ;DAT(SG,FEM)	brzoskwiniowej
 brzoskwiniowy	ADJ;GEN(SG,FEM)	brzoskwiniowej
-brzoskwiniowy	ADJ;NOM(PL,MASC,HUM)	brzoskwiniowy
-brzoskwiniowy	ADJ;NOM(SG,MASC)	brzoskwiniowy
+brzoskwiniowy	ADJ;NOM(PL,MASC,HUM)	brzoskwiniowi
+brzoskwiniowy	ADJ;NOM(SG,MASC)	brzoskwiniowe
 brzoskwiniowy	ADJ;ESS(PL)	brzoskwiniowych
 brzoskwiniowy	ADJ;GEN(PL)	brzoskwiniowych
 brzoskwiniowy	ADJ;ACC(PL,MASC,HUM)	brzoskwiniowych
@@ -277,9 +277,9 @@ martwy	ADJ;ACC(SG,MASC,ANIM)	martwego
 martwy	ADJ;ACC(SG,MASC,HUM)	martwego
 martwy	ADJ;DAT(SG,MASC)	martwemu
 martwy	ADJ;DAT(SG,NEUT)	martwemu
-martwy	ADJ;NOM(PL,MASC,HUM)	martwy
-martwy	ADJ;ACC(SG,MASC,INAN)	martwy
-martwy	ADJ;NOM(SG,MASC)	martwy
+martwy	ADJ;NOM(PL,MASC,HUM)	martwi
+martwy	ADJ;ACC(SG,MASC,INAN)	martwego
+martwy	ADJ;NOM(SG,MASC)	martwe
 martwy	ADJ;ESS(PL)	martwych
 martwy	ADJ;GEN(PL)	martwych
 martwy	ADJ;DAT(PL)	martwym
@@ -293,7 +293,7 @@ napięcie	N;NOM(PL)	napięcia
 napięcie	N;VOC(PL)	napięcia
 napięcie	N;NOM(SG)	napięcie
 napięcie	N;ESS(SG)	napięciu
-napięcie	N;GEN(PL)	napięcia
+napięcie	N;GEN(PL)	napięciów
 dziwka	N;ESS(SG)	dziwce
 dziwka	N;INS(PL)	dziwkami
 dziwka	N;INS(SG)	dziwką
@@ -323,36 +323,36 @@ polana	N;ESS(PL)	polanach
 polana	N;INS(PL)	polanami
 polana	N;NOM(SG)	polana
 polana	N;ACC(SG)	polanę
-polana	N;DAT(SG)	polanowi
+polana	N;DAT(SG)	polanie
 polana	N;ESS(SG)	polanie
 polana	N;DAT(PL)	polanom
 polana	N;VOC(SG)	polano
 polana	N;ACC(PL)	polany
 polana	N;NOM(PL)	polany
-wyrządzić	V;IMP;3;PL	będziemy wyrządzili
-wyrządzić	V;IMP;1;SG	będziesz wyrządził
-wyrządzić	V.PTCP;PST;PASS;PL;MASC;HUM	wyrządzonych
-wyrządzić	V;FUT;1;SG	będzie wyrządził
+wyrządzić	V;IMP;3;PL	będą wyrządzili
+wyrządzić	V;IMP;1;SG	będziemy wyrządził
+wyrządzić	V.PTCP;PST;PASS;PL;MASC;HUM	wyrządzący
+wyrządzić	V;FUT;1;SG	będziemy wyrządził
 wyrządzić	V;COND;1;SG;FEM	wyrządziłabym
 wyrządzić	V;COND;2;SG;FEM	wyrządziłabyś
 wyrządzić	V;PST;2;SG;FEM	wyrządziłaś
 wyrządzić	V;PST;3;SG;FEM	wyrządziła
 wyrządzić	V;COND;1;SG;MASC	wyrządziłbym
 wyrządzić	V;COND;2;SG;MASC	wyrządziłbyś
-wyrządzić	V;COND;3;SG;MASC	wyrządziłbyś
+wyrządzić	V;COND;3;SG;MASC	wyrządziłby
 wyrządzić	V;PST;2;SG;MASC	wyrządziłeś
 wyrządzić	V;COND;2;PL;MASC;HUM	wyrządzilibyście
 wyrządzić	V;COND;1;PL;MASC;HUM	wyrządzilibyśmy
-wyrządzić	V;COND;3;PL;MASC;HUM	wyrządzilibyśmy
+wyrządzić	V;COND;3;PL;MASC;HUM	wyrządziliby
 wyrządzić	V;PST;2;PL;MASC;HUM	wyrządziliście
 wyrządzić	V;PST;1;PL;MASC;HUM	wyrządziliśmy
-wyrządzić	V;COND;3;SG;NEUT	wyrządziłbyś
+wyrządzić	V;COND;3;SG;NEUT	wyrządziłby
 wyrządzić	V;PST;3;SG;MASC	wyrządził
 wyrządzić	V;COND;1;PL	wyrządziłybyśmy
 wyrządzić	V;PST;2;PL	wyrządziłyście
 wyrządzić	V;PST;1;PL	wyrządziłyśmy
-wyrządzić	V;PST;3;PL	wyrządziłyście
-wyrządzić	V;FUT;1;PL	będziemy wyrządzili
+wyrządzić	V;PST;3;PL	wyrządziły
+wyrządzić	V;FUT;1;PL	będziemy wyrządziły
 wyrządzić	V.PTCP;PST;PASS;SG;FEM	wyrządzona
 wyrządzić	V.PTCP;PST;PASS;SG;NEUT	wyrządzone
 wyrządzić	V.PTCP;PST;PASS	wyrządzone
@@ -376,13 +376,13 @@ nastolatek	N;GEN(SG)	nastolatka
 nastolatek	N;NOM(PL)	nastolatki
 nastolatek	N;VOC(PL)	nastolatki
 nastolatek	N;ACC(PL)	nastolatki
-nastolatek	N;VOC(SG)	nastolatku
+nastolatek	N;VOC(SG)	nastolatko
 zbieg	N;ESS(PL)	zbiegach
 zbieg	N;ACC(SG)	zbieg
 zbieg	N;NOM(SG)	zbieg
 zbieg	N;DAT(PL)	zbiegom
 zbieg	N;NOM(PL)	zbiegi
-zbieg	N;ACC(PL)	zbiegi
+zbieg	N;ACC(PL)	zbiegy
 zbieg	N;ESS(SG)	zbiegu
 szkutnik	N;VOC(PL)	szkutniki
 szkutnik	N;ESS(PL)	szkutnikach
@@ -391,20 +391,20 @@ szkutnik	N;GEN(SG)	szkutnika
 szkutnik	N;DAT(PL)	szkutnikom
 szkutnik	N;GEN(PL)	szkutników
 szkutnik	N;ESS(SG)	szkutniku
-samotniejszy	ADJ;NOM(PL,MASC,HUM)	samotniejsi
+samotniejszy	ADJ;NOM(PL,MASC,HUM)	samotniejszy
 samotniejszy	ADJ;ACC(SG,FEM)	samotniejszą
 samotniejszy	ADJ;INS(SG,FEM)	samotniejszą
 samotniejszy	ADJ;NOM(SG,FEM)	samotniejsza
 samotniejszy	ADJ;ACC(SG,NEUT)	samotniejsze
 samotniejszy	ADJ;NOM(SG,NEUT)	samotniejsze
 samotniejszy	ADJ;NOM(PL)	samotniejsze
-samotniejszy	ADJ;ACC(SG,MASC,ANIM)	samotniejszy
+samotniejszy	ADJ;ACC(SG,MASC,ANIM)	samotniejszego
 samotniejszy	ADJ;GEN(SG,MASC)	samotniejszego
 samotniejszy	ADJ;ESS(SG,FEM)	samotniejszej
 samotniejszy	ADJ;GEN(SG,FEM)	samotniejszej
 samotniejszy	ADJ;DAT(SG,MASC)	samotniejszemu
-samotniejszy	ADJ;ACC(SG,MASC,INAN)	samotniejszy
-samotniejszy	ADJ;NOM(SG,MASC)	samotniejszy
+samotniejszy	ADJ;ACC(SG,MASC,INAN)	samotniejszego
+samotniejszy	ADJ;NOM(SG,MASC)	samotniejsze
 samotniejszy	ADJ;ESS(PL)	samotniejszych
 samotniejszy	ADJ;ACC(PL,MASC,HUM)	samotniejszych
 samotniejszy	ADJ;INS(SG,MASC)	samotniejszym
@@ -424,11 +424,11 @@ asembler	N;GEN(PL)	asemblerów
 asembler	N;ACC(PL)	asemblery
 asembler	N;NOM(PL)	asemblery
 asembler	N;ESS(SG)	asemblerze
-asembler	N;VOC(SG)	asemblerowi
+asembler	N;VOC(SG)	asembleru
 automat	N;VOC(SG)	automatu
 automat	N;INS(PL)	automatami
 automat	N;NOM(SG)	automat
-automat	N;DAT(SG)	automacie
+automat	N;DAT(SG)	automatowi
 automat	N;ACC(PL)	automaty
 automat	N;NOM(PL)	automaty
 kasztan	N;ESS(PL)	kasztanach
@@ -439,7 +439,7 @@ kasztan	N;ACC(PL)	kasztany
 kasztan	N;NOM(PL)	kasztany
 śródmózgowie	N;ESS(PL)	śródmózgowcach
 śródmózgowie	N;INS(PL)	śródmózgowcami
-śródmózgowie	N;ACC(PL)	śródmózgowie
+śródmózgowie	N;ACC(PL)	śródmózgowce
 śródmózgowie	N;ACC(SG)	śródmózgowie
 śródmózgowie	N;NOM(SG)	śródmózgowie
 śródmózgowie	N;GEN(PL)	śródmózgowców
@@ -456,8 +456,8 @@ lisię	N;INS(PL)	lisięmi
 lisię	N;NOM(PL)	lisię
 lisię	N;VOC(PL)	lisiony
 lisię	N;DAT(PL)	lisiom
-grań	N;ESS(PL)	grańach
-grań	N;INS(SG)	grańem
+grań	N;ESS(PL)	granach
+grań	N;INS(SG)	graną
 grań	N;ACC(PL)	granie
 grań	N;VOC(PL)	granie
 grań	N;GEN(SG)	grania
@@ -470,11 +470,11 @@ bas	N;NOM(SG)	bas
 bas	N;VOC(PL)	basy
 woskowina	N;INS(SG)	woskowiną
 woskowina	N;NOM(SG)	woskowina
-woskowina	N;VOC(SG)	woskowino
-zadać	V;FUT;3;PL	będziesz zadały
+woskowina	N;VOC(SG)	woskowinie
+zadać	V;FUT;3;PL	będzie zadały
 sinologia	N;NOM(SG)	sinologia
 sinologia	N;ACC(SG)	sinologię
-sinologia	N;DAT(SG)	sinologii
+sinologia	N;DAT(SG)	sinologiowi
 sinologia	N;ESS(SG)	sinologii
 sinologia	N;GEN(SG)	sinologii
 sinologia	N;VOC(SG)	sinologio
@@ -484,7 +484,7 @@ kur	N;DAT(PL)	kurom
 kur	N;DAT(SG)	kurowi
 kur	N;GEN(PL)	kurów
 kur	N;ESS(SG)	kurze
-kur	N;VOC(SG)	kurowi
+kur	N;VOC(SG)	kuru
 przysięga	N;ESS(PL)	przysięgach
 przysięga	N;INS(PL)	przysięgami
 przysięga	N;NOM(SG)	przysięga
@@ -501,53 +501,53 @@ elektrownia	N;INS(PL)	elektrowniami
 elektrownia	N;ACC(PL)	elektrownie
 elektrownia	N;NOM(PL)	elektrownie
 elektrownia	N;VOC(PL)	elektrownie
-elektrownia	N;ESS(SG)	elektrowniu
+elektrownia	N;ESS(SG)	elektrownie
 elektrownia	N;GEN(PL)	elektrowni
 elektrownia	N;DAT(PL)	elektrowniom
 fotograf	N;ESS(PL)	fotografach
 fotograf	N;INS(PL)	fotografami
 fotograf	N;INS(SG)	fotografem
-fotograf	N;VOC(SG)	fotografie
+fotograf	N;VOC(SG)	fotografu
 fotograf	N;NOM(SG)	fotograf
 fotograf	N;ACC(PL)	fotografy
 machać	V;FUT;3;PL	będzie machały
-machać	V;FUT;1;SG;FEM	będzie machała
-machać	V;FUT;1;SG;MASC	będzie machał
-machać	V;FUT;2;PL;MASC;HUM	będą machali
+machać	V;FUT;1;SG;FEM	będziesz machała
+machać	V;FUT;1;SG;MASC	będziesz machał
+machać	V;FUT;2;PL;MASC;HUM	będziecie machali
 machać	V;FUT;3;SG;FEM	będzie machała
 machać	V;FUT;3;SG;NEUT	będzie machało
 machać	V;FUT;3;SG;MASC	będzie machał
-machać	V;FUT;1;PL;MASC;HUM	będą machali
-machać	V;FUT;1;PL	będziemy machali
-machać	V;FUT;2;SG;FEM	będzie machała
-machać	V;FUT;2;SG;MASC	będzie machał
-machać	V.PTCP;PST;ACT;PL;MASC;HUM	machalibyśmy
-machać	V.PTCP;PST;ACT;SG;MASC	machane
-machać	V;IMP;2;PL	będziemy machali
-machać	V;IMP;1;PL	niech machajmy
-machać	V;COND;3;SG;FEM	machałabym
+machać	V;FUT;1;PL;MASC;HUM	będziemy machali
+machać	V;FUT;1;PL	będziemy machały
+machać	V;FUT;2;SG;FEM	będziesz machała
+machać	V;FUT;2;SG;MASC	będziesz machał
+machać	V.PTCP;PST;ACT;PL;MASC;HUM	machający
+machać	V.PTCP;PST;ACT;SG;MASC	machano
+machać	V;IMP;2;PL	będziecie machali
+machać	V;IMP;1;PL	będziemy machali
+machać	V;COND;3;SG;FEM	machałaby
 machać	V;PST;1;SG;FEM	machałam
 machać	V;PST;2;SG;FEM	machałaś
 machać	V;PST;3;SG;FEM	machała
 machać	V;COND;1;SG;MASC	machałbym
-machać	V;COND;3;SG;MASC	machałbyś
+machać	V;COND;3;SG;MASC	machałby
 machać	V;PST;1;SG;MASC	machałem
 machać	V;COND;2;PL;MASC;HUM	machalibyście
 machać	V;COND;1;PL;MASC;HUM	machalibyśmy
 machać	V;PST;1;PL;MASC;HUM	machaliśmy
-machać	V;COND;3;SG;NEUT	machałbyś
+machać	V;COND;3;SG;NEUT	machałby
 machać	V;COND;1;PL	machałybyśmy
-machać	V;COND;3;PL	machałybyście
+machać	V;COND;3;PL	machałyby
 machać	V;PST;2;PL	machałyście
 machać	V;PST;1;PL	machałyśmy
-machać	V;PST;3;PL	machałyście
-machać	V;PRS;1;SG	machał
-machać	V.PTCP;PST;PASS;PL	machające
+machać	V;PST;3;PL	machały
+machać	V;PRS;1;SG	machało
+machać	V.PTCP;PST;PASS;PL	machane
 machać	V.MSDR	machanie
-machać	V.PTCP;PST;PASS;PL;MASC;HUM	machalibyśmy
-machać	V.PTCP;PST;PASS	machane
-machać	V;PRS;2;SG	machał
-machać	V;IMP;3;SG	będziesz machał
+machać	V.PTCP;PST;PASS;PL;MASC;HUM	machający
+machać	V.PTCP;PST;PASS	machano
+machać	V;PRS;2;SG	machało
+machać	V;IMP;3;SG	będzie machał
 jonosfera	N;ESS(PL)	jonosferach
 jonosfera	N;NOM(SG)	jonosfera
 jonosfera	N;DAT(PL)	jonosferom
@@ -556,47 +556,47 @@ jonosfera	N;NOM(PL)	jonosfery
 jonosfera	N;VOC(PL)	jonosfery
 jonosfera	N;ESS(SG)	jonosferze
 lód	N;ESS(PL)	lódach
-lód	N;INS(SG)	lódem
+lód	N;INS(SG)	lodem
 lód	N;ACC(SG)	lód
-lód	N;DAT(PL)	lódom
-lód	N;DAT(SG)	lodowi
+lód	N;DAT(PL)	lodom
+lód	N;DAT(SG)	lodzie
 lód	N;GEN(PL)	lódów
 lód	N;ESS(SG)	lodzie
-siąknąć	V;FUT;3;PL	będziemy siąknęły
-siąknąć	V;FUT;3;PL;MASC;HUM	będziemy siąknęli
+siąknąć	V;FUT;3;PL	będzie siąknęły
+siąknąć	V;FUT;3;PL;MASC;HUM	będziecie siąknęli
 siąknąć	V;FUT;1;PL;MASC;HUM	będziemy siąknęli
 siąknąć	V;FUT;3;SG;FEM	będzie siąknęła
 siąknąć	V;FUT;3;SG;NEUT	będzie siąknęło
-siąknąć	V;FUT;3;SG;MASC	będzie siąknął
-siąknąć	V;FUT;2;SG;FEM	będzie siąknęła
-siąknąć	V;FUT;2;SG;MASC	będzie siąknął
+siąknąć	V;FUT;3;SG;MASC	będzie siąknęło
+siąknąć	V;FUT;2;SG;FEM	będziesz siąknęła
+siąknąć	V;FUT;2;SG;MASC	będziesz siąknęł
 siąknąć	V;IMP;3;PL	będziemy siąknęli
 siąknąć	V;IMP;3;SG	będzie siąknęło
 siąknąć	V.PTCP;PST;ACT;SG;FEM	siąknęłabym
 siąknąć	V.PTCP;PST;ACT;PL	siąknące
 siąknąć	V.PTCP;PST;ACT;SG;NEUT	siąknące
-siąknąć	V.PTCP;PST;ACT;SG;MASC	siąknące
+siąknąć	V.PTCP;PST;ACT;SG;MASC	siąknęłybyśmy
 siąknąć	V;COND;2;SG;FEM	siąknęłabyś
-siąknąć	V;COND;3;SG;FEM	siąknęłabyś
+siąknąć	V;COND;3;SG;FEM	siąknęłaby
 siąknąć	V;PST;3;SG;FEM	siąknęła
 siąknąć	V;COND;2;SG;MASC	siąknęłbyś
 siąknąć	V;PST;2;SG;MASC	siąknęło
 siąknąć	V;COND;2;PL	siąknęłybyście
 siąknąć	V;COND;1;PL	siąknęłybyśmy
-siąknąć	V;COND;3;PL	siąknęłybyście
+siąknąć	V;COND;3;PL	siąknęłyby
 siąknąć	V;PST;1;PL	siąknęłyśmy
-siąknąć	V;PRS;3;PL	siąkną
+siąknąć	V;PRS;3;PL	siąknę
 siąknąć	V;COND;2;PL;MASC;HUM	siąknąlibyście
 siąknąć	V;COND;1;PL;MASC;HUM	siąknąlibyśmy
 siąknąć	V;PST;2;PL;MASC;HUM	siąknąliście
 siąknąć	V;PST;1;PL;MASC;HUM	siąknąliśmy
 siąknąć	V;PRS;1;SG	siąknęło
-siąknąć	V;PRS;1;PL	siąkną
+siąknąć	V;PRS;1;PL	siąknęłyśmy
 siąknąć	V;PRS;2;SG	siąknęło
 siąknąć	V;PRS;3;SG	siąknęło
-siąknąć	V;IMP;2;PL	niech siąkną
-siąknąć	V;IMP;1;PL	niech siąkną
-siąknąć	V;IMP;2;SG	będzie siąknęło
+siąknąć	V;IMP;2;PL	będziecie siąknęli
+siąknąć	V;IMP;1;PL	będziemy siąknęli
+siąknąć	V;IMP;2;SG	będziecie siąknęło
 najdzikszy	ADJ;INS(SG,FEM)	najdzikszą
 najdzikszy	ADJ;NOM(SG,FEM)	najdziksza
 najdzikszy	ADJ;ACC(SG,NEUT)	najdziksze
@@ -606,14 +606,14 @@ najdzikszy	ADJ;DAT(SG,FEM)	najdzikszej
 najdzikszy	ADJ;ESS(SG,FEM)	najdzikszej
 najdzikszy	ADJ;GEN(SG,FEM)	najdzikszej
 najdzikszy	ADJ;DAT(SG,NEUT)	najdzikszemu
-najdzikszy	ADJ;ACC(SG,MASC,INAN)	najdzikszy
-najdzikszy	ADJ;NOM(SG,MASC)	najdzikszy
+najdzikszy	ADJ;ACC(SG,MASC,INAN)	najdzikszego
+najdzikszy	ADJ;NOM(SG,MASC)	najdziksze
 najdzikszy	ADJ;ESS(PL)	najdzikszych
 najdzikszy	ADJ;GEN(PL)	najdzikszych
 najdzikszy	ADJ;INS(SG,MASC)	najdzikszym
 peron	N;ESS(PL)	peronach
 peron	N;INS(SG)	peronem
-peron	N;VOC(SG)	peronie
+peron	N;VOC(SG)	peronu
 peron	N;DAT(PL)	peronom
 peron	N;GEN(PL)	peronów
 peron	N;VOC(PL)	perony
@@ -628,11 +628,11 @@ najlżejszy	ADJ;NOM(SG,FEM)	najlżejsza
 najlżejszy	ADJ;ACC(PL)	najlżejsze
 najlżejszy	ADJ;ACC(SG,NEUT)	najlżejsze
 najlżejszy	ADJ;NOM(SG,NEUT)	najlżejsze
-najlżejszy	ADJ;ACC(SG,MASC,ANIM)	najlżejszy
+najlżejszy	ADJ;ACC(SG,MASC,ANIM)	najlżejszego
 najlżejszy	ADJ;GEN(SG,NEUT)	najlżejszego
 najlżejszy	ADJ;DAT(SG,FEM)	najlżejszej
 najlżejszy	ADJ;DAT(SG,NEUT)	najlżejszemu
-najlżejszy	ADJ;NOM(SG,MASC)	najlżejszy
+najlżejszy	ADJ;NOM(SG,MASC)	najlżejsze
 najlżejszy	ADJ;GEN(PL)	najlżejszych
 najlżejszy	ADJ;ACC(PL,MASC,HUM)	najlżejszych
 najlżejszy	ADJ;INS(SG,NEUT)	najlżejszym
@@ -672,40 +672,40 @@ trwanie	N;ACC(SG)	trwanie
 trwanie	N;NOM(SG)	trwanie
 trwanie	N;DAT(SG)	trwaniu
 trwanie	N;ESS(SG)	trwaniu
-mrzeć	V;FUT;1;SG;FEM	będzie mrzeła
-mrzeć	V;FUT;2;PL;MASC;HUM	będą mrzeli
-mrzeć	V;FUT;2;PL	będziemy mrzeli
+mrzeć	V;FUT;1;SG;FEM	będziesz mrzeła
+mrzeć	V;FUT;2;PL;MASC;HUM	będziecie mrzeli
+mrzeć	V;FUT;2;PL	będziecie mrzały
 mrzeć	V;FUT;3;SG;FEM	będzie mrzeła
 mrzeć	V;FUT;3;SG;NEUT	będzie mrzeło
 mrzeć	V;FUT;3;SG;MASC	będzie mrzeł
-mrzeć	V;FUT;1;PL;MASC;HUM	będą mrzeli
+mrzeć	V;FUT;1;PL;MASC;HUM	będziemy mrzeli
 mrzeć	V.MSDR	mrzenie
 mrzeć	V;COND;2;SG;FEM	mrzełabyś
 mrzeć	V;PST;1;SG;FEM	mrzełam
 mrzeć	V;PST;2;SG;FEM	mrzełaś
 mrzeć	V;PST;3;SG;FEM	mrzeła
 mrzeć	V;COND;2;SG;MASC	mrzełbyś
-mrzeć	V;COND;3;SG;MASC	mrzełbyś
+mrzeć	V;COND;3;SG;MASC	mrzełby
 mrzeć	V;PST;2;SG;MASC	mrzełeś
 mrzeć	V;COND;2;PL;MASC;HUM	mrzelibyście
 mrzeć	V;COND;1;PL;MASC;HUM	mrzelibyśmy
 mrzeć	V;PST;3;SG;MASC	mrzeł
-mrzeć	V;COND;3;PL	mrzełybyście
+mrzeć	V;COND;3;PL	mrzełyby
 mrzeć	V;PST;1;PL	mrzełyśmy
-mrzeć	V;PST;3;PL	mrzełyście
+mrzeć	V;PST;3;PL	mrzeły
 mrzeć	V.PTCP;PST;ACT;PL	mrzenie
 mrzeć	V.PTCP;PST;ACT;SG;NEUT	mrzenie
 mrzeć	V.CVB	mrzenie
 mrzeć	V.PTCP;PST;ACT;PL;MASC;HUM	mrzelibyście
 mrzeć	V.PTCP;PST;ACT;SG;MASC	mrzenie
-mrzeć	V;PRS;2;PL	mrzyłyście
-mrzeć	V;NFIN	mrzeł
+mrzeć	V;PRS;2;PL	mrzełyście
+mrzeć	V;NFIN	mrzenie
 mrzeć	V;PRS;1;PL	mrzeliśmy
-mrzeć	V;PRS;3;SG	mrzeł
-mrzeć	V;IMP;2;PL	będziemy mrzeli
+mrzeć	V;PRS;3;SG	będzie mrzeł
+mrzeć	V;IMP;2;PL	będziecie mrzeli
 mrzeć	V;IMP;2;SG	będziesz mrzeł
-mrzeć	V;IMP;3;PL	będziemy mrzeli
-mrzeć	V;IMP;3;SG	będziesz mrzeł
+mrzeć	V;IMP;3;PL	będziecie mrzeli
+mrzeć	V;IMP;3;SG	będzie mrzeł
 oczopląs	N;ESS(PL)	oczopląsach
 oczopląs	N;ACC(SG)	oczopląs
 oczopląs	N;DAT(SG)	oczopląsowi
@@ -714,7 +714,7 @@ przewodniczący	N;GEN(SG)	przewodniczącego
 przewodniczący	N;ACC(PL)	przewodniczące
 przewodniczący	N;GEN(PL)	przewodniczących
 przewodniczący	N;DAT(PL)	przewodniczącym
-przewodniczący	N;NOM(SG)	przewodniczące
+przewodniczący	N;NOM(SG)	przewodnicząca
 przewodniczący	N;VOC(PL)	przewodniczące
 mięczak	N;ESS(PL)	mięczakach
 mięczak	N;INS(PL)	mięczakami
@@ -738,14 +738,14 @@ nieodpowiedzialny	ADJ;ACC(SG,MASC,HUM)	nieodpowiedzialnego
 nieodpowiedzialny	ADJ;DAT(SG,MASC)	nieodpowiedzialnemu
 nieodpowiedzialny	ADJ;DAT(SG,NEUT)	nieodpowiedzialnemu
 nieodpowiedzialny	ADJ;NOM(PL,MASC,HUM)	nieodpowiedzialni
-nieodpowiedzialny	ADJ;NOM(SG,MASC)	nieodpowiedzialny
+nieodpowiedzialny	ADJ;NOM(SG,MASC)	nieodpowiedzialne
 nieodpowiedzialny	ADJ;ACC(PL,MASC,HUM)	nieodpowiedzialnych
 nieodpowiedzialny	ADJ;ESS(SG,NEUT)	nieodpowiedzialnym
 nieodpowiedzialny	ADJ;INS(SG,NEUT)	nieodpowiedzialnym
 nieodpowiedzialny	ADJ;INS(PL)	nieodpowiedzialnymi
-szal	N;ESS(SG)	szalu
+szal	N;ESS(SG)	szali
 cyrk	N;INS(PL)	cyrkami
-cyrk	N;INS(SG)	cyrkem
+cyrk	N;INS(SG)	cyrkiem
 cyrk	N;VOC(PL)	cyrki
 cyrk	N;ACC(SG)	cyrk
 cyrk	N;NOM(SG)	cyrk
@@ -753,12 +753,12 @@ cyrk	N;GEN(PL)	cyrków
 cyrk	N;ESS(SG)	cyrku
 cyrk	N;GEN(SG)	cyrka
 cyrk	N;VOC(SG)	cyrku
-najjaśniejszy	ADJ;NOM(PL,MASC,HUM)	najjaśniejsi
+najjaśniejszy	ADJ;NOM(PL,MASC,HUM)	najjaśniejszy
 najjaśniejszy	ADJ;ACC(SG,FEM)	najjaśniejszą
 najjaśniejszy	ADJ;NOM(SG,FEM)	najjaśniejsza
 najjaśniejszy	ADJ;ACC(PL)	najjaśniejsze
 najjaśniejszy	ADJ;NOM(PL)	najjaśniejsze
-najjaśniejszy	ADJ;ACC(SG,MASC,ANIM)	najjaśniejszy
+najjaśniejszy	ADJ;ACC(SG,MASC,ANIM)	najjaśniejszego
 najjaśniejszy	ADJ;ESS(SG,FEM)	najjaśniejszej
 najjaśniejszy	ADJ;GEN(SG,FEM)	najjaśniejszej
 najjaśniejszy	ADJ;ESS(PL)	najjaśniejszych
@@ -766,7 +766,7 @@ najjaśniejszy	ADJ;GEN(PL)	najjaśniejszych
 najjaśniejszy	ADJ;ACC(PL,MASC,HUM)	najjaśniejszych
 najjaśniejszy	ADJ;ESS(SG,MASC)	najjaśniejszym
 najjaśniejszy	ADJ;INS(SG,MASC)	najjaśniejszym
-żeneta	N;DAT(SG)	żenecie
+żeneta	N;DAT(SG)	żeneciowi
 żeneta	N;INS(PL)	żenetami
 żeneta	N;INS(SG)	żenetą
 żeneta	N;NOM(SG)	żeneta
@@ -779,8 +779,8 @@ najjaśniejszy	ADJ;INS(SG,MASC)	najjaśniejszym
 waść	N;ESS(PL)	waściach
 waść	N;INS(PL)	waściami
 waść	N;ACC(PL)	waści
-waść	N;ESS(SG)	waściu
-waść	N;GEN(SG)	waścia
+waść	N;ESS(SG)	waści
+waść	N;GEN(SG)	waść
 waść	N;VOC(PL)	waście
 waść	N;VOC(SG)	waść
 waść	N;NOM(SG)	waść
@@ -816,12 +816,12 @@ manicure	N;NOM(PL)	manicury
 manicure	N;VOC(PL)	manicury
 manicure	N;ESS(SG)	manicurze
 sefardyjski	ADJ;NOM(PL,MASC,HUM)	sefardyjscy
-sefardyjski	ADJ;ACC(SG,MASC,INAN)	sefardyjski
+sefardyjski	ADJ;ACC(SG,MASC,INAN)	sefardyjskiego
 sefardyjski	ADJ;ACC(PL,MASC,HUM)	sefardyjskich
 sefardyjski	ADJ;ACC(PL)	sefardyjskie
 sefardyjski	ADJ;ACC(SG,MASC,ANIM)	sefardyjskiego
 sefardyjski	ADJ;GEN(SG,MASC)	sefardyjskiego
-sefardyjski	ADJ;ESS(SG,FEM)	sefardyjskiej
+sefardyjski	ADJ;ESS(SG,FEM)	sefardyjską
 sefardyjski	ADJ;GEN(SG,FEM)	sefardyjską
 sefardyjski	ADJ;DAT(SG,NEUT)	sefardyjskiemu
 sefardyjski	ADJ;INS(SG,MASC)	sefardyjskim
@@ -838,19 +838,19 @@ szynka	N;DAT(PL)	szynkom
 szynka	N;VOC(SG)	szynko
 częstokół	N;ESS(PL)	częstokołach
 częstokół	N;INS(PL)	częstokołami
-częstokół	N;ESS(SG)	częstokolu
-częstokół	N;ACC(SG)	częstokoł
+częstokół	N;ESS(SG)	częstokołu
+częstokół	N;ACC(SG)	częstokół
 tul	N;INS(SG)	tulem
 tul	N;NOM(SG)	tul
 tul	N;DAT(SG)	tulowi
-tul	N;ESS(SG)	tulie
+tul	N;ESS(SG)	tuli
 tul	N;VOC(SG)	tulu
 ściana	N;INS(PL)	ścianami
 ściana	N;NOM(SG)	ściana
 ściana	N;ACC(SG)	ścianę
 ściana	N;DAT(PL)	ścianom
 ściana	N;VOC(SG)	ściano
-ściana	N;ACC(PL)	ściane
+ściana	N;ACC(PL)	ściany
 ściana	N;VOC(PL)	ściany
 barachło	N;GEN(PL)	barachłów
 barachło	N;ESS(PL)	barachłach
@@ -901,7 +901,7 @@ ilustracja	N;NOM(PL)	ilustracje
 ilustracja	N;VOC(PL)	ilustracje
 ilustracja	N;GEN(PL)	ilustracji
 ilustracja	N;DAT(PL)	ilustracjom
-ilustracja	N;VOC(SG)	ilustracji
+ilustracja	N;VOC(SG)	ilustrację
 rachunek	N;ACC(SG)	rachunek
 rachunek	N;NOM(SG)	rachunek
 rachunek	N;ESS(PL)	rachunkach
@@ -916,13 +916,13 @@ zimowy	ADJ;INS(SG,FEM)	zimową
 zimowy	ADJ;NOM(SG,FEM)	zimowa
 zimowy	ADJ;ACC(PL)	zimowe
 zimowy	ADJ;ACC(SG,NEUT)	zimowe
-zimowy	ADJ;ACC(SG,MASC,ANIM)	zimowy
+zimowy	ADJ;ACC(SG,MASC,ANIM)	zimowego
 zimowy	ADJ;ACC(SG,MASC,HUM)	zimowego
 zimowy	ADJ;GEN(SG,NEUT)	zimowego
 zimowy	ADJ;ESS(SG,FEM)	zimowej
 zimowy	ADJ;DAT(SG,MASC)	zimowemu
-zimowy	ADJ;ACC(SG,MASC,INAN)	zimowy
-zimowy	ADJ;NOM(SG,MASC)	zimowy
+zimowy	ADJ;ACC(SG,MASC,INAN)	zimowego
+zimowy	ADJ;NOM(SG,MASC)	zimowe
 zimowy	ADJ;GEN(PL)	zimowych
 zimowy	ADJ;ACC(PL,MASC,HUM)	zimowych
 zimowy	ADJ;DAT(PL)	zimowym
@@ -950,8 +950,8 @@ miara	N;DAT(SG)	miarze
 dzieża	N;ESS(PL)	dzieżach
 dzieża	N;INS(PL)	dzieżami
 dzieża	N;INS(SG)	dzieżą
-dzieża	N;NOM(PL)	dzieże
-dzieża	N;VOC(PL)	dzieży
+dzieża	N;NOM(PL)	dzieży
+dzieża	N;VOC(PL)	dzieże
 dzieża	N;DAT(PL)	dzieżom
 dzieża	N;VOC(SG)	dzieżo
 dzieża	N;ESS(SG)	dzieżie
@@ -968,16 +968,16 @@ korona	N;NOM(SG)	korona
 korona	N;ACC(SG)	koronę
 korona	N;ESS(SG)	koronie
 korona	N;DAT(PL)	koronom
-korona	N;VOC(SG)	koronie
+korona	N;VOC(SG)	korono
 korona	N;ACC(PL)	korony
 korona	N;GEN(SG)	korony
 korona	N;VOC(PL)	korony
 lipiec	N;GEN(SG)	lipieca
 lipiec	N;ACC(PL)	lipiece
 lipiec	N;NOM(PL)	lipiece
-lipiec	N;VOC(PL)	lipiecy
+lipiec	N;VOC(PL)	lipiece
 lipiec	N;DAT(PL)	lipcom
-lipiec	N;GEN(PL)	lipieców
+lipiec	N;GEN(PL)	lipców
 lipiec	N;ACC(SG)	lipiec
 lipiec	N;NOM(SG)	lipiec
 zupa	N;INS(PL)	zupami
@@ -993,9 +993,9 @@ miot	N;ESS(PL)	miotach
 miot	N;INS(PL)	miotami
 miot	N;ACC(SG)	miot
 miot	N;DAT(PL)	miotom
-miot	N;DAT(SG)	miocie
+miot	N;DAT(SG)	miotowi
 miot	N;GEN(SG)	miotu
 miot	N;ACC(PL)	mioty
 miot	N;NOM(PL)	mioty
 miot	N;VOC(PL)	mioty
-accuracy:0.718
+accuracy:0.741
