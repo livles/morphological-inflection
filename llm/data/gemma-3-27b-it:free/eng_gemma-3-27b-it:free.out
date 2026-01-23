@@ -1,0 +1,41 @@
+Arabize	V;PRS;NOM(3,SG)	Arabizes
+Arabize	V;V.PTCP;PRS	, if you are an expert documentary linguist specializing in morphological inflection in English, you would know that “Arabize” is not a standard English lemma, and the feature combination `V;V.PTCP;PRS` is unusual and likely reflects a misunderstanding or a highly theoretical application of UniMorph. However, I will attempt to provide the *most plausible* inflection based on the provided information, interpreting it as a request for a present participle form of the verb "Arabize".
+
+Here's the breakdown of the features as I understand them in the context of English:
+
+*   **V:**  Verb (base form is assumed to be the input lemma)
+*   **V.PTCP:** Present Participle (the -ing form, functioning as a verb)
+*   **PRS:** Present Tense (reinforces the present aspect of the participle)
+
+Given this, the inflected form is:
+
+**Arabizing**
+
+
+
+**Important Considerations & Why this is a tricky request:**
+
+*   **Non-Native Lemma:** "Arabize" is a relatively rare verb, borrowed from other languages. Its inflection pattern isn't as deeply ingrained as with core English verbs.
+*   **Redundancy/Interpretation:** The `PRS` feature alongside `V.PTCP` is somewhat redundant in English. The present participle *inherently* carries present tense aspect when used in progressive constructions (e.g., "is Arabizing").  It's possible the request intends something more nuanced, but without further context, this is the most direct interpretation.
+*   **UniMorph & English:** UniMorph is designed to be cross-linguistic. Applying it rigidly to English, which has a relatively simple inflectional morphology, can sometimes lead to over-analysis or feature combinations that don't naturally occur.
+Arabize	V;V.PTCP;PST	f. Arabized
+DL	V;PST	dealt
+DL	V;V.PTCP;PST	dealt
+GI	V;PRS;NOM(3,SG)	gives
+GI	V;V.PTCP;PRS	giving
+GI	V;V.PTCP;PST	giving
+
+
+
+**Explanation:**
+
+* **GI** is the lemma (base form of the verb "give").
+* **V** indicates we are inflecting a verb.
+* **V.PTCP** specifies the past participle form.
+* **PST** further clarifies that the past participle should reflect a past tense action (though typically in perfect constructions, it doesn't *mark* past tense directly).
+
+The past participle of "give" is "given," but when used as part of a gerund ("giving") the -ing form is the correct inflection.
+Godcast	V;PRS;NOM(3,SG)	Godcasts
+Godcast	V;V.PTCP;PRS	fost
+Godcast	V;V.PTCP;PST	Godcasted
+IRC	V;NFIN	ircling

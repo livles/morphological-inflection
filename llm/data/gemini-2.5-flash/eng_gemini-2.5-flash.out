@@ -1,34 +1,34 @@
 Arabize	V;PRS;NOM(3,SG)	Arabizes
 Arabize	V;V.PTCP;PRS	Arabizing
 Arabize	V;V.PTCP;PST	Arabized
-DL	V;PST	DLed
-DL	V;V.PTCP;PST	DLed
-GI	V;PRS;NOM(3,SG)	GIs
-GI	V;V.PTCP;PRS	giing
-GI	V;V.PTCP;PST	GIED
+DL	V;PST	dealt
+DL	V;V.PTCP;PST	dealt
+GI	V;PRS;NOM(3,SG)	goes
+GI	V;V.PTCP;PRS	giving
+GI	V;V.PTCP;PST	given
 Godcast	V;PRS;NOM(3,SG)	Godcasts
 Godcast	V;V.PTCP;PRS	Godcasting
-Godcast	V;V.PTCP;PST	Godcasted
-IRC	V;NFIN	to IRC
-IRC	V;PRS;NOM(3,SG)	IRCs
-IRC	V;PST	IRCed
+Godcast	V;V.PTCP;PST	godcast
+IRC	V;NFIN	IRCing
+IRC	V;PRS;NOM(3,SG)	is
+IRC	V;PST	IRC'd
 IRC	V;V.PTCP;PST	IRCed
 Muhammadanize	V;NFIN	Muhammadanize
 Muhammadanize	V;PRS;NOM(3,SG)	Muhammadanizes
-Muhammadanize	V;V.PTCP;PST	Muhammadanzied
+Muhammadanize	V;V.PTCP;PST	Muhammadanized
 Salafize	V;PRS;NOM(3,SG)	Salafizes
 Salafize	V;PST	Salafized
-Salafize	V;V.PTCP;PST	salafized
+Salafize	V;V.PTCP;PST	Salafized
 Sufize	V;PRS;NOM(3,SG)	Sufizes
 Sufize	V;V.PTCP;PRS	Sufizing
 Sufize	V;V.PTCP;PST	sufized
-abode	V;NFIN	abide
-abode	V;PRS;NOM(3,SG)	abodes
+abode	V;NFIN	abode
+abode	V;PRS;NOM(3,SG)	abides
 abode	V;V.PTCP;PRS	abiding
 absolve	V;PRS;NOM(3,SG)	absolves
 absolve	V;PST	absolved
 absolve	V;V.PTCP;PRS	absolving
-accept	V;NFIN	to accept
+accept	V;NFIN	accept
 accept	V;PRS;NOM(3,SG)	accepts
 accept	V;V.PTCP;PRS	accepting
 accept	V;V.PTCP;PST	accepted
@@ -42,16 +42,16 @@ acquire	V;PRS;NOM(3,SG)	acquires
 acquire	V;PST	acquired
 acquire	V;V.PTCP;PRS	acquiring
 adhære	V;NFIN	adhere
-adhære	V;PST	adhered
+adhære	V;PST	adhæred
 adhære	V;V.PTCP;PST	adhered
 adipocerate	V;PRS;NOM(3,SG)	adipocerates
 adipocerate	V;PST	adipocerated
 adipocerate	V;V.PTCP;PRS	adipocerating
-affect	V;NFIN	affect
+affect	V;NFIN	to affect
 affect	V;PST	affected
 affect	V;V.PTCP;PRS	affecting
 affect	V;V.PTCP;PST	affected
-affine	V;NFIN	affine
+affine	V;NFIN	affect
 affine	V;PRS;NOM(3,SG)	affines
 affine	V;PST	affined
 anticipate	V;NFIN	anticipate
@@ -62,10 +62,10 @@ assail	V;PRS;NOM(3,SG)	assails
 assail	V;PST	assailed
 assail	V;V.PTCP;PRS	assailing
 assail	V;V.PTCP;PST	assailed
-atsake	V;NFIN	
-atsake	V;PRS;NOM(3,SG)	atsakes
-atsake	V;PST	atsaked
-aumail	V;NFIN	to aumail
+atsake	V;NFIN	atsake
+atsake	V;PRS;NOM(3,SG)	atsakas
+atsake	V;PST	atsaka
+aumail	V;NFIN	aumail
 aumail	V;PRS;NOM(3,SG)	aumails
 aumail	V;V.PTCP;PRS	aumailing
 babify	V;NFIN	babify
@@ -82,15 +82,15 @@ base	V;V.PTCP;PST	based
 bemaul	V;NFIN	bemaul
 bemaul	V;PRS;NOM(3,SG)	bemauls
 bemaul	V;V.PTCP;PRS	bemauling
-bemaul	V;V.PTCP;PST	bemauld
+bemaul	V;V.PTCP;PST	bemaul
 beshape	V;NFIN	beshape
-beshape	V;PRS;NOM(3,SG)	
+beshape	V;PRS;NOM(3,SG)	beshapes
 beshape	V;V.PTCP;PRS	beshaping
 beshape	V;V.PTCP;PST	beshaped
 bespirt	V;NFIN	bespirt
 bespirt	V;PRS;NOM(3,SG)	bespirts
 bespirt	V;V.PTCP;PRS	bespirting
-bespirt	V;V.PTCP;PST	bespirted
+bespirt	V;V.PTCP;PST	bespirt
 bioactivate	V;NFIN	bioactivate
 bioactivate	V;PST	bioactivated
 bioactivate	V;V.PTCP;PRS	bioactivating
@@ -102,10 +102,10 @@ biostimulate	V;NFIN	biostimulate
 biostimulate	V;PRS;NOM(3,SG)	biostimulates
 biostimulate	V;PST	biostimulated
 biostimulate	V;V.PTCP;PRS	biostimulating
-bliken	V;NFIN	bliken
+bliken	V;NFIN	blinken
 bliken	V;PST	blikened
-bliken	V;V.PTCP;PRS	blikening
-bliken	V;V.PTCP;PST	blikened
+bliken	V;V.PTCP;PRS	blinking
+bliken	V;V.PTCP;PST	bliked
 bodysurf	V;NFIN	bodysurf
 bodysurf	V;PST	bodysurfed
 bodysurf	V;V.PTCP;PST	bodysurfed
@@ -113,7 +113,7 @@ brickfilm	V;PRS;NOM(3,SG)	brickfilms
 brickfilm	V;PST	brickfilmed
 brickfilm	V;V.PTCP;PRS	brickfilming
 brickfilm	V;V.PTCP;PST	brickfilmed
-bulletize	V;NFIN	bulletize
+bulletize	V;NFIN	to bulletize
 bulletize	V;PST	bulletized
 bulletize	V;V.PTCP;PRS	bulletizing
 bus	V;NFIN	bus
@@ -125,7 +125,7 @@ chequer	V;PRS;NOM(3,SG)	chequers
 chequer	V;PST	chequered
 chequer	V;V.PTCP;PRS	chequering
 chinwag	V;NFIN	chinwag
-chinwag	V;V.PTCP;PRS	chinwaging
+chinwag	V;V.PTCP;PRS	chinwagging
 chinwag	V;V.PTCP;PST	chinwagged
 chirr	V;NFIN	chirr
 chirr	V;PRS;NOM(3,SG)	chirrs
@@ -146,7 +146,7 @@ comarket	V;PRS;NOM(3,SG)	comarkets
 comarket	V;PST	comarketed
 comarket	V;V.PTCP;PRS	comarketing
 comarket	V;V.PTCP;PST	comarketed
-commiserate	V;NFIN	to commiserate
+commiserate	V;NFIN	commiserate
 commiserate	V;PST	commiserated
 commiserate	V;V.PTCP;PRS	commiserating
 commiserate	V;V.PTCP;PST	commiserated
@@ -159,28 +159,28 @@ congest	V;PRS;NOM(3,SG)	congests
 congest	V;V.PTCP;PST	congested
 conquer	V;PRS;NOM(3,SG)	conquers
 conquer	V;V.PTCP;PRS	conquering
-conversation	V;NFIN	conversation
-conversation	V;PRS;NOM(3,SG)	conversations
-conversation	V;V.PTCP;PRS	conversationing
-conversation	V;V.PTCP;PST	conversationed
+conversation	V;NFIN	conversate
+conversation	V;PRS;NOM(3,SG)	conversational
+conversation	V;V.PTCP;PRS	conversing
+conversation	V;V.PTCP;PST	conversed
 cordon	V;PST	cordoned
 cordon	V;V.PTCP;PRS	cordoning
 cordon	V;V.PTCP;PST	cordoned
 cosponsor	V;NFIN	cosponsor
 cosponsor	V;PRS;NOM(3,SG)	cosponsors
 cosponsor	V;PST	cosponsored
-counterindoctrinate	V;NFIN	to counterindoctrinate
+counterindoctrinate	V;NFIN	counterindoctrinate
 counterindoctrinate	V;V.PTCP;PST	counterindoctrinated
-crescendo	V;NFIN	to crescendo
-crescendo	V;PST	cresced
-crescendo	V;V.PTCP;PRS	crescendoing
+crescendo	V;NFIN	crescendo
+crescendo	V;PST	crescendoed
+crescendo	V;V.PTCP;PRS	crescending
 crescendo	V;V.PTCP;PST	crescendoed
 croggle	V;PRS;NOM(3,SG)	croggles
 croggle	V;PST	croggled
 croggle	V;V.PTCP;PRS	croggling
 declamate	V;PRS;NOM(3,SG)	declamates
 declamate	V;V.PTCP;PRS	declamating
-declamate	V;V.PTCP;PST	declamated
+declamate	V;V.PTCP;PST	declaimed
 decompartmentalize	V;NFIN	decompartmentalize
 decompartmentalize	V;PST	decompartmentalized
 decompartmentalize	V;V.PTCP;PRS	decompartmentalizing
@@ -216,12 +216,12 @@ denuclearize	V;PST	denuclearized
 denuclearize	V;V.PTCP;PST	denuclearized
 deraign	V;NFIN	deraign
 deraign	V;PRS;NOM(3,SG)	deraigns
-deraign	V;PST	deraigned
+deraign	V;PST	deraign
 deraign	V;V.PTCP;PRS	deraigning
-destruct	V;PRS;NOM(3,SG)	destructs
+destruct	V;PRS;NOM(3,SG)	destroys
 destruct	V;PST	destructed
 destruct	V;V.PTCP;PRS	destructing
-detumesce	V;NFIN	to detumesce
+detumesce	V;NFIN	detumesce
 detumesce	V;PRS;NOM(3,SG)	detumesces
 detumesce	V;PST	detumesced
 detumesce	V;V.PTCP;PST	detumesced
@@ -235,18 +235,18 @@ devenustate	V;PST	devenustated
 devenustate	V;V.PTCP;PRS	devenustating
 dewret	V;PRS;NOM(3,SG)	dewrets
 dewret	V;V.PTCP;PRS	dewreting
-dewret	V;V.PTCP;PST	dewreted
+dewret	V;V.PTCP;PST	dewretted
 digiscope	V;PST	digiscoped
 digiscope	V;V.PTCP;PRS	digiscoping
 digiscope	V;V.PTCP;PST	digiscoped
-dishonnour	V;NFIN	dishonnour
+dishonnour	V;NFIN	dishonour
 dishonnour	V;PRS;NOM(3,SG)	dishonnours
-dishonnour	V;V.PTCP;PRS	dishonnouring
-dishonnour	V;V.PTCP;PST	dishonnoured
+dishonnour	V;V.PTCP;PRS	dishonouring
+dishonnour	V;V.PTCP;PST	dishonoured
 dissettle	V;PRS;NOM(3,SG)	dissettles
 dissettle	V;V.PTCP;PRS	dissettling
 dissettle	V;V.PTCP;PST	dissettled
-dissonate	V;NFIN	dissonate
+dissonate	V;NFIN	dissonating
 dissonate	V;V.PTCP;PRS	dissonating
 dissonate	V;V.PTCP;PST	dissonated
 disuse	V;NFIN	disuse
@@ -256,7 +256,7 @@ dodd	V;PRS;NOM(3,SG)	dodds
 dodd	V;PST	dodded
 dodd	V;V.PTCP;PRS	dodding
 dodd	V;V.PTCP;PST	dodded
-douche	V;NFIN	douche
+douche	V;NFIN	To douche
 douche	V;PRS;NOM(3,SG)	douches
 douche	V;PST	douched
 douche	V;V.PTCP;PRS	douching
@@ -267,37 +267,37 @@ dram	V;NFIN	dram
 dram	V;PRS;NOM(3,SG)	drams
 dram	V;PST	drammed
 dram	V;V.PTCP;PRS	dramming
-duress	V;NFIN	duress
+duress	V;NFIN	to duress
 duress	V;PRS;NOM(3,SG)	duresses
 earnest	V;PRS;NOM(3,SG)	earnests
-earnest	V;V.PTCP;PST	earnested
+earnest	V;V.PTCP;PST	earnest
 empassion	V;NFIN	empassion
 empassion	V;PRS;NOM(3,SG)	empassions
 encoach	V;PRS;NOM(3,SG)	encoaches
 encoach	V;PST	encoached
 encoach	V;V.PTCP;PRS	encoaching
 enlace	V;NFIN	enlace
-enlace	V;PRS;NOM(3,SG)	enlaza
-enlace	V;V.PTCP;PRS	enlacing
+enlace	V;PRS;NOM(3,SG)	enlaces
+enlace	V;V.PTCP;PRS	enlace
 enlace	V;V.PTCP;PST	enlaced
 enrank	V;NFIN	enrank
 enring	V;PRS;NOM(3,SG)	enrings
 enring	V;PST	enringed
 enring	V;V.PTCP;PRS	enringing
-ensky	V;NFIN	to ensky
+ensky	V;NFIN	ensky
 ensky	V;PRS;NOM(3,SG)	enskies
 ensky	V;PST	enskied
 ensky	V;V.PTCP;PST	enskied
-enwisen	V;NFIN	enwisen
+enwisen	V;NFIN	to enwisen
 enwisen	V;PRS;NOM(3,SG)	enwisens
-enwisen	V;V.PTCP;PRS	enwisening
+enwisen	V;V.PTCP;PRS	enwising
 exceed	V;NFIN	exceed
 exceed	V;PRS;NOM(3,SG)	exceeds
 exceed	V;V.PTCP;PRS	exceeding
 fainten	V;PRS;NOM(3,SG)	faintens
-fainten	V;PST	faintened
-fainten	V;V.PTCP;PRS	faintening
-fainten	V;V.PTCP;PST	faintened
+fainten	V;PST	faint
+fainten	V;V.PTCP;PRS	fainting
+fainten	V;V.PTCP;PST	fainted
 fanaticize	V;PRS;NOM(3,SG)	fanaticizes
 fanaticize	V;V.PTCP;PRS	fanaticizing
 feel	V;NFIN	feel
@@ -306,20 +306,20 @@ feel	V;V.PTCP;PRS	feeling
 flail	V;PST	flailed
 fluff	V;NFIN	fluff
 fluff	V;V.PTCP;PRS	fluffing
-flutter	V;NFIN	to flutter
+flutter	V;NFIN	flutter
 flutter	V;PRS;NOM(3,SG)	flutters
 flutter	V;PST	fluttered
 flutter	V;V.PTCP;PST	fluttered
 forestal	V;NFIN	forestal
 forestal	V;PRS;NOM(3,SG)	forestals
-forestal	V;PST	forestaled
+forestal	V;PST	forested
 formicate	V;NFIN	formicate
 formicate	V;V.PTCP;PRS	formicating
 formicate	V;V.PTCP;PST	formicated
 forthcast	V;NFIN	forthcast
 forthcast	V;PRS;NOM(3,SG)	forthcasts
 forthcast	V;V.PTCP;PRS	forthcasting
-forthcast	V;V.PTCP;PST	forthcast
+forthcast	V;V.PTCP;PST	forthcasted
 forwrap	V;PRS;NOM(3,SG)	forwraps
 forwrap	V;V.PTCP;PRS	forwrapping
 forwrap	V;V.PTCP;PST	forwrapped
@@ -348,7 +348,7 @@ grammaticize	V;PRS;NOM(3,SG)	grammaticizes
 grammaticize	V;PST	grammaticized
 grammaticize	V;V.PTCP;PRS	grammaticizing
 grammaticize	V;V.PTCP;PST	grammaticized
-grid	V;NFIN	grid
+grid	V;NFIN	grin
 grid	V;PRS;NOM(3,SG)	grids
 grid	V;PST	gridded
 grid	V;V.PTCP;PST	gridded
@@ -373,14 +373,14 @@ heli-ski	V;NFIN	heli-ski
 heli-ski	V;PST	heli-skied
 heli-ski	V;V.PTCP;PRS	heli-skiing
 heli-ski	V;V.PTCP;PST	heli-skied
-hickup	V;PRS;NOM(3,SG)	hickups
-hickup	V;PST	hickupped
-hickup	V;V.PTCP;PST	hickuped
-high-step	V;NFIN	to high-step
+hickup	V;PRS;NOM(3,SG)	hiccups
+hickup	V;PST	hiccuped
+hickup	V;V.PTCP;PST	hiccuped
+high-step	V;NFIN	high-step
 high-step	V;PRS;NOM(3,SG)	high-steps
 high-step	V;PST	high-stepped
 high-step	V;V.PTCP;PST	high-stepped
-hiss	V;NFIN	to hiss
+hiss	V;NFIN	hiss
 hiss	V;PST	hissed
 hiss	V;V.PTCP;PRS	hissing
 hiss	V;V.PTCP;PST	hissed
@@ -389,19 +389,19 @@ hydrolyze	V;PRS;NOM(3,SG)	hydrolyzes
 hydrolyze	V;V.PTCP;PRS	hydrolyzing
 hydrolyze	V;V.PTCP;PST	hydrolyzed
 illure	V;V.PTCP;PRS	illuring
-imboil	V;NFIN	imboil
+imboil	V;NFIN	imbail
 imboil	V;PRS;NOM(3,SG)	imboils
 imboil	V;PST	imboiled
 imboil	V;V.PTCP;PST	imboiled
-imbower	V;NFIN	to imbower
+imbower	V;NFIN	imbower
 imbower	V;PRS;NOM(3,SG)	imbowers
 imbower	V;V.PTCP;PRS	imbowering
 imparl	V;PST	imparled
 imparl	V;V.PTCP;PRS	imparling
-imperialize	V;NFIN	imperialize
+imperialize	V;NFIN	to imperialize
 imperialize	V;PRS;NOM(3,SG)	imperializes
 imperialize	V;V.PTCP;PRS	imperializing
-indorse	V;NFIN	indorse
+indorse	V;NFIN	endorse
 indorse	V;PRS;NOM(3,SG)	indorses
 indorse	V;PST	indorsed
 infeeble	V;PRS;NOM(3,SG)	infeebles
@@ -411,9 +411,9 @@ infumate	V;PRS;NOM(3,SG)	infumates
 infumate	V;PST	infumated
 infumate	V;V.PTCP;PRS	infumating
 inhere	V;NFIN	inhere
-inhere	V;PRS;NOM(3,SG)	inhers
-inhere	V;V.PTCP;PST	inhere
-instrengthen	V;NFIN	to instrengthen
+inhere	V;PRS;NOM(3,SG)	inheres
+inhere	V;V.PTCP;PST	inhered
+instrengthen	V;NFIN	instrengthen
 instrengthen	V;PRS;NOM(3,SG)	instrengthens
 instrengthen	V;PST	instrengthened
 instrengthen	V;V.PTCP;PRS	instrengthening
@@ -452,7 +452,7 @@ lave	V;NFIN	lave
 lave	V;PRS;NOM(3,SG)	laves
 lave	V;PST	laved
 lave	V;V.PTCP;PRS	laving
-lear	V;NFIN	lear
+lear	V;NFIN	learn
 lear	V;V.PTCP;PRS	learning
 legislate	V;NFIN	legislate
 legislate	V;PST	legislated
@@ -462,8 +462,8 @@ livetweet	V;NFIN	livetweet
 livetweet	V;PRS;NOM(3,SG)	livetweets
 livetweet	V;PST	livetweeted
 livetweet	V;V.PTCP;PST	livetweeted
-loun	V;PRS;NOM(3,SG)	louns
-loun	V;PST	
+loun	V;PRS;NOM(3,SG)	lounes
+loun	V;PST	louned
 loun	V;V.PTCP;PRS	louning
 loun	V;V.PTCP;PST	louned
 lush	V;NFIN	lush
@@ -477,7 +477,7 @@ mactate	V;PRS;NOM(3,SG)	mactates
 mactate	V;PST	mactated
 mactate	V;V.PTCP;PRS	mactating
 mactate	V;V.PTCP;PST	mactated
-mand	V;NFIN	to mand
+mand	V;NFIN	mand
 mand	V;PST	manded
 mand	V;V.PTCP;PRS	manding
 mand	V;V.PTCP;PST	manded
@@ -485,7 +485,7 @@ maternalize	V;NFIN	maternalize
 maternalize	V;PRS;NOM(3,SG)	maternalizes
 maternalize	V;V.PTCP;PRS	maternalizing
 maternalize	V;V.PTCP;PST	maternalized
-meach	V;PRS;NOM(3,SG)	meachs
+meach	V;PRS;NOM(3,SG)	meaches
 meach	V;PST	meached
 meach	V;V.PTCP;PRS	meaching
 meach	V;V.PTCP;PST	meached
@@ -493,8 +493,8 @@ mirk	V;NFIN	mirk
 mirk	V;PRS;NOM(3,SG)	mirks
 mirk	V;PST	mirked
 mirk	V;V.PTCP;PRS	mirking
-misken	V;NFIN	to misken
-misken	V;PST	miskened
+misken	V;NFIN	misknow
+misken	V;PST	miskennt
 misken	V;V.PTCP;PRS	miskening
 misstructure	V;NFIN	misstructure
 misstructure	V;PRS;NOM(3,SG)	misstructures
@@ -513,16 +513,16 @@ mounch	V;V.PTCP;PST	mounched
 nasalise	V;NFIN	nasalise
 nasalise	V;PRS;NOM(3,SG)	nasalises
 nasalise	V;PST	nasalised
-nasalise	V;V.PTCP;PST	nasalised
-newname	V;NFIN	to newname
+nasalise	V;V.PTCP;PST	nasalized
+newname	V;NFIN	newname
 newname	V;PRS;NOM(3,SG)	newnames
 newname	V;PST	newnamed
 newname	V;V.PTCP;PST	newnamed
 obdure	V;NFIN	obdure
 obdure	V;PST	obdured
-obdure	V;V.PTCP;PRS	obduring
+obdure	V;V.PTCP;PRS	obdurating
 obdure	V;V.PTCP;PST	obdured
-obsolete	V;NFIN	to obsolete
+obsolete	V;NFIN	obsolete
 obsolete	V;PRS;NOM(3,SG)	obsoletes
 obsolete	V;PST	obsoleted
 obsolete	V;V.PTCP;PRS	obsoleting
@@ -532,7 +532,7 @@ outbud	V;V.PTCP;PRS	outbudding
 outbud	V;V.PTCP;PST	outbudded
 outduel	V;NFIN	outduel
 outduel	V;PRS;NOM(3,SG)	outduels
-outduel	V;V.PTCP;PST	outduelled
+outduel	V;V.PTCP;PST	outdueled
 outgush	V;PRS;NOM(3,SG)	outgushes
 outgush	V;PST	outgushed
 outgush	V;V.PTCP;PRS	outgushing
@@ -541,7 +541,7 @@ outjuggle	V;NFIN	outjuggle
 outjuggle	V;PRS;NOM(3,SG)	outjuggles
 outjuggle	V;PST	outjuggled
 outjuggle	V;V.PTCP;PRS	outjuggling
-outplace	V;NFIN	to outplace
+outplace	V;NFIN	outplace
 outplace	V;PRS;NOM(3,SG)	outplaces
 outplace	V;PST	outplaced
 outplace	V;V.PTCP;PRS	outplacing
@@ -551,8 +551,8 @@ outwin	V;V.PTCP;PST	outwon
 overdot	V;NFIN	overdot
 overdot	V;PST	overdotted
 overdot	V;V.PTCP;PRS	overdotting
-overdot	V;V.PTCP;PST	overdoted
-overexpose	V;NFIN	overexpose
+overdot	V;V.PTCP;PST	overdotted
+overexpose	V;NFIN	to overexpose
 overexpose	V;PST	overexposed
 overexpose	V;V.PTCP;PST	overexposed
 overgloom	V;NFIN	overgloom
@@ -593,9 +593,9 @@ pauperise	V;PRS;NOM(3,SG)	pauperises
 pauperise	V;PST	pauperised
 pauperise	V;V.PTCP;PRS	pauperising
 pauperise	V;V.PTCP;PST	pauperised
-perhorresce	V;PRS;NOM(3,SG)	perhorresce
+perhorresce	V;PRS;NOM(3,SG)	perhorresces
 perhorresce	V;PST	perhorresced
-perhorresce	V;V.PTCP;PRS	perhorreciendo
+perhorresce	V;V.PTCP;PRS	perhorrescing
 perhorresce	V;V.PTCP;PST	perhorresced
 phosphorylate	V;NFIN	phosphorylate
 phosphorylate	V;V.PTCP;PST	phosphorylated
@@ -603,7 +603,7 @@ piggyback	V;PRS;NOM(3,SG)	piggybacks
 piggyback	V;PST	piggybacked
 piggyback	V;V.PTCP;PRS	piggybacking
 piggyback	V;V.PTCP;PST	piggybacked
-politize	V;NFIN	politize
+politize	V;NFIN	to politize
 politize	V;PST	politized
 politize	V;V.PTCP;PST	politized
 polycondense	V;NFIN	polycondense
@@ -619,12 +619,12 @@ pork	V;V.PTCP;PST	porked
 pouch	V;NFIN	pouch
 pouch	V;PST	pouched
 pouch	V;V.PTCP;PRS	pouching
-pouch	V;V.PTCP;PST	pouched
-practicalize	V;NFIN	practicalize
+pouch	V;V.PTCP;PST	pouchen
+practicalize	V;NFIN	to practicalize
 practicalize	V;PRS;NOM(3,SG)	practicalizes
 practicalize	V;PST	practicalized
 practicalize	V;V.PTCP;PRS	practicalizing
-praise	V;NFIN	praise
+praise	V;NFIN	praised
 praise	V;V.PTCP;PST	praised
 predicate	V;NFIN	predicate
 predicate	V;V.PTCP;PRS	predicating
@@ -633,32 +633,32 @@ preprogram	V;PRS;NOM(3,SG)	preprograms
 preprogram	V;V.PTCP;PRS	preprogramming
 preprogram	V;V.PTCP;PST	preprogrammed
 preseed	V;NFIN	preseed
-preseed	V;PRS;NOM(3,SG)	preseeds
+preseed	V;PRS;NOM(3,SG)	preseeda
 preseed	V;PST	preseeded
 preseed	V;V.PTCP;PST	preseeded
 preshow	V;PST	preshowed
 preshow	V;V.PTCP;PRS	preshowing
-preshow	V;V.PTCP;PST	preshowed
+preshow	V;V.PTCP;PST	preshown
 pretest	V;PRS;NOM(3,SG)	pretests
 pretest	V;PST	pretested
 pretest	V;V.PTCP;PRS	pretesting
 pretest	V;V.PTCP;PST	pretested
-proclaime	V;NFIN	proclaim
+proclaime	V;NFIN	proclaimed
 proclaime	V;V.PTCP;PST	proclaimed
 protocol	V;PRS;NOM(3,SG)	protocols
 protocol	V;PST	protocolled
 protocol	V;V.PTCP;PRS	protocoling
-provinciate	V;NFIN	to provinciate
+provinciate	V;NFIN	provinciating
 provinciate	V;PST	provinciated
 provinciate	V;V.PTCP;PRS	provinciating
-provinciate	V;V.PTCP;PST	provinciated
+provinciate	V;V.PTCP;PST	provincialized
 re-dye	V;NFIN	re-dye
-re-dye	V;PST	re-dyed
+re-dye	V;PST	redyed
 re-dye	V;V.PTCP;PRS	re-dyeing
 re-dye	V;V.PTCP;PST	re-dyed
-re-use	V;NFIN	re-use
+re-use	V;NFIN	to re-use
 re-use	V;PRS;NOM(3,SG)	re-uses
-re-use	V;PST	re-used
+re-use	V;PST	reused
 re-use	V;V.PTCP;PRS	re-using
 rearrest	V;NFIN	rearrest
 rearrest	V;V.PTCP;PRS	rearresting
@@ -685,9 +685,9 @@ rehybridize	V;NFIN	rehybridize
 rehybridize	V;PRS;NOM(3,SG)	rehybridizes
 rehybridize	V;PST	rehybridized
 rehybridize	V;V.PTCP;PRS	rehybridizing
-reinsulate	V;NFIN	reinsulate
+reinsulate	V;NFIN	to reinsulate
 reinsulate	V;V.PTCP;PST	reinsulated
-relodge	V;NFIN	to relodge
+relodge	V;NFIN	relodge
 relodge	V;PST	relodged
 relodge	V;V.PTCP;PRS	relodging
 relodge	V;V.PTCP;PST	relodged
@@ -699,18 +699,18 @@ renaturalize	V;NFIN	renaturalize
 renaturalize	V;PRS;NOM(3,SG)	renaturalizes
 renaturalize	V;V.PTCP;PRS	renaturalizing
 renaturalize	V;V.PTCP;PST	renaturalized
-reperuse	V;NFIN	reperuse
+reperuse	V;NFIN	reperused
 reperuse	V;PRS;NOM(3,SG)	reperuses
 reperuse	V;PST	reperused
 reperuse	V;V.PTCP;PST	reperused
 repipe	V;NFIN	repipe
 repipe	V;PRS;NOM(3,SG)	repipes
-repipe	V;V.PTCP;PST	re-piped
-repopularise	V;NFIN	to repopularise
+repipe	V;V.PTCP;PST	repiped
+repopularise	V;NFIN	repopularise
 repopularise	V;PST	repopularised
 repopularise	V;V.PTCP;PRS	repopularising
 repopularise	V;V.PTCP;PST	repopularised
-repot	V;NFIN	to repot
+repot	V;NFIN	repot
 repot	V;PST	repotted
 repot	V;V.PTCP;PRS	repotting
 repot	V;V.PTCP;PST	repotted
@@ -729,9 +729,9 @@ revector	V;NFIN	revector
 revector	V;PRS;NOM(3,SG)	revectors
 revector	V;PST	revectored
 revector	V;V.PTCP;PST	revectored
-rewetten	V;NFIN	rewetten
-rewetten	V;PST	rewettened
-rewetten	V;V.PTCP;PRS	rewettening
+rewetten	V;NFIN	rewet
+rewetten	V;PST	rewet
+rewetten	V;V.PTCP;PRS	rewetting
 rewetten	V;V.PTCP;PST	rewetted
 rigidize	V;NFIN	rigidize
 rigidize	V;PRS;NOM(3,SG)	rigidizes
@@ -741,21 +741,21 @@ roadshow	V;PRS;NOM(3,SG)	roadshows
 roadshow	V;PST	roadshowed
 roadshow	V;V.PTCP;PRS	roadshowing
 roadshow	V;V.PTCP;PST	roadshowed
-romanticise	V;NFIN	romanticise
+romanticise	V;NFIN	romanticize
 romanticise	V;PRS;NOM(3,SG)	romanticises
 romanticise	V;V.PTCP;PRS	romanticising
 romanticise	V;V.PTCP;PST	romanticised
 rong	V;NFIN	rong
 rong	V;PRS;NOM(3,SG)	rongs
-rong	V;V.PTCP;PRS	ronging
-rong	V;V.PTCP;PST	ronged
+rong	V;V.PTCP;PRS	rong
+rong	V;V.PTCP;PST	wronged
 ross	V;NFIN	ross
 ross	V;PRS;NOM(3,SG)	rosses
 ross	V;PST	rossed
 roughen	V;NFIN	roughen
 roughen	V;PRS;NOM(3,SG)	roughens
 roughen	V;V.PTCP;PST	roughened
-roundtrip	V;NFIN	to roundtrip
+roundtrip	V;NFIN	roundtrip
 roundtrip	V;PST	roundtripped
 roundtrip	V;V.PTCP;PRS	roundtripping
 sail	V;PRS;NOM(3,SG)	sails
@@ -779,22 +779,22 @@ season	V;NFIN	season
 season	V;PST	seasoned
 season	V;V.PTCP;PRS	seasoning
 season	V;V.PTCP;PST	seasoned
-seceed	V;PRS;NOM(3,SG)	seceeds
-seceed	V;PST	seceeded
-seceed	V;V.PTCP;PRS	seceeding
-seceed	V;V.PTCP;PST	seceeded
+seceed	V;PRS;NOM(3,SG)	secedes
+seceed	V;PST	seceded
+seceed	V;V.PTCP;PRS	seceding
+seceed	V;V.PTCP;PST	seceded
 sheal	V;NFIN	sheal
 sheal	V;PRS;NOM(3,SG)	sheals
 sheal	V;PST	shealed
 sheal	V;V.PTCP;PST	shealed
-sie	V;NFIN	sie
-sie	V;PST	sied
-sie	V;V.PTCP;PRS	sieing
-sie	V;V.PTCP;PST	sied
+sie	V;NFIN	sieve
+sie	V;PST	saw
+sie	V;V.PTCP;PRS	seeing
+sie	V;V.PTCP;PST	sieved
 slick	V;NFIN	slick
 slick	V;PST	slicked
 slick	V;V.PTCP;PST	slicked
-smirk	V;NFIN	to smirk
+smirk	V;NFIN	smirk
 smirk	V;PRS;NOM(3,SG)	smirks
 smirk	V;V.PTCP;PRS	smirking
 smush	V;NFIN	smush
@@ -816,11 +816,11 @@ staddle	V;NFIN	staddle
 staddle	V;PRS;NOM(3,SG)	staddles
 staddle	V;V.PTCP;PRS	staddling
 starburst	V;PRS;NOM(3,SG)	starbursts
-starburst	V;PST	starbursted
+starburst	V;PST	starburst
 starburst	V;V.PTCP;PRS	starbursting
 stark	V;NFIN	stark
 stark	V;PRS;NOM(3,SG)	starks
-stark	V;PST	starked
+stark	V;PST	stark
 stark	V;V.PTCP;PRS	starking
 sternutate	V;PRS;NOM(3,SG)	sternutates
 sternutate	V;PST	sternutated
@@ -839,15 +839,15 @@ strip-search	V;NFIN	strip-search
 strip-search	V;V.PTCP;PRS	strip-searching
 strip-search	V;V.PTCP;PST	strip-searched
 strow	V;NFIN	strow
-strow	V;PST	strowed
+strow	V;PST	strewed
 strow	V;V.PTCP;PRS	strowing
-strow	V;V.PTCP;PST	strowed
+strow	V;V.PTCP;PST	strewn
 sublime	V;NFIN	sublime
 sublime	V;V.PTCP;PST	sublimed
 subsidise	V;PRS;NOM(3,SG)	subsidises
 subsidise	V;V.PTCP;PRS	subsidising
 subsidise	V;V.PTCP;PST	subsidised
-superordinate	V;NFIN	superordinate
+superordinate	V;NFIN	to superordinate
 superordinate	V;PRS;NOM(3,SG)	superordinates
 superordinate	V;PST	superordinated
 supervene	V;NFIN	supervene
@@ -857,9 +857,9 @@ supervene	V;V.PTCP;PRS	supervening
 survive	V;PRS;NOM(3,SG)	survives
 survive	V;PST	survived
 survive	V;V.PTCP;PRS	surviving
-terp	V;NFIN	terp
+terp	V;NFIN	terping
 terp	V;PST	terped
-terp	V;V.PTCP;PRS	terpping
+terp	V;V.PTCP;PRS	terping
 terp	V;V.PTCP;PST	terped
 thrombose	V;NFIN	thrombose
 thrombose	V;PRS;NOM(3,SG)	thromboses
@@ -874,12 +874,12 @@ tipple	V;V.PTCP;PRS	tippling
 tipple	V;V.PTCP;PST	tippled
 titivate	V;PRS;NOM(3,SG)	titivates
 titivate	V;V.PTCP;PRS	titivating
-titivate	V;V.PTCP;PST	tit{ivated}
+titivate	V;V.PTCP;PST	titivated
 transsexualize	V;PRS;NOM(3,SG)	transsexualizes
 transsexualize	V;PST	transsexualized
 transsexualize	V;V.PTCP;PRS	transsexualizing
 transsexualize	V;V.PTCP;PST	transsexualized
-trench-plough	V;NFIN	to trench‑plough
+trench-plough	V;NFIN	trench-plough
 trench-plough	V;PRS;NOM(3,SG)	trench-ploughs
 trench-plough	V;V.PTCP;PST	trench-ploughed
 trice	V;PRS;NOM(3,SG)	trices
@@ -901,8 +901,8 @@ twist	V;V.PTCP;PST	twisted
 unclamp	V;NFIN	unclamp
 unclamp	V;PRS;NOM(3,SG)	unclamps
 unclamp	V;V.PTCP;PRS	unclamping
-undeceave	V;NFIN	undeceave
-undeceave	V;PST	undeceaved
+undeceave	V;NFIN	undeceive
+undeceave	V;PST	undeceived
 underdose	V;PRS;NOM(3,SG)	underdoses
 underdose	V;V.PTCP;PRS	underdosing
 underdose	V;V.PTCP;PST	underdosed
@@ -932,20 +932,20 @@ unsell	V;V.PTCP;PST	unsold
 unstabilize	V;PRS;NOM(3,SG)	unstabilizes
 upbar	V;NFIN	upbar
 upbar	V;PRS;NOM(3,SG)	upbars
-upbar	V;PST	upbared
-upbar	V;V.PTCP;PST	upbared
+upbar	V;PST	upbarred
+upbar	V;V.PTCP;PST	upbarred
 usher	V;NFIN	usher
 usher	V;PST	ushered
 usher	V;V.PTCP;PRS	ushering
 usher	V;V.PTCP;PST	ushered
-vaccinate	V;NFIN	to vaccinate
+vaccinate	V;NFIN	vaccinate
 vaccinate	V;PST	vaccinated
 vaccinate	V;V.PTCP;PRS	vaccinating
 vaccinate	V;V.PTCP;PST	vaccinated
 vacillate	V;PRS;NOM(3,SG)	vacillates
 vacillate	V;V.PTCP;PRS	vacillating
 vacillate	V;V.PTCP;PST	vacillated
-vell	V;NFIN	to vell
+vell	V;NFIN	velling
 vell	V;PRS;NOM(3,SG)	vells
 vell	V;V.PTCP;PST	velled
 verbigerate	V;NFIN	verbigerate
@@ -965,8 +965,8 @@ wabble	V;PRS;NOM(3,SG)	wabbles
 wabble	V;PST	wabbled
 wabble	V;V.PTCP;PRS	wabbling
 watchdog	V;NFIN	watchdog
-watchdog	V;PST	watchdogged
-watchdog	V;V.PTCP;PST	watchdogged
+watchdog	V;PST	watched
+watchdog	V;V.PTCP;PST	watched
 water	V;NFIN	water
 water	V;PST	watered
 water	V;V.PTCP;PST	watered
@@ -980,7 +980,7 @@ whoot	V;PRS;NOM(3,SG)	whoots
 whoot	V;PST	whooted
 whoot	V;V.PTCP;PRS	whooting
 whoot	V;V.PTCP;PST	whooted
-withsay	V;NFIN	withsay
+withsay	V;NFIN	to withsay
 withsay	V;PRS;NOM(3,SG)	withsays
 withsay	V;V.PTCP;PRS	withsaying
 withsay	V;V.PTCP;PST	withsaid
@@ -998,4 +998,4 @@ yellow	V;PRS;NOM(3,SG)	yellows
 yellow	V;PST	yellowed
 yellow	V;V.PTCP;PRS	yellowing
 yellow	V;V.PTCP;PST	yellowed
-test acc English 0.919
+test acc English 0.883

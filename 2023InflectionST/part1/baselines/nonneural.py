@@ -184,7 +184,9 @@ def main(argv):
             quit()
 
     totalavg, numlang = 0.0, 0
-    for lang in [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d]:
+    langs = [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d and "15" not in d and "20" not in d and "slavic-word-or-family" in d]
+    print(langs)
+    for lang in langs:
         allprules, allsrules = {}, {}
         if not os.path.isfile(path + lang +  ".trn"):
             continue
@@ -227,6 +229,8 @@ def main(argv):
         devlines = [line.strip() for line in open(path + lang + ".dev", "r", encoding='utf8') if line != '\n']
         if TEST:
             devlines = [line.strip() for line in open(path + lang + ".tst", "r", encoding='utf8') if line != '\n']
+            if lang == "slavic-word-or-family":
+                devlines = [line.strip() for line in open(path + "pol-ces-slk-dsb-bel-rus-mkd-csb-family" + ".tst", "r", encoding='utf8') if line != '\n']
         numcorrect = 0
         numguesses = 0
         if OUTPUT:
