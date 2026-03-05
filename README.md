@@ -1,6 +1,6 @@
 # Models
 - `./ByT5`: Experiments with ByT5
-- `./llm`: Zero-Shot prompting with GPT-OSS 120B and Gemini 2.5 Flash
+- `./llm`: Zero-Shot prompting with GPT-OSS-120B and Gemini 2.5 Flash
 
 # Data 
 - `./task-data`: task data in triplet format
