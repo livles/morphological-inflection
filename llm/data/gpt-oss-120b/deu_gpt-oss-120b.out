@@ -1,6 +1,6 @@
 Aikido	N;ACC(SG)	Aikido
-Aikido	N;DAT(SG)	dem Aikido
-Aikido	N;GEN(SG)	des Aikidos
+Aikido	N;DAT(SG)	Aikido
+Aikido	N;GEN(SG)	Aikidos
 Aikido	N;NOM(SG)	Aikido
 Anreise	N;ACC(PL)	Anreisen
 Anreise	N;ACC(SG)	Anreise
@@ -15,14 +15,14 @@ Arsenikesser	N;ACC(SG)	Arsenikesser
 Arsenikesser	N;DAT(PL)	Arsenikessern
 Arsenikesser	N;DAT(SG)	Arsenikesser
 Arsenikesser	N;GEN(PL)	Arsenikesser
-Arsenikesser	N;GEN(SG)	Arsenikers
+Arsenikesser	N;GEN(SG)	Arsenikessers
 Arsenikesser	N;NOM(PL)	Arsenikesser
 Arsenikesser	N;NOM(SG)	Arsenikesser
 Auslassungszeichen	N;ACC(PL)	Auslassungszeichen
 Auslassungszeichen	N;ACC(SG)	Auslassungszeichen
 Auslassungszeichen	N;DAT(PL)	Auslassungszeichen
 Auslassungszeichen	N;DAT(SG)	Auslassungszeichen
-Auslassungszeichen	N;GEN(PL)	der Auslassungszeichen
+Auslassungszeichen	N;GEN(PL)	Auslassungszeichen
 Auslassungszeichen	N;GEN(SG)	Auslassungszeichens
 Auslassungszeichen	N;NOM(PL)	Auslassungszeichen
 Auslassungszeichen	N;NOM(SG)	Auslassungszeichen
@@ -30,478 +30,478 @@ Bergente	N;ACC(PL)	Bergenten
 Bergente	N;ACC(SG)	Bergente
 Bergente	N;DAT(PL)	Bergenten
 Bergente	N;DAT(SG)	Bergente
-Bergente	N;GEN(PL)	Bergenten
-Bergente	N;GEN(SG)	Bergente
+Bergente	N;GEN(PL)	ergenten".Bergenten
+Bergente	N;GEN(SG)	ergente".Bergente
 Bergente	N;NOM(PL)	Bergenten
 Bergente	N;NOM(SG)	Bergente
 Berylliumsalz	N;ACC(PL)	Berylliumsalze
-Berylliumsalz	N;ACC(SG)	Berylliumsalz
-Berylliumsalz	N;DAT(PL)	Berylliumsalzen
-Berylliumsalz	N;DAT(SG)	Berylliumsalz
+Berylliumsalz	N;ACC(SG)	z.Berylliumsalz
+Berylliumsalz	N;DAT(PL)	salzen".Berylliumsalzen
+Berylliumsalz	N;DAT(SG)	
 Berylliumsalz	N;GEN(PL)	Berylliumsalze
 Berylliumsalz	N;GEN(SG)	Berylliumsalzes
-Berylliumsalz	N;NOM(PL)	Berylliumsalze
-Berylliumsalz	N;NOM(SG)	Berylliumsalz
+Berylliumsalz	N;NOM(PL)	".Berylliumsalze
+Berylliumsalz	N;NOM(SG)	salz".Berylliumsalz
 Bettlaken	N;ACC(PL)	Bettlaken
-Bettlaken	N;ACC(SG)	Bettlaken
+Bettlaken	N;ACC(SG)	".Bettlaken
 Bettlaken	N;DAT(PL)	Bettlaken
-Bettlaken	N;DAT(SG)	Bettlaken
+Bettlaken	N;DAT(SG)	dem Bettlaken
 Bettlaken	N;GEN(PL)	Bettlaken
 Bettlaken	N;GEN(SG)	Bettlakens
 Bettlaken	N;NOM(PL)	Bettlaken
 Bettlaken	N;NOM(SG)	Bettlaken
 Bild	N;ACC(PL)	Bilder
-Bild	N;ACC(SG)	Bild
-Bild	N;DAT(PL)	Bildern
+Bild	N;ACC(SG)	Bild".Bild
+Bild	N;DAT(PL)	".Bildern
 Bild	N;DAT(SG)	Bild
 Bild	N;GEN(PL)	Bilder
-Bild	N;GEN(SG)	Bildes
+Bild	N;GEN(SG)	".Bildes
 Bild	N;NOM(PL)	Bilder
-Bild	N;NOM(SG)	Bild
-Brettspiel	N;ACC(PL)	Brettspiele
-Brettspiel	N;ACC(SG)	Brettspiel
-Brettspiel	N;DAT(PL)	Brettspielen
+Bild	N;NOM(SG)	lected form.Bild
+Brettspiel	N;ACC(PL)	spiele.Brettspiele
+Brettspiel	N;ACC(SG)	".Brettspiel
+Brettspiel	N;DAT(PL)	.Brettspielen
 Brettspiel	N;DAT(SG)	Brettspiel
-Brettspiel	N;GEN(PL)	Brettspiele
-Brettspiel	N;GEN(SG)	Brettspiels
+Brettspiel	N;GEN(PL)	.Brettspiele
+Brettspiel	N;GEN(SG)	that.Brettspiels
 Brettspiel	N;NOM(PL)	".Brettspiele
-Brettspiel	N;NOM(SG)	that.Brettspiel
-Bridge	N;ACC(SG)	"Bridge".Bridge
-Bridge	N;DAT(SG)	Bridge".Bridge
-Bridge	N;GEN(SG)	der Bridge
-Bridge	N;NOM(SG)	Brücke
+Brettspiel	N;NOM(SG)	Brettspiel
+Bridge	N;ACC(SG)	Brücke
+Bridge	N;DAT(SG)	Bridge
+Bridge	N;GEN(SG)	Brücke".Brücke
+Bridge	N;NOM(SG)	".Bridge
 Denken	N;ACC(SG)	Denken
-Denken	N;DAT(SG)	dem Denken
-Denken	N;GEN(SG)	Denkens
-Denken	N;NOM(SG)	Denken
-Elfe	N;ACC(PL)	Elfen
-Elfe	N;ACC(SG)	Elfe
+Denken	N;DAT(SG)	Denken
+Denken	N;GEN(SG)	ens".Denkens
+Denken	N;NOM(SG)	.Denken
+Elfe	N;ACC(PL)	Elfen".Elfen
+Elfe	N;ACC(SG)	fe.Elfe
 Elfe	N;DAT(PL)	Elfen
 Elfe	N;DAT(SG)	Elfe
 Elfe	N;GEN(SG)	Elfe
-Elfe	N;NOM(PL)	Elfen
-Elfe	N;NOM(SG)	Elfe
+Elfe	N;NOM(PL)	.Elfen
+Elfe	N;NOM(SG)	Elfe".Elfe
 Ermittler	N;ACC(PL)	Ermittler
 Ermittler	N;ACC(SG)	Ermittler
-Ermittler	N;DAT(PL)	Ermittlern
+Ermittler	N;DAT(PL)	lern".Ermittlern
 Ermittler	N;DAT(SG)	Ermittler
-Ermittler	N;GEN(PL)	Ermittler
-Ermittler	N;GEN(SG)	Ermittlers
+Ermittler	N;GEN(PL)	ler.Ermittler
+Ermittler	N;GEN(SG)	.Ermittlers
 Ermittler	N;NOM(PL)	Ermittler
 Ermittler	N;NOM(SG)	Ermittler
-Fahnenträger	N;ACC(PL)	Fahnenträger
-Fahnenträger	N;ACC(SG)	Fahnenträger
-Fahnenträger	N;DAT(PL)	Fahnenträgern
+Fahnenträger	N;ACC(PL)	".Fahnenträger
+Fahnenträger	N;ACC(SG)	.Fahnenträger
+Fahnenträger	N;DAT(PL)	n".Fahnenträgern
 Fahnenträger	N;DAT(SG)	Fahnenträger
 Fahnenträger	N;GEN(PL)	Fahnenträger
 Fahnenträger	N;GEN(SG)	Fahnenträgers
 Fahnenträger	N;NOM(PL)	Fahnenträger
 Fahnenträger	N;NOM(SG)	Fahnenträger
-Felsen	N;ACC(PL)	Felsen
-Felsen	N;ACC(SG)	Felsen
+Felsen	N;ACC(PL)	".Felsen
+Felsen	N;ACC(SG)	Felsen".Felsen
 Felsen	N;DAT(PL)	Felsen
-Felsen	N;DAT(SG)	Felsen
+Felsen	N;DAT(SG)	Felsen".Felsen
 Felsen	N;GEN(PL)	Felsen
-Felsen	N;GEN(SG)	Felsens
+Felsen	N;GEN(SG)	".Felsens
 Felsen	N;NOM(PL)	Felsen
 Felsen	N;NOM(SG)	Felsen
-Fichtelit	N;ACC(PL)	Fichtelite
+Fichtelit	N;ACC(PL)	".Fichteliten
 Fichtelit	N;ACC(SG)	Fichtelit
 Fichtelit	N;DAT(SG)	Fichtelit
-Fichtelit	N;GEN(PL)	Fichtelite
+Fichtelit	N;GEN(PL)	Fichteliten
 Fichtelit	N;GEN(SG)	Fichtelits
-Fichtelit	N;NOM(PL)	Fichteliten
+Fichtelit	N;NOM(PL)	Fichtelite
 Fichtelit	N;NOM(SG)	Fichtelit
-Fumarole	N;ACC(PL)	Fumarolen
+Fumarole	N;ACC(PL)	".Fumarolen
 Fumarole	N;ACC(SG)	Fumarole
-Fumarole	N;DAT(PL)	Fumarolen
-Fumarole	N;DAT(SG)	Fumarole
-Fumarole	N;GEN(PL)	Fumarolen
-Fumarole	N;GEN(SG)	der Fumarole
+Fumarole	N;DAT(PL)	olen".Fumarolen
+Fumarole	N;DAT(SG)	".Fumarole
+Fumarole	N;GEN(PL)	".Fumarolen
+Fumarole	N;GEN(SG)	Fumarole
 Fumarole	N;NOM(PL)	Fumarolen
 Fumarole	N;NOM(SG)	Fumarole
-Gesäss	N;ACC(PL)	Gesäße
-Gesäss	N;ACC(SG)	Gesäss
-Gesäss	N;DAT(PL)	Gesäßen
-Gesäss	N;DAT(SG)	Gesäss
-Gesäss	N;GEN(PL)	Gesäße
-Gesäss	N;GEN(SG)	Gesäßes
+Gesäss	N;ACC(PL)	ße".Gesäße
+Gesäss	N;ACC(SG)	Gesäß
+Gesäss	N;DAT(PL)	ßen.Gesäßen
+Gesäss	N;DAT(SG)	Gesäß
+Gesäss	N;GEN(PL)	ße".Gesäße
+Gesäss	N;GEN(SG)	Gesässes
 Gesäss	N;NOM(PL)	Gesäße
 Gesäss	N;NOM(SG)	Gesäß
 Hit	N;ACC(PL)	Hits
-Hit	N;ACC(SG)	Hit
-Hit	N;DAT(PL)	Hits
-Hit	N;DAT(SG)	Hit
-Hit	N;GEN(PL)	Hits
-Hit	N;GEN(SG)	Hits
-Hit	N;NOM(PL)	Hits
-Hit	N;NOM(SG)	Hit
-Kakerlak	N;ACC(PL)	Kakerlaken
+Hit	N;ACC(SG)	lected form.den Hit
+Hit	N;DAT(PL)	Hits".Hits
+Hit	N;DAT(SG)	dem Hit.dem Hit
+Hit	N;GEN(PL)	.Hits
+Hit	N;GEN(SG)	lected form.Hits
+Hit	N;NOM(PL)	".Hits
+Hit	N;NOM(SG)	
+Kakerlak	N;ACC(PL)	aken".Kakerlaken
 Kakerlak	N;ACC(SG)	Kakerlak
 Kakerlak	N;DAT(PL)	Kakerlaken
-Kakerlak	N;DAT(SG)	Kakerlak
+Kakerlak	N;DAT(SG)	".Kakerlak
 Kakerlak	N;GEN(PL)	Kakerlaken
-Kakerlak	N;GEN(SG)	Kakerlaks
+Kakerlak	N;GEN(SG)	".Kakerlaks
 Kakerlak	N;NOM(PL)	Kakerlaken
 Kakerlak	N;NOM(SG)	Kakerlak
 Kolumbienralle	N;ACC(PL)	Kolumbienrallen
-Kolumbienralle	N;ACC(SG)	Kolumbienralle
-Kolumbienralle	N;DAT(PL)	Kolumbienrallen
+Kolumbienralle	N;ACC(SG)	le".Kolumbienralle
+Kolumbienralle	N;DAT(PL)	.Kolumbienrallen
 Kolumbienralle	N;DAT(SG)	Kolumbienralle
 Kolumbienralle	N;GEN(PL)	Kolumbienrallen
-Kolumbienralle	N;GEN(SG)	Kolumbienralle
-Kolumbienralle	N;NOM(PL)	Kolumbienrallen
+Kolumbienralle	N;GEN(SG)	le".Kolumbienralle
+Kolumbienralle	N;NOM(PL)	rallen".Kolumbienrallen
 Kolumbienralle	N;NOM(SG)	Kolumbienralle
-Lammfellhandschuh	N;ACC(PL)	Lammfellhandschuhe
+Lammfellhandschuh	N;ACC(PL)	chuhe.Lammfellhandschuhe
 Lammfellhandschuh	N;ACC(SG)	Lammfellhandschuh
 Lammfellhandschuh	N;DAT(PL)	Lammfellhandschuhen
 Lammfellhandschuh	N;DAT(SG)	Lammfellhandschuh
-Lammfellhandschuh	N;GEN(PL)	Lammfellhandschuhe
+Lammfellhandschuh	N;GEN(PL)	".Lammfellhandschuhe
 Lammfellhandschuh	N;GEN(SG)	Lammfellhandschuhs
-Lammfellhandschuh	N;NOM(PL)	Lammfellhandschuhe
+Lammfellhandschuh	N;NOM(PL)	that.Lammfellhandschuhe
 Lammfellhandschuh	N;NOM(SG)	Lammfellhandschuh
 Leichenhalle	N;ACC(PL)	Leichenhallen
 Leichenhalle	N;ACC(SG)	Leichenhalle
 Leichenhalle	N;DAT(PL)	Leichenhallen
 Leichenhalle	N;DAT(SG)	Leichenhalle
-Leichenhalle	N;GEN(PL)	Leichenhallen
-Leichenhalle	N;GEN(SG)	Leichenhalle
-Leichenhalle	N;NOM(PL)	Leichenhallen
+Leichenhalle	N;GEN(PL)	".Leichenhallen
+Leichenhalle	N;GEN(SG)	ichenhalle.Leichenhalle
+Leichenhalle	N;NOM(PL)	.Leichenhallen
 Leichenhalle	N;NOM(SG)	Leichenhalle
 Linguistin	N;ACC(PL)	Linguistinnen
 Linguistin	N;ACC(SG)	Linguistin
-Linguistin	N;DAT(PL)	Linguistinnen
+Linguistin	N;DAT(PL)	istinnen.Linguistinnen
 Linguistin	N;DAT(SG)	Linguistin
-Linguistin	N;GEN(PL)	Linguistinnen
-Linguistin	N;GEN(SG)	Linguistin
-Linguistin	N;NOM(PL)	Linguistinnen
-Linguistin	N;NOM(SG)	Linguistin
-Lonsdaleit	N;ACC(PL)	Lonsdaleite
-Lonsdaleit	N;ACC(SG)	Lonsdaleit
+Linguistin	N;GEN(PL)	istinnen.Linguistinnen
+Linguistin	N;GEN(SG)	".Linguistin
+Linguistin	N;NOM(PL)	.Linguistinnen
+Linguistin	N;NOM(SG)	.Linguistin
+Lonsdaleit	N;ACC(PL)	.Lonsdaleite
+Lonsdaleit	N;ACC(SG)	den Lonsdaleit
 Lonsdaleit	N;DAT(PL)	Lonsdaleiten
-Lonsdaleit	N;DAT(SG)	Lonsdaleit
-Lonsdaleit	N;GEN(PL)	Lonsdaleiten
+Lonsdaleit	N;DAT(SG)	der Lonsdaleit
+Lonsdaleit	N;GEN(PL)	Lonsdaleite
 Lonsdaleit	N;NOM(PL)	Lonsdaleite
-Lonsdaleit	N;NOM(SG)	Lonsdaleit
+Lonsdaleit	N;NOM(SG)	.Lonsdaleit
 Maiskolben	N;ACC(PL)	Maiskolben
-Maiskolben	N;ACC(SG)	Maiskolben
+Maiskolben	N;ACC(SG)	".Maiskolben
 Maiskolben	N;DAT(PL)	Maiskolben
 Maiskolben	N;DAT(SG)	Maiskolben
 Maiskolben	N;GEN(PL)	Maiskolben
 Maiskolben	N;GEN(SG)	Maiskolbens
-Maiskolben	N;NOM(PL)	Maiskolben
+Maiskolben	N;NOM(PL)	kolben".Maiskolben
 Maiskolben	N;NOM(SG)	Maiskolben
 Marokkaner	N;ACC(PL)	Marokkaner
-Marokkaner	N;ACC(SG)	Marokkaner
-Marokkaner	N;DAT(PL)	den Marokkanern
+Marokkaner	N;ACC(SG)	.Marokkaner
+Marokkaner	N;DAT(PL)	".Marokkanern
 Marokkaner	N;DAT(SG)	Marokkaner
 Marokkaner	N;GEN(PL)	Marokkaner
-Marokkaner	N;GEN(SG)	Marokkaners
-Marokkaner	N;NOM(PL)	Marokkaner
-Marokkaner	N;NOM(SG)	Marokkaner
+Marokkaner	N;GEN(SG)	ers".Marokkaners
+Marokkaner	N;NOM(PL)	".Marokkaner
+Marokkaner	N;NOM(SG)	.Marokkaner
 Milchkuh	N;ACC(PL)	Milchkühe
-Milchkuh	N;ACC(SG)	Milchkuh
+Milchkuh	N;ACC(SG)	h".Milchkuh
 Milchkuh	N;DAT(PL)	Milchkühen
 Milchkuh	N;DAT(SG)	Milchkuh
-Milchkuh	N;GEN(PL)	Milchkühe
-Milchkuh	N;GEN(SG)	Milchkuh
+Milchkuh	N;GEN(PL)	.Milchkühe
+Milchkuh	N;GEN(SG)	".Milchkuh
 Milchkuh	N;NOM(PL)	Milchkühe
 Milchkuh	N;NOM(SG)	Milchkuh
 Nudelholz	N;ACC(PL)	Nudelholze
 Nudelholz	N;ACC(SG)	Nudelholz
-Nudelholz	N;DAT(PL)	Nudelhölzern
-Nudelholz	N;DAT(SG)	Nudelholz
-Nudelholz	N;GEN(PL)	Nudelhölzer
-Nudelholz	N;GEN(SG)	Nudelholzes
-Nudelholz	N;NOM(PL)	Nudelhölzer
+Nudelholz	N;DAT(PL)	ern.Nudelhölzern
+Nudelholz	N;DAT(SG)	.Nudelholz
+Nudelholz	N;GEN(PL)	".Nudelhölzer
+Nudelholz	N;GEN(SG)	.Nudelholzes
+Nudelholz	N;NOM(PL)	zer".Nudelhölzer
 Nudelholz	N;NOM(SG)	Nudelholz
-Omnipotenz	N;ACC(SG)	Omnipotenz
-Omnipotenz	N;DAT(SG)	Omnipotenz
-Omnipotenz	N;GEN(SG)	Omnipotenz
-Omnipotenz	N;NOM(SG)	Omnipotenz
+Omnipotenz	N;ACC(SG)	enz".Omnipotenz
+Omnipotenz	N;DAT(SG)	enz".Omnipotenz
+Omnipotenz	N;GEN(SG)	enz".Omnipotenz
+Omnipotenz	N;NOM(SG)	".Omnipotenz
 Parzelle	N;ACC(PL)	Parzellen
 Parzelle	N;ACC(SG)	Parzelle
-Parzelle	N;DAT(PL)	Parzellen
-Parzelle	N;DAT(SG)	der Parzelle
+Parzelle	N;DAT(PL)	".Parzellen
+Parzelle	N;DAT(SG)	Parzelle
 Parzelle	N;GEN(PL)	Parzellen
 Parzelle	N;GEN(SG)	Parzelle
-Parzelle	N;NOM(PL)	Parzellen
+Parzelle	N;NOM(PL)	.Parzellen
 Parzelle	N;NOM(SG)	Parzelle
-Pfifferling	N;ACC(PL)	Pfifferlinge
+Pfifferling	N;ACC(PL)	ifferlinge.Pfifferlinge
 Pfifferling	N;ACC(SG)	Pfifferling
-Pfifferling	N;DAT(PL)	Pfifferlingen
+Pfifferling	N;DAT(PL)	.Pfifferlingen
 Pfifferling	N;DAT(SG)	Pfifferling
 Pfifferling	N;GEN(PL)	Pfifferlinge
-Pfifferling	N;GEN(SG)	Pfifferlings
+Pfifferling	N;GEN(SG)	".Pfifferlings
 Pfifferling	N;NOM(PL)	Pfifferlinge
 Pfifferling	N;NOM(SG)	Pfifferling
-Reaktionsschritt	N;ACC(PL)	Reaktionsschritte
-Reaktionsschritt	N;ACC(SG)	Reaktionsschritt
-Reaktionsschritt	N;DAT(PL)	Reaktionsschritten
+Reaktionsschritt	N;ACC(PL)	ritte".Reaktionsschritte
+Reaktionsschritt	N;ACC(SG)	".Reaktionsschritt
+Reaktionsschritt	N;DAT(PL)	only that.Reaktionsschritten
 Reaktionsschritt	N;DAT(SG)	Reaktionsschritt
 Reaktionsschritt	N;GEN(PL)	Reaktionsschritte
-Reaktionsschritt	N;GEN(SG)	Reaktionsschritts
+Reaktionsschritt	N;GEN(SG)	Reaktionsschrittes
 Reaktionsschritt	N;NOM(PL)	Reaktionsschritte
-Reaktionsschritt	N;NOM(SG)	Reaktionsschritt
+Reaktionsschritt	N;NOM(SG)	.Reaktionsschritt
 Relaiskontakt	N;ACC(PL)	Relaiskontakte
-Relaiskontakt	N;ACC(SG)	Relaiskontakt
+Relaiskontakt	N;ACC(SG)	den Relaiskontakt
 Relaiskontakt	N;DAT(PL)	Relaiskontakten
 Relaiskontakt	N;DAT(SG)	Relaiskontakt
-Relaiskontakt	N;GEN(PL)	Relaiskontakte
-Relaiskontakt	N;GEN(SG)	Relaiskontakts
-Relaiskontakt	N;NOM(PL)	Relaiskontakte
+Relaiskontakt	N;GEN(PL)	.Relaiskontakte
+Relaiskontakt	N;GEN(SG)	aktes".Relaiskontaktes
+Relaiskontakt	N;NOM(PL)	".Relaiskontakte
 Relaiskontakt	N;NOM(SG)	Relaiskontakt
-Salzteig	N;ACC(PL)	Salzteige
-Salzteig	N;ACC(SG)	Salzteig
-Salzteig	N;DAT(PL)	Salzteigen
-Salzteig	N;DAT(SG)	Salzteig
-Salzteig	N;GEN(PL)	Salzteige
-Salzteig	N;GEN(SG)	Salzteigs
-Salzteig	N;NOM(PL)	Salzteige
-Salzteig	N;NOM(SG)	Salzteig
+Salzteig	N;ACC(PL)	.Salzteige
+Salzteig	N;ACC(SG)	den Salzteig
+Salzteig	N;DAT(PL)	".Salzteigen
+Salzteig	N;DAT(SG)	".Salzteig
+Salzteig	N;GEN(PL)	.Salzteige
+Salzteig	N;GEN(SG)	".Salzteigs
+Salzteig	N;NOM(PL)	".Salzteige
+Salzteig	N;NOM(SG)	".Salzteig
 Sandmann	N;ACC(PL)	Sandmänner
-Sandmann	N;ACC(SG)	Sandmann
+Sandmann	N;ACC(SG)	mann.Sandmann
 Sandmann	N;DAT(PL)	Sandmännern
-Sandmann	N;DAT(SG)	Sandmann
-Sandmann	N;GEN(PL)	Sandmänner
-Sandmann	N;GEN(SG)	Sandmanns
+Sandmann	N;DAT(SG)	Sandmann".Sandmann
+Sandmann	N;GEN(PL)	männer.Sandmänner
+Sandmann	N;GEN(SG)	manns".Sandmanns
 Sandmann	N;NOM(PL)	Sandmänner
 Sandmann	N;NOM(SG)	Sandmann
-Scheinwerfer	N;ACC(PL)	Scheinwerfer
+Scheinwerfer	N;ACC(PL)	".Scheinwerfer
 Scheinwerfer	N;ACC(SG)	Scheinwerfer
 Scheinwerfer	N;DAT(PL)	Scheinwerfern
-Scheinwerfer	N;DAT(SG)	Scheinwerfer
-Scheinwerfer	N;GEN(PL)	Scheinwerfer
-Scheinwerfer	N;GEN(SG)	Scheinwerfers
+Scheinwerfer	N;DAT(SG)	fer".Scheinwerfer
+Scheinwerfer	N;GEN(PL)	".Scheinwerfer
+Scheinwerfer	N;GEN(SG)	".Scheinwerfers
 Scheinwerfer	N;NOM(PL)	Scheinwerfer
-Scheinwerfer	N;NOM(SG)	Scheinwerfer
-Schlagbaum	N;ACC(PL)	Schlagbäume
+Scheinwerfer	N;NOM(SG)	.Scheinwerfer
+Schlagbaum	N;ACC(PL)	äume".Schlagbäume
 Schlagbaum	N;ACC(SG)	Schlagbaum
 Schlagbaum	N;DAT(PL)	Schlagbäumen
 Schlagbaum	N;DAT(SG)	Schlagbaum
 Schlagbaum	N;GEN(PL)	Schlagbäume
-Schlagbaum	N;GEN(SG)	Schlagbaumes
-Schlagbaum	N;NOM(PL)	Schlagbäume
-Schlagbaum	N;NOM(SG)	Schlagbaum
-Schweizerin	N;ACC(PL)	Schweizerinnen
-Schweizerin	N;ACC(SG)	Schweizerin
-Schweizerin	N;DAT(PL)	Schweizerinnen
+Schlagbaum	N;GEN(SG)	Schlagbaums
+Schlagbaum	N;NOM(PL)	äume".Schlagbäume
+Schlagbaum	N;NOM(SG)	baum".Schlagbaum
+Schweizerin	N;ACC(PL)	".Schweizerinnen
+Schweizerin	N;ACC(SG)	in.Schweizerin
+Schweizerin	N;DAT(PL)	innen".Schweizerinnen
 Schweizerin	N;DAT(SG)	Schweizerin
 Schweizerin	N;GEN(PL)	Schweizerinnen
 Schweizerin	N;NOM(PL)	Schweizerinnen
 Schweizerin	N;NOM(SG)	Schweizerin
 Schürze	N;ACC(PL)	Schürzen
 Schürze	N;ACC(SG)	Schürze
-Schürze	N;DAT(PL)	Schürzen
+Schürze	N;DAT(PL)	".Schürzen
 Schürze	N;DAT(SG)	Schürze
-Schürze	N;GEN(PL)	Schürzen
-Schürze	N;GEN(SG)	Schürze
+Schürze	N;GEN(PL)	".Schürzen
+Schürze	N;GEN(SG)	".Schürze
 Schürze	N;NOM(PL)	Schürzen
 Schürze	N;NOM(SG)	Schürze
-Taifun	N;ACC(PL)	Taifune
+Taifun	N;ACC(PL)	.Taifune
 Taifun	N;ACC(SG)	Taifun
 Taifun	N;DAT(PL)	Taifunen
 Taifun	N;DAT(SG)	Taifun
 Taifun	N;GEN(PL)	Taifune
-Taifun	N;GEN(SG)	Taifuns
-Taifun	N;NOM(PL)	Taifune
-Taifun	N;NOM(SG)	Taifun
-Tensid	N;ACC(PL)	Tenside
-Tensid	N;ACC(SG)	Tensid
-Tensid	N;DAT(PL)	Tensiden
+Taifun	N;GEN(SG)	uns".Taifuns
+Taifun	N;NOM(PL)	.Taifune
+Taifun	N;NOM(SG)	ifun".Taifun
+Tensid	N;ACC(PL)	".Tenside
+Tensid	N;ACC(SG)	".Tensid
+Tensid	N;DAT(PL)	".den Tensiden
 Tensid	N;DAT(SG)	Tensid
-Tensid	N;GEN(PL)	Tenside
-Tensid	N;GEN(SG)	Tensids
+Tensid	N;GEN(PL)	.der Tenside
+Tensid	N;GEN(SG)	".Tensids
 Tensid	N;NOM(PL)	Tenside
 Tensid	N;NOM(SG)	Tensid
-Theodizee	N;ACC(PL)	Theodizeen
-Theodizee	N;ACC(SG)	Theodizee
+Theodizee	N;ACC(PL)	Theodizien
+Theodizee	N;ACC(SG)	e".Theodizee
 Theodizee	N;DAT(PL)	Theodizeen
 Theodizee	N;DAT(SG)	Theodizee
 Theodizee	N;GEN(PL)	Theodizien
-Theodizee	N;GEN(SG)	Theodizee
+Theodizee	N;GEN(SG)	e".Theodizee
 Theodizee	N;NOM(PL)	Theodizeen
-Theodizee	N;NOM(SG)	Theodizee
-Tukan	N;ACC(PL)	Tukane
+Theodizee	N;NOM(SG)	e".Theodizee
+Tukan	N;ACC(PL)	ane".Tukane
 Tukan	N;ACC(SG)	Tukan
-Tukan	N;DAT(PL)	Tukanen
-Tukan	N;GEN(PL)	Tukane
-Tukan	N;GEN(SG)	Tukans
+Tukan	N;DAT(PL)	en".Tukanen
+Tukan	N;GEN(PL)	ukane".Tukane
+Tukan	N;GEN(SG)	ans.Tukans
 Tukan	N;NOM(PL)	Tukane
-Tukan	N;NOM(SG)	Tukan
+Tukan	N;NOM(SG)	.Tukan
 Umweltministerium	N;ACC(PL)	Umweltministerien
-Umweltministerium	N;ACC(SG)	Umweltministerium
+Umweltministerium	N;ACC(SG)	word.Umweltministerium
 Umweltministerium	N;DAT(PL)	Umweltministerien
-Umweltministerium	N;DAT(SG)	Umweltministerium
-Umweltministerium	N;GEN(PL)	Umweltministerien
+Umweltministerium	N;DAT(SG)	.Umweltministerium
+Umweltministerium	N;GEN(PL)	.Umweltministerien
 Umweltministerium	N;GEN(SG)	Umweltministeriums
 Umweltministerium	N;NOM(PL)	Umweltministerien
-Umweltministerium	N;NOM(SG)	Umweltministerium
-Unterschenkel	N;ACC(PL)	Unterschenkel
+Umweltministerium	N;NOM(SG)	.Umweltministerium
+Unterschenkel	N;ACC(PL)	kel".Unterschenkel
 Unterschenkel	N;ACC(SG)	Unterschenkel
-Unterschenkel	N;DAT(PL)	Unterschenkeln
+Unterschenkel	N;DAT(PL)	eln".Unterschenkeln
 Unterschenkel	N;DAT(SG)	Unterschenkel
-Unterschenkel	N;GEN(PL)	Unterschenkel
+Unterschenkel	N;GEN(PL)	".Unterschenkel
 Unterschenkel	N;GEN(SG)	Unterschenkels
 Unterschenkel	N;NOM(PL)	Unterschenkel
 Unterschenkel	N;NOM(SG)	Unterschenkel
-Verschwörungstheoretiker	N;ACC(PL)	Verschwörungstheoretiker
+Verschwörungstheoretiker	N;ACC(PL)	oretiker".Verschwörungstheoretiker
 Verschwörungstheoretiker	N;ACC(SG)	Verschwörungstheoretiker
 Verschwörungstheoretiker	N;DAT(PL)	Verschwörungstheoretikern
 Verschwörungstheoretiker	N;DAT(SG)	Verschwörungstheoretiker
 Verschwörungstheoretiker	N;GEN(PL)	Verschwörungstheoretiker
-Verschwörungstheoretiker	N;GEN(SG)	Verschwörungstheoretikers
+Verschwörungstheoretiker	N;GEN(SG)	.Verschwörungstheoretikers
 Verschwörungstheoretiker	N;NOM(PL)	Verschwörungstheoretiker
 Verschwörungstheoretiker	N;NOM(SG)	Verschwörungstheoretiker
-Vollwaschmittel	N;ACC(PL)	Vollwaschmittel
-Vollwaschmittel	N;ACC(SG)	Vollwaschmittel
+Vollwaschmittel	N;ACC(PL)	mittel".Vollwaschmittel
+Vollwaschmittel	N;ACC(SG)	chmittel".Vollwaschmittel
 Vollwaschmittel	N;DAT(PL)	Vollwaschmitteln
-Vollwaschmittel	N;DAT(SG)	Vollwaschmittel
-Vollwaschmittel	N;GEN(PL)	Vollwaschmittel
+Vollwaschmittel	N;DAT(SG)	.Vollwaschmittel
+Vollwaschmittel	N;GEN(PL)	chmittel".Vollwaschmittel
 Vollwaschmittel	N;NOM(PL)	Vollwaschmittel
 Vollwaschmittel	N;NOM(SG)	Vollwaschmittel
-Vorbild	N;ACC(PL)	Vorbilder
+Vorbild	N;ACC(PL)	bilder.Vorbilder
 Vorbild	N;ACC(SG)	Vorbild
-Vorbild	N;DAT(PL)	Vorbildern
-Vorbild	N;DAT(SG)	Vorbild
-Vorbild	N;GEN(PL)	Vorbilder
-Vorbild	N;GEN(SG)	Vorbildes
+Vorbild	N;DAT(PL)	".Vorbildern
+Vorbild	N;DAT(SG)	Vorbild".Vorbild
+Vorbild	N;GEN(PL)	bilder.Vorbilder
+Vorbild	N;GEN(SG)	.Vorbildes
 Vorbild	N;NOM(PL)	Vorbilder
 Vorbild	N;NOM(SG)	Vorbild
-Wahlkämpfer	N;ACC(PL)	Wahlkämpfer
+Wahlkämpfer	N;ACC(PL)	fer".Wahlkämpfer
 Wahlkämpfer	N;ACC(SG)	Wahlkämpfer
-Wahlkämpfer	N;DAT(PL)	Wahlkämpfern
+Wahlkämpfer	N;DAT(PL)	.Wahlkämpfern
 Wahlkämpfer	N;DAT(SG)	Wahlkämpfer
 Wahlkämpfer	N;GEN(PL)	Wahlkämpfer
-Wahlkämpfer	N;GEN(SG)	Wahlkämpfers
+Wahlkämpfer	N;GEN(SG)	fers".Wahlkämpfers
 Wahlkämpfer	N;NOM(PL)	Wahlkämpfer
 Wahlkämpfer	N;NOM(SG)	Wahlkämpfer
-Wohnsitz	N;ACC(PL)	Wohnsitze
+Wohnsitz	N;ACC(PL)	ze".Wohnsitze
 Wohnsitz	N;ACC(SG)	Wohnsitz
-Wohnsitz	N;DAT(PL)	Wohnsitzen
+Wohnsitz	N;DAT(PL)	.Wohnsitzen
 Wohnsitz	N;DAT(SG)	Wohnsitz
 Wohnsitz	N;GEN(PL)	Wohnsitze
 Wohnsitz	N;GEN(SG)	Wohnsitzes
 Wohnsitz	N;NOM(PL)	Wohnsitze
-Wohnsitz	N;NOM(SG)	Wohnsitz
-Zahnärztin	N;ACC(PL)	Zahnärztinnen
+Wohnsitz	N;NOM(SG)	".Wohnsitz
+Zahnärztin	N;ACC(PL)	innen".Zahnärztinnen
 Zahnärztin	N;ACC(SG)	Zahnärztin
 Zahnärztin	N;DAT(PL)	Zahnärztinnen
-Zahnärztin	N;DAT(SG)	Zahnärztin
+Zahnärztin	N;DAT(SG)	.Zahnärztin
 Zahnärztin	N;GEN(PL)	Zahnärztinnen
-Zahnärztin	N;GEN(SG)	Zahnärztin
-Zahnärztin	N;NOM(PL)	Zahnärztinnen
+Zahnärztin	N;GEN(SG)	lected form.Zahnärztin
+Zahnärztin	N;NOM(PL)	.Zahnärztinnen
 Zahnärztin	N;NOM(SG)	Zahnärztin
-abalienieren	V;IND;PST;NOM(2,SG)	abalieniertest
-abalienieren	V;IND;PST;NOM(3,PL)	abalienierten
+abalienieren	V;IND;PST;NOM(2,SG)	est".abalieniertest
+abalienieren	V;IND;PST;NOM(3,PL)	ienierten".abalienierten
 abalienieren	V;NFIN	abalienieren
-abalienieren	V;SBJV;PRS;NOM(1,PL)	abalienieren
-abalienieren	V;SBJV;PRS;NOM(2,PL)	abalieniert
-abalienieren	V;SBJV;PRS;NOM(2,SG)	abalienierest
-abalienieren	V;SBJV;PRS;NOM(3,PL)	abalienieren
+abalienieren	V;SBJV;PRS;NOM(1,PL)	ieren.abalienieren
+abalienieren	V;SBJV;PRS;NOM(2,PL)	ieret".abalienieret
+abalienieren	V;SBJV;PRS;NOM(2,SG)	alienst
+abalienieren	V;SBJV;PRS;NOM(3,PL)	ieren".abalienieren
 abalienieren	V;SBJV;PST;NOM(1,PL)	abalienierten
-abalienieren	V;SBJV;PST;NOM(1,SG)	abalienierte
-abalienieren	V;SBJV;PST;NOM(2,SG)	hättest abalieniert
-abalienieren	V;SBJV;PST;NOM(3,PL)	abalienierten
-abalienieren	V;SBJV;PST;NOM(3,SG)	habe abalieniert gehabt
+abalienieren	V;SBJV;PST;NOM(1,SG)	ierte.alienierte
+abalienieren	V;SBJV;PST;NOM(2,SG)	habest abalieniert
+abalienieren	V;SBJV;PST;NOM(3,PL)	ierten.abalienierten
+abalienieren	V;SBJV;PST;NOM(3,SG)	.abalienierte
 ablaufen	V.PTCP;PST	abgelaufen
 ablaufen	V;IMP;NOM(2,SG)	lauf ab
-ablaufen	V;IND;PRS;NOM(1,PL)	laufen ab
+ablaufen	V;IND;PRS;NOM(1,PL)	ab".laufen ab
 ablaufen	V;IND;PRS;NOM(1,SG)	laufe ab
 ablaufen	V;IND;PRS;NOM(3,SG)	läuft ab
-ablaufen	V;IND;PST;NOM(1,PL)	liefen ab
-ablaufen	V;IND;PST;NOM(2,SG)	liefst ab
-ablaufen	V;IND;PST;NOM(3,PL)	liefen ab
-ablaufen	V;IND;PST;NOM(3,SG)	ablief
-ablaufen	V;SBJV;PST;NOM(1,PL)	wären abgelaufen
-ablaufen	V;SBJV;PST;NOM(1,SG)	wäre
-ablaufen	V;SBJV;PST;NOM(2,SG)	hättest abgelaufen
-appliciren	V.PTCP;PRS	applicierend
-appliciren	V.PTCP;PST	appliziert
-appliciren	V;IMP;NOM(2,PL)	applicirt
-appliciren	V;IND;PRS;NOM(3,PL)	applizieren
-appliciren	V;IND;PST;NOM(2,PL)	applicirtet
-appliciren	V;IND;PST;NOM(3,PL)	applicierten
-appliciren	V;IND;PST;NOM(3,SG)	applicirte
-appliciren	V;SBJV;PRS;NOM(2,PL)	appliciret
-appliciren	V;SBJV;PRS;NOM(2,SG)	applicierest
-appliciren	V;SBJV;PRS;NOM(3,PL)	appliciren
-appliciren	V;SBJV;PST;NOM(1,PL)	applicierten
-appliciren	V;SBJV;PST;NOM(1,SG)	applicirte
-appliciren	V;SBJV;PST;NOM(3,SG)	applicierte
-aufheben	V;IMP;NOM(2,SG)	hebe auf
-aufheben	V;IND;PRS;NOM(3,SG)	hebt auf
-aufheben	V;IND;PST;NOM(1,SG)	hob auf
+ablaufen	V;IND;PST;NOM(1,PL)	en ab".liefen ab
+ablaufen	V;IND;PST;NOM(2,SG)	ab".liefst ab
+ablaufen	V;IND;PST;NOM(3,PL)	".liefen ab
+ablaufen	V;IND;PST;NOM(3,SG)	".lief ab
+ablaufen	V;SBJV;PST;NOM(1,PL)	".hätten abgelaufen
+ablaufen	V;SBJV;PST;NOM(1,SG)	liefe ab
+ablaufen	V;SBJV;PST;NOM(2,SG)	.seist abgelaufen
+appliciren	V.PTCP;PRS	".applicierend
+appliciren	V.PTCP;PST	".appliziert
+appliciren	V;IMP;NOM(2,PL)	iziert".appliziert
+appliciren	V;IND;PRS;NOM(3,PL)	appliciren
+appliciren	V;IND;PST;NOM(2,PL)	et.applicirtet
+appliciren	V;IND;PST;NOM(3,PL)	ierten".applizierten
+appliciren	V;IND;PST;NOM(3,SG)	irte".applicirte
+appliciren	V;SBJV;PRS;NOM(2,PL)	.applicirt
+appliciren	V;SBJV;PRS;NOM(2,SG)	st.applicirest
+appliciren	V;SBJV;PRS;NOM(3,PL)	.appliciren
+appliciren	V;SBJV;PST;NOM(1,PL)	".applicierten
+appliciren	V;SBJV;PST;NOM(1,SG)	.applicierte
+appliciren	V;SBJV;PST;NOM(3,SG)	".applicirte
+aufheben	V;IMP;NOM(2,SG)	auf".hebe auf
+aufheben	V;IND;PRS;NOM(3,SG)	auf".hebt auf
+aufheben	V;IND;PST;NOM(1,SG)	auf".hob auf
 aufheben	V;IND;PST;NOM(2,PL)	hobt auf
-aufheben	V;IND;PST;NOM(3,PL)	hoben auf
-aufheben	V;IND;PST;NOM(3,SG)	hob auf
-aufheben	V;SBJV;PRS;NOM(2,PL)	hebt auf
-aufheben	V;SBJV;PRS;NOM(2,SG)	hebest auf
-aufheben	V;SBJV;PRS;NOM(3,PL)	heben auf
-aufheben	V;SBJV;PRS;NOM(3,SG)	hebe
+aufheben	V;IND;PST;NOM(3,PL)	oben auf".hoben auf
+aufheben	V;IND;PST;NOM(3,SG)	hob auf
+aufheben	V;SBJV;PRS;NOM(2,PL)	auf".habet auf
+aufheben	V;SBJV;PRS;NOM(2,SG)	est auf".hebest auf
+aufheben	V;SBJV;PRS;NOM(3,PL)	heben
+aufheben	V;SBJV;PRS;NOM(3,SG)	hebe auf
 aufheben	V;SBJV;PST;NOM(1,PL)	hoben auf
-aufheben	V;SBJV;PST;NOM(3,SG)	hob auf
+aufheben	V;SBJV;PST;NOM(3,SG)	".hätte aufgehoben
 ausbrechen	V.PTCP;PRS	ausbrechend
-ausbrechen	V;IMP;NOM(2,PL)	brecht aus
-ausbrechen	V;IND;PRS;NOM(1,SG)	breche aus
-ausbrechen	V;IND;PRS;NOM(3,PL)	brechen aus
-ausbrechen	V;IND;PRS;NOM(3,SG)	bricht aus
-ausbrechen	V;IND;PST;NOM(1,PL)	brachen
+ausbrechen	V;IMP;NOM(2,PL)	Brecht aus
+ausbrechen	V;IND;PRS;NOM(1,SG)	che aus".breche aus
+ausbrechen	V;IND;PRS;NOM(3,PL)	aus".brechen aus
+ausbrechen	V;IND;PRS;NOM(3,SG)	".bricht aus
+ausbrechen	V;IND;PST;NOM(1,PL)	brachen aus
 ausbrechen	V;IND;PST;NOM(1,SG)	brach aus
-ausbrechen	V;IND;PST;NOM(2,PL)	brachtet aus
+ausbrechen	V;IND;PST;NOM(2,PL)	aus".bracht aus
 ausbrechen	V;IND;PST;NOM(3,PL)	brachen aus
-ausbrechen	V;IND;PST;NOM(3,SG)	brach aus
+ausbrechen	V;IND;PST;NOM(3,SG)	.brach aus
 ausbrechen	V;SBJV;PRS;NOM(1,PL)	brechen aus
-ausbrechen	V;SBJV;PRS;NOM(2,PL)	brecht aus
-ausbrechen	V;SBJV;PST;NOM(2,SG)	brachst aus
+ausbrechen	V;SBJV;PRS;NOM(2,PL)	brechet aus
+ausbrechen	V;SBJV;PST;NOM(2,SG)	.wärst ausgebrochen
 ballasten	V.PTCP;PRS	ballastend
-ballasten	V;IND;PRS;NOM(1,SG)	ballast
-ballasten	V;IND;PRS;NOM(2,SG)	ballastest
-ballasten	V;IND;PST;NOM(2,SG)	ballastest
-ballasten	V;IND;PST;NOM(3,SG)	ballastete
-ballasten	V;SBJV;PRS;NOM(1,PL)	ballasten
-ballasten	V;SBJV;PRS;NOM(2,PL)	ballastet
+ballasten	V;IND;PRS;NOM(1,SG)	
+ballasten	V;IND;PRS;NOM(2,SG)	".ballastest
+ballasten	V;IND;PST;NOM(2,SG)	.ballastest
+ballasten	V;IND;PST;NOM(3,SG)	astete".ballastete
+ballasten	V;SBJV;PRS;NOM(1,PL)	asten.ballasten
+ballasten	V;SBJV;PRS;NOM(2,PL)	astet".ballastet
 ballasten	V;SBJV;PRS;NOM(2,SG)	ballastest
-ballasten	V;SBJV;PRS;NOM(3,SG)	ballast
+ballasten	V;SBJV;PRS;NOM(3,SG)	".ballaste
 ballasten	V;SBJV;PST;NOM(1,PL)	ballasteten
-ballasten	V;SBJV;PST;NOM(2,SG)	ballastetest
+ballasten	V;SBJV;PST;NOM(2,SG)	ballastest
 ballasten	V;SBJV;PST;NOM(3,PL)	ballasteten
 ballasten	V;SBJV;PST;NOM(3,SG)	ballastete
-befördern	V.PTCP;PST	befördert
-befördern	V;IMP;NOM(2,SG)	beförd!
-befördern	V;IND;PRS;NOM(1,SG)	befördere
+befördern	V.PTCP;PST	fördert.befördert
+befördern	V;IMP;NOM(2,SG)	that.befördere
+befördern	V;IND;PRS;NOM(1,SG)	.befördere
 befördern	V;IND;PRS;NOM(3,PL)	befördern
-befördern	V;IND;PST;NOM(1,PL)	beförderten
+befördern	V;IND;PST;NOM(1,PL)	örderten".beförderten
 befördern	V;IND;PST;NOM(3,SG)	beförderte
-befördern	V;SBJV;PRS;NOM(1,PL)	befördern
-befördern	V;SBJV;PRS;NOM(1,SG)	befördere
-befördern	V;SBJV;PRS;NOM(2,PL)	befördert
-befördern	V;SBJV;PRS;NOM(2,SG)	beförderest
+befördern	V;SBJV;PRS;NOM(1,PL)	beförderen
+befördern	V;SBJV;PRS;NOM(1,SG)	ere".befördere
+befördern	V;SBJV;PRS;NOM(2,PL)	.befördet
+befördern	V;SBJV;PRS;NOM(2,SG)	beförderst
 befördern	V;SBJV;PRS;NOM(3,PL)	befördern
 befördern	V;SBJV;PST;NOM(1,PL)	beförderten
 befördern	V;SBJV;PST;NOM(1,SG)	beförderte
 belügen	V.PTCP;PRS	belügend
-belügen	V.PTCP;PST	ogen
+belügen	V.PTCP;PST	belogen
 belügen	V;IND;PRS;NOM(2,SG)	belügst
 belügen	V;IND;PRS;NOM(3,PL)	belügen
 belügen	V;IND;PRS;NOM(3,SG)	belügt
 belügen	V;IND;PST;NOM(1,PL)	belogen
-belügen	V;IND;PST;NOM(1,SG)	belog
+belügen	V;IND;PST;NOM(1,SG)	belugte
 belügen	V;IND;PST;NOM(2,PL)	belogt
-belügen	V;SBJV;PRS;NOM(1,PL)	belügen
-belügen	V;SBJV;PRS;NOM(2,PL)	belügt
+belügen	V;SBJV;PRS;NOM(1,PL)	belügen".belügen
+belügen	V;SBJV;PRS;NOM(2,PL)	belüget
 belügen	V;SBJV;PRS;NOM(3,SG)	belüge
-belügen	V;SBJV;PST;NOM(2,PL)	belogt
-belügen	V;SBJV;PST;NOM(3,PL)	belogen
-bimmeln	V.PTCP;PST	gebimmelt
+belügen	V;SBJV;PST;NOM(2,PL)	belöget
+belügen	V;SBJV;PST;NOM(3,PL)	ögen.belögen
+bimmeln	V.PTCP;PST	immelt.gebimmelt
 bimmeln	V;IMP;NOM(2,PL)	bimmelt
-bimmeln	V;IMP;NOM(2,SG)	bimmel!
-bimmeln	V;IND;PRS;NOM(1,SG)	bimmle
+bimmeln	V;IMP;NOM(2,SG)	bimmle!
+bimmeln	V;IND;PRS;NOM(1,SG)	".bimmle
 bimmeln	V;IND;PRS;NOM(2,PL)	bimmelt
 bimmeln	V;IND;PST;NOM(1,PL)	bimmelten
 bimmeln	V;IND;PST;NOM(1,SG)	bimmelte
-bimmeln	V;IND;PST;NOM(2,PL)	bimmeltet
-bimmeln	V;IND;PST;NOM(3,PL)	bimmelten
+bimmeln	V;IND;PST;NOM(2,PL)	bimmelten
+bimmeln	V;IND;PST;NOM(3,PL)	that.bimmelten
 bimmeln	V;SBJV;PRS;NOM(1,SG)	bimmle
 bimmeln	V;SBJV;PRS;NOM(3,PL)	bimmeln
 bimmeln	V;SBJV;PST;NOM(3,PL)	bimmelten
@@ -510,148 +510,148 @@ bummeln	V.PTCP;PST	gebummelt
 bummeln	V;IND;PRS;NOM(1,SG)	bummle
 bummeln	V;IND;PST;NOM(2,PL)	bummeltet
 bummeln	V;IND;PST;NOM(2,SG)	bummeltest
-bummeln	V;IND;PST;NOM(3,PL)	bummelten
+bummeln	V;IND;PST;NOM(3,PL)	.bummelten
 bummeln	V;IND;PST;NOM(3,SG)	bummelte
-bummeln	V;NFIN	bummeln
+bummeln	V;NFIN	.bummeln
 bummeln	V;SBJV;PRS;NOM(1,PL)	bummeln
 bummeln	V;SBJV;PRS;NOM(2,PL)	bummelt
 bummeln	V;SBJV;PRS;NOM(3,PL)	bummeln
 bummeln	V;SBJV;PST;NOM(1,PL)	bummelten
 bummeln	V;SBJV;PST;NOM(1,SG)	bummelte
-bummeln	V;SBJV;PST;NOM(3,SG)	bummelte
+bummeln	V;SBJV;PST;NOM(3,SG)	".bummelte
 dublieren	V;IMP;NOM(2,PL)	dubliert
 dublieren	V;IND;PRS;NOM(2,PL)	dubliert
 dublieren	V;IND;PRS;NOM(3,PL)	dublieren
 dublieren	V;IND;PST;NOM(1,PL)	dublierten
 dublieren	V;IND;PST;NOM(2,PL)	dubliertet
 dublieren	V;IND;PST;NOM(2,SG)	dubliertest
-dublieren	V;IND;PST;NOM(3,PL)	dublierten
-dublieren	V;NFIN	dublieren
-dublieren	V;SBJV;PRS;NOM(3,PL)	dublieren
-dublieren	V;SBJV;PRS;NOM(3,SG)	dubliere
-dublieren	V;SBJV;PST;NOM(1,PL)	dublierten
-dublieren	V;SBJV;PST;NOM(3,SG)	hätte
+dublieren	V;IND;PST;NOM(3,PL)	.dublierten
+dublieren	V;NFIN	".dublieren
+dublieren	V;SBJV;PRS;NOM(3,PL)	".dublieren
+dublieren	V;SBJV;PRS;NOM(3,SG)	.dubliere
+dublieren	V;SBJV;PST;NOM(1,PL)	dublizierten
+dublieren	V;SBJV;PST;NOM(3,SG)	dublierte
 einleben	V;IND;PRS;NOM(1,PL)	leben ein
-einleben	V;IND;PRS;NOM(2,PL)	lebt ein
-einleben	V;IND;PST;NOM(1,PL)	lebten ein
-einleben	V;IND;PST;NOM(2,PL)	lebtet euch ein
-einleben	V;IND;PST;NOM(2,SG)	lebtest ein
-einleben	V;IND;PST;NOM(3,PL)	lebten ein
+einleben	V;IND;PRS;NOM(2,PL)	ein".lebt ein
+einleben	V;IND;PST;NOM(1,PL)	correct.lebten uns ein
+einleben	V;IND;PST;NOM(2,PL)	ein".lebtet ein
+einleben	V;IND;PST;NOM(2,SG)	".lebtest ein
+einleben	V;IND;PST;NOM(3,PL)	lebten ein
 einleben	V;IND;PST;NOM(3,SG)	lebte ein
 einleben	V;SBJV;PRS;NOM(1,PL)	leben ein
-einleben	V;SBJV;PRS;NOM(2,PL)	".lebt
-einleben	V;SBJV;PRS;NOM(3,PL)	einleben
+einleben	V;SBJV;PRS;NOM(2,PL)	einlebet
+einleben	V;SBJV;PRS;NOM(3,PL)	leben ein
 einleben	V;SBJV;PST;NOM(1,PL)	lebten ein
-einleben	V;SBJV;PST;NOM(2,PL)	lebtet euch ein
-einleben	V;SBJV;PST;NOM(3,PL)	lebten ein
+einleben	V;SBJV;PST;NOM(2,PL)	lebtet ein
+einleben	V;SBJV;PST;NOM(3,PL)	hätten einge­lebt
 empfinden	V.PTCP;PRS	empfindend
 empfinden	V.PTCP;PST	empfunden
 empfinden	V;IND;PRS;NOM(1,PL)	empfinden
-empfinden	V;IND;PRS;NOM(1,SG)	".empfinde
-empfinden	V;IND;PRS;NOM(3,PL)	".empfinden
+empfinden	V;IND;PRS;NOM(1,SG)	empfinde
+empfinden	V;IND;PRS;NOM(3,PL)	empfinden
 empfinden	V;IND;PST;NOM(3,PL)	empfanden
 empfinden	V;IND;PST;NOM(3,SG)	empfand
-empfinden	V;SBJV;PRS;NOM(1,PL)	.empfinden
-empfinden	V;SBJV;PRS;NOM(1,SG)	output that.empfinde
-empfinden	V;SBJV;PST;NOM(1,SG)	empfände
+empfinden	V;SBJV;PRS;NOM(1,PL)	empfinden
+empfinden	V;SBJV;PRS;NOM(1,SG)	empfinde
+empfinden	V;SBJV;PST;NOM(1,SG)	habe empfunden
 empfinden	V;SBJV;PST;NOM(2,SG)	empfändest
-empfinden	V;SBJV;PST;NOM(3,PL)	hätten empfunden
+empfinden	V;SBJV;PST;NOM(3,PL)	empfänden
 entführen	V;IMP;NOM(2,PL)	entführt
-entführen	V;IND;PRS;NOM(1,PL)	entführen
-entführen	V;IND;PRS;NOM(1,SG)	führe
+entführen	V;IND;PRS;NOM(1,PL)	führen
+entführen	V;IND;PRS;NOM(1,SG)	entführe
 entführen	V;IND;PRS;NOM(2,PL)	entführt
-entführen	V;IND;PRS;NOM(3,PL)	".entführen
-entführen	V;IND;PST;NOM(1,PL)	führten.entführten
-entführen	V;IND;PST;NOM(3,SG)	te".entführte
+entführen	V;IND;PRS;NOM(3,PL)	entführen
+entführen	V;IND;PST;NOM(1,PL)	entführten
+entführen	V;IND;PST;NOM(3,SG)	entführte
 entführen	V;SBJV;PRS;NOM(2,SG)	entführest
-entführen	V;SBJV;PST;NOM(1,PL)	entführten
-entführen	V;SBJV;PST;NOM(1,SG)	entführte
-entführen	V;SBJV;PST;NOM(2,SG)	".entführtest
+entführen	V;SBJV;PST;NOM(1,PL)	hätten entführt
+entführen	V;SBJV;PST;NOM(1,SG)	führe ein
+entführen	V;SBJV;PST;NOM(2,SG)	habest entführt
 entführen	V;SBJV;PST;NOM(3,PL)	entführten
 entführen	V;SBJV;PST;NOM(3,SG)	entführte
 entmineralisieren	V.PTCP;PRS	entmineralisierend
-entmineralisieren	V;IMP;NOM(2,SG)	
+entmineralisieren	V;IMP;NOM(2,SG)	entmineralisiere
 entmineralisieren	V;IND;PRS;NOM(1,PL)	entmineralisieren
-entmineralisieren	V;IND;PRS;NOM(1,SG)	ere.entmineralisiere
-entmineralisieren	V;IND;PRS;NOM(2,SG)	
+entmineralisieren	V;IND;PRS;NOM(1,SG)	entmineralisiere
+entmineralisieren	V;IND;PRS;NOM(2,SG)	entmineralisierst
 entmineralisieren	V;IND;PRS;NOM(3,PL)	entmineralisieren
 entmineralisieren	V;NFIN	entmineralisieren
-entmineralisieren	V;SBJV;PRS;NOM(2,SG)	entmineralisierest
-entmineralisieren	V;SBJV;PRS;NOM(3,SG)	ere.entmineralisiere
-entmineralisieren	V;SBJV;PST;NOM(1,SG)	.entmineralisierte
-entmineralisieren	V;SBJV;PST;NOM(2,PL)	
+entmineralisieren	V;SBJV;PRS;NOM(2,SG)	entmineralisierst
+entmineralisieren	V;SBJV;PRS;NOM(3,SG)	entmineralisiere
+entmineralisieren	V;SBJV;PST;NOM(1,SG)	entmineralisierte
+entmineralisieren	V;SBJV;PST;NOM(2,PL)	entmineralisiertet
 entmineralisieren	V;SBJV;PST;NOM(2,SG)	entmineralisiertest
-entmineralisieren	V;SBJV;PST;NOM(3,PL)	".entmineralisierten
-entsagen	V;IND;PRS;NOM(1,SG)	age.entsage
-entsagen	V;IND;PRS;NOM(3,PL)	.entsagen
+entmineralisieren	V;SBJV;PST;NOM(3,PL)	entmineralisierten
+entsagen	V;IND;PRS;NOM(1,SG)	entsage
+entsagen	V;IND;PRS;NOM(3,PL)	entsagen
 entsagen	V;IND;PRS;NOM(3,SG)	entsagt
-entsagen	V;IND;PST;NOM(2,PL)	.entsagten
+entsagen	V;IND;PST;NOM(2,PL)	entsagtet
 entsagen	V;IND;PST;NOM(3,PL)	entsagten
-entsagen	V;IND;PST;NOM(3,SG)	.entsagte
+entsagen	V;IND;PST;NOM(3,SG)	entsagte
 entsagen	V;SBJV;PRS;NOM(1,PL)	entsagen
-entsagen	V;SBJV;PRS;NOM(2,PL)	".entsaget
-entsagen	V;SBJV;PRS;NOM(3,PL)	entsagen".entsagen
+entsagen	V;SBJV;PRS;NOM(2,PL)	entsaget
+entsagen	V;SBJV;PRS;NOM(3,PL)	entsagen
 entsagen	V;SBJV;PRS;NOM(3,SG)	entsage
 entsagen	V;SBJV;PST;NOM(1,PL)	entsagten
-entsagen	V;SBJV;PST;NOM(2,PL)	habet entsagt
-entsagen	V;SBJV;PST;NOM(3,SG)	".entsagte
-entschließen	V.PTCP;PRS	".entschließend
+entsagen	V;SBJV;PST;NOM(2,PL)	entsagtet
+entsagen	V;SBJV;PST;NOM(3,SG)	entsagte
+entschließen	V.PTCP;PRS	entschließend
 entschließen	V;IND;PRS;NOM(2,PL)	entschließt
-entschließen	V;IND;PRS;NOM(2,SG)	
-entschließen	V;IND;PRS;NOM(3,PL)	ließen".entschließen
-entschließen	V;IND;PRS;NOM(3,SG)	.entschließt
-entschließen	V;IND;PST;NOM(1,PL)	.entschlossen
+entschließen	V;IND;PRS;NOM(2,SG)	entschließt
+entschließen	V;IND;PRS;NOM(3,PL)	entschließen
+entschließen	V;IND;PRS;NOM(3,SG)	entschließt
+entschließen	V;IND;PST;NOM(1,PL)	entschlossen
 entschließen	V;IND;PST;NOM(2,SG)	entschlossest
-entschließen	V;SBJV;PRS;NOM(1,PL)	".entschließen
-entschließen	V;SBJV;PRS;NOM(1,SG)	".entschließe
-entschließen	V;SBJV;PRS;NOM(2,PL)	ße.entschließe
-entschließen	V;SBJV;PST;NOM(2,PL)	set.entschlosset
+entschließen	V;SBJV;PRS;NOM(1,PL)	entschließen
+entschließen	V;SBJV;PRS;NOM(1,SG)	entschließe
+entschließen	V;SBJV;PRS;NOM(2,PL)	entschließet
+entschließen	V;SBJV;PST;NOM(2,PL)	hättet
 entschließen	V;SBJV;PST;NOM(2,SG)	hättest
-entschließen	V;SBJV;PST;NOM(3,SG)	".hätte sich entschlossen
-etiolieren	V.PTCP;PRS	
-etiolieren	V;IMP;NOM(2,SG)	etiolier
+entschließen	V;SBJV;PST;NOM(3,SG)	entschloss
+etiolieren	V.PTCP;PRS	etiolierend
+etiolieren	V;IMP;NOM(2,SG)	etioliere
 etiolieren	V;IND;PRS;NOM(1,PL)	etiolieren
-etiolieren	V;IND;PRS;NOM(2,SG)	.etiolierst
+etiolieren	V;IND;PRS;NOM(2,SG)	etiolierst
 etiolieren	V;IND;PST;NOM(2,SG)	etioliertest
-etiolieren	V;SBJV;PRS;NOM(1,SG)	.etioliere
+etiolieren	V;SBJV;PRS;NOM(1,SG)	etioliere
 etiolieren	V;SBJV;PRS;NOM(2,PL)	etioliert
 etiolieren	V;SBJV;PRS;NOM(3,PL)	etiolieren
-etiolieren	V;SBJV;PRS;NOM(3,SG)	etioliert
-etiolieren	V;SBJV;PST;NOM(1,SG)	olierte".etiolierte
-etiolieren	V;SBJV;PST;NOM(2,SG)	etoliertest
+etiolieren	V;SBJV;PRS;NOM(3,SG)	etioliere
+etiolieren	V;SBJV;PST;NOM(1,SG)	etiolierte
+etiolieren	V;SBJV;PST;NOM(2,SG)	etiolierte
 etiolieren	V;SBJV;PST;NOM(3,SG)	etiolierte
 expandieren	V.PTCP;PRS	expandierend
 expandieren	V.PTCP;PST	expandiert
 expandieren	V;IND;PRS;NOM(2,PL)	expandiert
-expandieren	V;IND;PRS;NOM(2,SG)	.expandierst
+expandieren	V;IND;PRS;NOM(2,SG)	expandierst
 expandieren	V;IND;PRS;NOM(3,SG)	expandiert
 expandieren	V;IND;PST;NOM(1,PL)	expandierten
 expandieren	V;IND;PST;NOM(2,SG)	expandiertest
-expandieren	V;IND;PST;NOM(3,SG)	".expandierte
+expandieren	V;IND;PST;NOM(3,SG)	expandierte
 expandieren	V;SBJV;PRS;NOM(2,SG)	expandierest
 expandieren	V;SBJV;PRS;NOM(3,PL)	expandieren
 expandieren	V;SBJV;PRS;NOM(3,SG)	expandiere
-expandieren	V;SBJV;PST;NOM(1,PL)	ierten.expandierten
-expandieren	V;SBJV;PST;NOM(3,PL)	sie hätten expandiert
+expandieren	V;SBJV;PST;NOM(1,PL)	wir hätten expandiert
+expandieren	V;SBJV;PST;NOM(3,PL)	expandierten
 feilschen	V.PTCP;PRS	feilschend
-feilschen	V;IMP;NOM(2,PL)	feilscht
-feilschen	V;IND;PRS;NOM(2,PL)	ilscht.feilscht
+feilschen	V;IMP;NOM(2,PL)	Feilscht
+feilschen	V;IND;PRS;NOM(2,PL)	feilscht
 feilschen	V;IND;PST;NOM(2,SG)	feilschtest
 feilschen	V;IND;PST;NOM(3,PL)	feilschten
-feilschen	V;SBJV;PRS;NOM(2,PL)	
-feilschen	V;SBJV;PRS;NOM(2,SG)	est".feilschest
+feilschen	V;SBJV;PRS;NOM(2,PL)	feilschet
+feilschen	V;SBJV;PRS;NOM(2,SG)	feilschest
 feilschen	V;SBJV;PRS;NOM(3,PL)	feilschen
-feilschen	V;SBJV;PRS;NOM(3,SG)	ilschefeilsche
-feilschen	V;SBJV;PST;NOM(1,PL)	ilscht".wir hätten gefeilscht
-feilschen	V;SBJV;PST;NOM(1,SG)	ßt".hätte gefleißt
-feilschen	V;SBJV;PST;NOM(3,PL)	ilschten.feilschten
-feilschen	V;SBJV;PST;NOM(3,SG)	ilschte.feilschte
-fluorieren	V.PTCP;PST	iert".fluoriert
-fluorieren	V;IND;PRS;NOM(2,PL)	.fluoriert
+feilschen	V;SBJV;PRS;NOM(3,SG)	feilsche
+feilschen	V;SBJV;PST;NOM(1,PL)	feilschten
+feilschen	V;SBJV;PST;NOM(1,SG)	feilschte
+feilschen	V;SBJV;PST;NOM(3,PL)	hätten gefei​lscht
+feilschen	V;SBJV;PST;NOM(3,SG)	feilschte
+fluorieren	V.PTCP;PST	fluoriert
+fluorieren	V;IND;PRS;NOM(2,PL)	fluoriert
 fluorieren	V;IND;PST;NOM(1,PL)	fluorierten
-fluorieren	V;IND;PST;NOM(1,SG)	ierte".fluorierte
+fluorieren	V;IND;PST;NOM(1,SG)	fluorierte
 fluorieren	V;IND;PST;NOM(2,PL)	fluoriertet
-fluorieren	V;IND;PST;NOM(3,PL)	ierten".fluorierten
+fluorieren	V;IND;PST;NOM(3,PL)	fluorierten
 fluorieren	V;IND;PST;NOM(3,SG)	fluorierte
 fluorieren	V;SBJV;PRS;NOM(2,SG)	fluorierest
 fluorieren	V;SBJV;PRS;NOM(3,PL)	fluorieren
@@ -659,48 +659,48 @@ fluorieren	V;SBJV;PRS;NOM(3,SG)	fluoriere
 fluorieren	V;SBJV;PST;NOM(1,PL)	fluorierten
 fluorieren	V;SBJV;PST;NOM(1,SG)	fluorierte
 fluorieren	V;SBJV;PST;NOM(2,SG)	fluoriertest
-impfen	V;IMP;NOM(2,SG)	".impfe
-impfen	V;IND;PRS;NOM(1,PL)	.impfen
-impfen	V;IND;PRS;NOM(2,PL)	ft.impft
+impfen	V;IMP;NOM(2,SG)	impf
+impfen	V;IND;PRS;NOM(1,PL)	impfen
+impfen	V;IND;PRS;NOM(2,PL)	impft
 impfen	V;IND;PRS;NOM(3,PL)	impfen
-impfen	V;IND;PRS;NOM(3,SG)	.impft
-impfen	V;IND;PST;NOM(2,PL)	.impftet
-impfen	V;IND;PST;NOM(3,PL)	".impften
-impfen	V;IND;PST;NOM(3,SG)	.impfte
-impfen	V;NFIN	".impfen
-impfen	V;SBJV;PRS;NOM(3,PL)	impfen".impfen
+impfen	V;IND;PRS;NOM(3,SG)	impft
+impfen	V;IND;PST;NOM(2,PL)	impftet
+impfen	V;IND;PST;NOM(3,PL)	impften
+impfen	V;IND;PST;NOM(3,SG)	impfte
+impfen	V;NFIN	impfen
+impfen	V;SBJV;PRS;NOM(3,PL)	impfen
 impfen	V;SBJV;PRS;NOM(3,SG)	impfe
-impfen	V;SBJV;PST;NOM(2,PL)	hättet geimpft
-impfen	V;SBJV;PST;NOM(3,PL)	".hätten geimpft
+impfen	V;SBJV;PST;NOM(2,PL)	impftet
+impfen	V;SBJV;PST;NOM(3,PL)	impften
 infizieren	V.PTCP;PRS	infizierend
-infizieren	V;IND;PRS;NOM(2,PL)	infiziert".infiziert
-infizieren	V;IND;PRS;NOM(3,PL)	infizieren".infizieren
+infizieren	V;IND;PRS;NOM(2,PL)	infiziert
+infizieren	V;IND;PRS;NOM(3,PL)	infizieren
 infizieren	V;IND;PST;NOM(1,PL)	infizierten
-infizieren	V;IND;PST;NOM(2,PL)	".infiziertet
+infizieren	V;IND;PST;NOM(2,PL)	infiziertet
 infizieren	V;IND;PST;NOM(3,SG)	infizierte
 infizieren	V;SBJV;PRS;NOM(1,PL)	infizieren
 infizieren	V;SBJV;PRS;NOM(2,PL)	infiziert
-infizieren	V;SBJV;PRS;NOM(2,SG)	infizierest
-infizieren	V;SBJV;PRS;NOM(3,SG)	ere".infiziere
-infizieren	V;SBJV;PST;NOM(1,SG)	infizierte
-infizieren	V;SBJV;PST;NOM(2,SG)	".infiziertest
+infizieren	V;SBJV;PRS;NOM(2,SG)	infizierst
+infizieren	V;SBJV;PRS;NOM(3,SG)	infiziere
+infizieren	V;SBJV;PST;NOM(1,SG)	habe
+infizieren	V;SBJV;PST;NOM(2,SG)	infizierst
 infizieren	V;SBJV;PST;NOM(3,SG)	infizierte
 kieken	V.PTCP;PRS	kiekend
 kieken	V.PTCP;PST	gekiekt
-kieken	V;IND;PRS;NOM(1,PL)	ken".kieken
-kieken	V;IND;PRS;NOM(2,PL)	".kiekt
-kieken	V;IND;PST;NOM(1,PL)	kiekten
-kieken	V;IND;PST;NOM(2,PL)	ktetkiektet
+kieken	V;IND;PRS;NOM(1,PL)	kieken
+kieken	V;IND;PRS;NOM(2,PL)	kieket
+kieken	V;IND;PST;NOM(1,PL)	keeken
+kieken	V;IND;PST;NOM(2,PL)	kiekten
 kieken	V;IND;PST;NOM(3,PL)	keekten
-kieken	V;IND;PST;NOM(3,SG)	ek".keek
+kieken	V;IND;PST;NOM(3,SG)	kiekte
 kieken	V;NFIN	kieken
-kieken	V;SBJV;PRS;NOM(1,SG)	.kieke
-kieken	V;SBJV;PST;NOM(1,SG)	keekte
+kieken	V;SBJV;PRS;NOM(1,SG)	kieke
+kieken	V;SBJV;PST;NOM(1,SG)	keckte
 kieken	V;SBJV;PST;NOM(2,SG)	keekst
-kieken	V;SBJV;PST;NOM(3,SG)	kiekte
+kieken	V;SBJV;PST;NOM(3,SG)	keek
 kippen	V;IMP;NOM(2,SG)	kippe
 kippen	V;IND;PRS;NOM(1,SG)	kippe
-kippen	V;IND;PRS;NOM(2,SG)	.kippst
+kippen	V;IND;PRS;NOM(2,SG)	kippst
 kippen	V;IND;PRS;NOM(3,SG)	kippt
 kippen	V;IND;PST;NOM(2,PL)	kipptet
 kippen	V;IND;PST;NOM(3,SG)	kippte
@@ -708,9 +708,9 @@ kippen	V;NFIN	kippen
 kippen	V;SBJV;PRS;NOM(1,SG)	kippe
 kippen	V;SBJV;PRS;NOM(3,SG)	kippe
 kippen	V;SBJV;PST;NOM(1,PL)	kippten
-kippen	V;SBJV;PST;NOM(1,SG)	hätte gekippt
+kippen	V;SBJV;PST;NOM(1,SG)	kippte
 kippen	V;SBJV;PST;NOM(2,PL)	kipptet
-kippen	V;SBJV;PST;NOM(2,SG)	kipptest
+kippen	V;SBJV;PST;NOM(2,SG)	hättest gekippt
 klirren	V.PTCP;PST	geklirrt
 klirren	V;IMP;NOM(2,PL)	klirrt
 klirren	V;IND;PRS;NOM(1,PL)	klirren
@@ -719,268 +719,266 @@ klirren	V;IND;PRS;NOM(2,PL)	klirrt
 klirren	V;IND;PST;NOM(1,PL)	klirrten
 klirren	V;IND;PST;NOM(1,SG)	klirrte
 klirren	V;IND;PST;NOM(3,PL)	klirrten
-klirren	V;NFIN	".klirren
-klirren	V;SBJV;PRS;NOM(2,SG)	klirrst
+klirren	V;NFIN	klirren
+klirren	V;SBJV;PRS;NOM(2,SG)	klirrest
 klirren	V;SBJV;PST;NOM(1,PL)	klirrten
 klirren	V;SBJV;PST;NOM(1,SG)	klirrte
-kontrahieren	V.PTCP;PRS	".kontrahierend
+kontrahieren	V.PTCP;PRS	kontrahierend
 kontrahieren	V.PTCP;PST	kontrahiert
 kontrahieren	V;IMP;NOM(2,SG)	kontrahiere
 kontrahieren	V;IND;PRS;NOM(1,SG)	kontrahiere
 kontrahieren	V;IND;PRS;NOM(3,SG)	kontrahiert
-kontrahieren	V;IND;PST;NOM(1,PL)	.kontrahierten
-kontrahieren	V;IND;PST;NOM(2,PL)	.kontrahiertet
-kontrahieren	V;NFIN	ieren".kontrahieren
-kontrahieren	V;SBJV;PRS;NOM(3,SG)	.kontrahiere
-kontrahieren	V;SBJV;PST;NOM(1,SG)	hätte kontrahiert
-kontrahieren	V;SBJV;PST;NOM(2,PL)	hättet kontrahiert
+kontrahieren	V;IND;PST;NOM(1,PL)	kontrahierten
+kontrahieren	V;IND;PST;NOM(2,PL)	kontrahiertet
+kontrahieren	V;NFIN	kontrahieren
+kontrahieren	V;SBJV;PRS;NOM(3,SG)	kontrahiere
+kontrahieren	V;SBJV;PST;NOM(1,SG)	kontrahierte
+kontrahieren	V;SBJV;PST;NOM(2,PL)	kontrahiertet
 kontrahieren	V;SBJV;PST;NOM(2,SG)	kontrahiertest
 kontrahieren	V;SBJV;PST;NOM(3,PL)	kontrahierten
-kümmern	V.PTCP;PRS	mernd".kümmernd
-kümmern	V;IMP;NOM(2,PL)	kümmt
+kümmern	V.PTCP;PRS	kümmernd
+kümmern	V;IMP;NOM(2,PL)	kümmert euch
 kümmern	V;IND;PRS;NOM(1,SG)	kümmere
-kümmern	V;IND;PRS;NOM(2,SG)	".kümmerst
-kümmern	V;IND;PRS;NOM(3,PL)	.kümmern
+kümmern	V;IND;PRS;NOM(2,SG)	kümmerst
+kümmern	V;IND;PRS;NOM(3,PL)	kümmern
 kümmern	V;IND;PRS;NOM(3,SG)	kümmert
-kümmern	V;IND;PST;NOM(1,SG)	
+kümmern	V;IND;PST;NOM(1,SG)	kümmerte
 kümmern	V;IND;PST;NOM(2,PL)	kümmertet
-kümmern	V;IND;PST;NOM(2,SG)	.kümmertest
-kümmern	V;IND;PST;NOM(3,PL)	".kümmerten
-kümmern	V;SBJV;PRS;NOM(1,SG)	kümmere mich
-kümmern	V;SBJV;PST;NOM(3,PL)	.würden kümmern
-kümmern	V;SBJV;PST;NOM(3,SG)	kümmerte
-liquidieren	V.PTCP;PST	.liquidiert
-liquidieren	V;IND;PRS;NOM(2,PL)	iert".liquidiert
-liquidieren	V;IND;PRS;NOM(3,SG)	quidiert".liquidiert
-liquidieren	V;IND;PST;NOM(1,PL)	".liquidierten
+kümmern	V;IND;PST;NOM(2,SG)	kümmertest
+kümmern	V;IND;PST;NOM(3,PL)	kümmerten
+kümmern	V;SBJV;PRS;NOM(1,SG)	kümmere
+kümmern	V;SBJV;PST;NOM(3,PL)	kümmerten
+kümmern	V;SBJV;PST;NOM(3,SG)	hätte
+liquidieren	V.PTCP;PST	liquidiert
+liquidieren	V;IND;PRS;NOM(2,PL)	liquidiert
+liquidieren	V;IND;PRS;NOM(3,SG)	liquidiert
+liquidieren	V;IND;PST;NOM(1,PL)	liquidierten
 liquidieren	V;IND;PST;NOM(2,SG)	liquidiertest
 liquidieren	V;IND;PST;NOM(3,PL)	liquidierten
 liquidieren	V;IND;PST;NOM(3,SG)	liquidierte
 liquidieren	V;SBJV;PRS;NOM(1,SG)	liquidiere
-liquidieren	V;SBJV;PRS;NOM(3,PL)	quidieren".liquidieren
+liquidieren	V;SBJV;PRS;NOM(3,PL)	liquidieren
 liquidieren	V;SBJV;PRS;NOM(3,SG)	liquidiere
 liquidieren	V;SBJV;PST;NOM(2,PL)	liquidiertet
-liquidieren	V;SBJV;PST;NOM(3,PL)	".hätten liquidiert
-liquidieren	V;SBJV;PST;NOM(3,SG)	".liquidierte
-mulchen	V.PTCP;PST	.gemulcht
+liquidieren	V;SBJV;PST;NOM(3,PL)	liquidierten
+liquidieren	V;SBJV;PST;NOM(3,SG)	liquidierte
+mulchen	V.PTCP;PST	gemulcht
 mulchen	V;IMP;NOM(2,SG)	mulche
-mulchen	V;IND;PRS;NOM(1,PL)	chen.mulchen
+mulchen	V;IND;PRS;NOM(1,PL)	mulchen
 mulchen	V;IND;PRS;NOM(3,PL)	mulchen
-mulchen	V;IND;PRS;NOM(3,SG)	.mulcht
+mulchen	V;IND;PRS;NOM(3,SG)	mulcht
 mulchen	V;IND;PST;NOM(1,PL)	mulchten
-mulchen	V;IND;PST;NOM(1,SG)	chte".mulchte
-mulchen	V;IND;PST;NOM(3,PL)	mulchten".mulchten
-mulchen	V;SBJV;PRS;NOM(2,PL)	mulchet
-mulchen	V;SBJV;PST;NOM(1,PL)	chten.mulchten
+mulchen	V;IND;PST;NOM(1,SG)	mulchte
+mulchen	V;IND;PST;NOM(3,PL)	mulchten
+mulchen	V;SBJV;PRS;NOM(2,PL)	mulcht
+mulchen	V;SBJV;PST;NOM(1,PL)	mulchten
 mulchen	V;SBJV;PST;NOM(1,SG)	mulchte
 mulchen	V;SBJV;PST;NOM(3,PL)	hätten gemulcht
 nützen	V.PTCP;PST	genutzt
 nützen	V;IND;PST;NOM(1,PL)	nutzten
-nützen	V;IND;PST;NOM(3,SG)	.nutzte
-nützen	V;SBJV;PRS;NOM(1,PL)	zen".nutzen
-nützen	V;SBJV;PRS;NOM(1,SG)	ze".nutze
+nützen	V;IND;PST;NOM(3,SG)	nutzte
+nützen	V;SBJV;PRS;NOM(1,PL)	nützen
+nützen	V;SBJV;PRS;NOM(1,SG)	nutze
 nützen	V;SBJV;PRS;NOM(2,PL)	nutzet
-nützen	V;SBJV;PRS;NOM(2,SG)	nutzest
-nützen	V;SBJV;PRS;NOM(3,PL)	".nutzen
-nützen	V;SBJV;PRS;NOM(3,SG)	nütze
+nützen	V;SBJV;PRS;NOM(2,SG)	nützest
+nützen	V;SBJV;PRS;NOM(3,PL)	nutzen
+nützen	V;SBJV;PRS;NOM(3,SG)	nutze
 nützen	V;SBJV;PST;NOM(1,SG)	nutzte
 nützen	V;SBJV;PST;NOM(2,SG)	nutztest
-nützen	V;SBJV;PST;NOM(3,SG)	nutzte
-paraphrasieren	V.PTCP;PRS	.paraphrasierend
+nützen	V;SBJV;PST;NOM(3,SG)	nützte
+paraphrasieren	V.PTCP;PRS	paraphrasierend
 paraphrasieren	V;IND;PRS;NOM(2,PL)	paraphrasiert
-paraphrasieren	V;IND;PRS;NOM(3,SG)	ert".paraphrasiert
-paraphrasieren	V;IND;PST;NOM(1,PL)	asierten".paraphrasierten
-paraphrasieren	V;IND;PST;NOM(2,PL)	".paraphrasiertet
+paraphrasieren	V;IND;PRS;NOM(3,SG)	paraphrasiert
+paraphrasieren	V;IND;PST;NOM(1,PL)	paraphrasierten
+paraphrasieren	V;IND;PST;NOM(2,PL)	paraphrasiert
 paraphrasieren	V;NFIN	paraphrasieren
-paraphrasieren	V;SBJV;PRS;NOM(1,SG)	ere".paraphrasiere
-paraphrasieren	V;SBJV;PST;NOM(1,PL)	haben
-paraphrasieren	V;SBJV;PST;NOM(1,SG)	.paraphrasierte
-paraphrasieren	V;SBJV;PST;NOM(2,PL)	.paraphrasiertet
+paraphrasieren	V;SBJV;PRS;NOM(1,SG)	paraphrasiere
+paraphrasieren	V;SBJV;PST;NOM(1,PL)	paraphrasierten
+paraphrasieren	V;SBJV;PST;NOM(1,SG)	paraphrasierte
+paraphrasieren	V;SBJV;PST;NOM(2,PL)	paraphrasiertet
 paraphrasieren	V;SBJV;PST;NOM(2,SG)	paraphrasiertest
 paraphrasieren	V;SBJV;PST;NOM(3,PL)	paraphrasierten
-paraphrasieren	V;SBJV;PST;NOM(3,SG)	ierte".paraphrasierte
+paraphrasieren	V;SBJV;PST;NOM(3,SG)	paraphrasierte
 pubertieren	V;IMP;NOM(2,PL)	pubertiert
 pubertieren	V;IMP;NOM(2,SG)	pubertiere
-pubertieren	V;IND;PRS;NOM(1,PL)	ertieren".pubertieren
-pubertieren	V;IND;PRS;NOM(3,SG)	".pubertiert
-pubertieren	V;IND;PST;NOM(2,PL)	".pubertiertet
-pubertieren	V;IND;PST;NOM(2,SG)	est.pubertiertest
+pubertieren	V;IND;PRS;NOM(1,PL)	pubertieren
+pubertieren	V;IND;PRS;NOM(3,SG)	pubertiert
+pubertieren	V;IND;PST;NOM(2,PL)	pubertiertet
+pubertieren	V;IND;PST;NOM(2,SG)	pubertiertest
 pubertieren	V;SBJV;PRS;NOM(1,PL)	pubertieren
-pubertieren	V;SBJV;PRS;NOM(2,PL)	".pubertiert
+pubertieren	V;SBJV;PRS;NOM(2,PL)	pubertiert
 pubertieren	V;SBJV;PRS;NOM(3,PL)	pubertieren
-pubertieren	V;SBJV;PRS;NOM(3,SG)	.pubertiere
-pubertieren	V;SBJV;PST;NOM(1,SG)	".pubertierte
-pubertieren	V;SBJV;PST;NOM(2,PL)	pubertetet
-pubertieren	V;SBJV;PST;NOM(2,SG)	.pubertiertest
-sabbeln	V;IMP;NOM(2,SG)	".sabbel
-sabbeln	V;IND;PRS;NOM(1,PL)	beln.sabbeln
-sabbeln	V;IND;PRS;NOM(1,SG)	sabble
-sabbeln	V;IND;PRS;NOM(3,SG)	sabbert
-sabbeln	V;IND;PST;NOM(2,PL)	sabbelte
-sabbeln	V;IND;PST;NOM(2,SG)	that.sabbeltest
+pubertieren	V;SBJV;PRS;NOM(3,SG)	pubertiere
+pubertieren	V;SBJV;PST;NOM(1,SG)	pubertierte
+pubertieren	V;SBJV;PST;NOM(2,PL)	pubertieret
+pubertieren	V;SBJV;PST;NOM(2,SG)	pubertiertest
+sabbeln	V;IMP;NOM(2,SG)	sabbel
+sabbeln	V;IND;PRS;NOM(1,PL)	sabbeln
+sabbeln	V;IND;PRS;NOM(1,SG)	sabbele
+sabbeln	V;IND;PRS;NOM(3,SG)	sabbel​t
+sabbeln	V;IND;PST;NOM(2,PL)	sabbeltet
+sabbeln	V;IND;PST;NOM(2,SG)	sabbeltest
 sabbeln	V;IND;PST;NOM(3,PL)	sabbelten
-sabbeln	V;SBJV;PRS;NOM(2,PL)	belet".sabbelet
-sabbeln	V;SBJV;PRS;NOM(2,SG)	".sabbelst
-sabbeln	V;SBJV;PRS;NOM(3,PL)	sabbeln
-sabbeln	V;SBJV;PRS;NOM(3,SG)	sabbele
+sabbeln	V;SBJV;PRS;NOM(2,PL)	sabbelt
+sabbeln	V;SBJV;PRS;NOM(2,SG)	sabbelst
+sabbeln	V;SBJV;PRS;NOM(3,PL)	sablen
+sabbeln	V;SBJV;PRS;NOM(3,SG)	sabble
 sabbeln	V;SBJV;PST;NOM(1,SG)	sabbelte
 sabbeln	V;SBJV;PST;NOM(2,SG)	sabbeltest
-sehnen	V;IMP;NOM(2,SG)	ne".sehne
-sehnen	V;IND;PRS;NOM(1,PL)	nen.sehnen
-sehnen	V;IND;PRS;NOM(2,PL)	sehnt".sehnt
-sehnen	V;IND;PRS;NOM(3,PL)	nen".sehnen
-sehnen	V;IND;PST;NOM(1,PL)	.sehnten
-sehnen	V;IND;PST;NOM(3,PL)	nten.sehnten
+sehnen	V;IMP;NOM(2,SG)	sehne
+sehnen	V;IND;PRS;NOM(1,PL)	sehnen
+sehnen	V;IND;PRS;NOM(2,PL)	sehnt
+sehnen	V;IND;PRS;NOM(3,PL)	sehnen
+sehnen	V;IND;PST;NOM(1,PL)	sehnten
+sehnen	V;IND;PST;NOM(3,PL)	sehnten
 sehnen	V;IND;PST;NOM(3,SG)	sehnte
-sehnen	V;SBJV;PRS;NOM(3,PL)	".sehnen
-sehnen	V;SBJV;PRS;NOM(3,SG)	that.sehne
-sehnen	V;SBJV;PST;NOM(1,SG)	hätte gesehnt
-sehnen	V;SBJV;PST;NOM(2,PL)	et".sehntet
-sehnen	V;SBJV;PST;NOM(3,PL)	.sehnten
-sehnen	V;SBJV;PST;NOM(3,SG)	hnte.sehnte
+sehnen	V;SBJV;PRS;NOM(3,PL)	sehnen
+sehnen	V;SBJV;PRS;NOM(3,SG)	sehne
+sehnen	V;SBJV;PST;NOM(1,SG)	habe gesehnt
+sehnen	V;SBJV;PST;NOM(2,PL)	sehntet
+sehnen	V;SBJV;PST;NOM(3,PL)	sehnten
+sehnen	V;SBJV;PST;NOM(3,SG)	hätte
 sparen	V.PTCP;PST	gespart
-sparen	V;IMP;NOM(2,PL)	.spart
-sparen	V;IMP;NOM(2,SG)	spare".spare
-sparen	V;IND;PRS;NOM(2,SG)	st".sparst
-sparen	V;IND;PST;NOM(3,PL)	.sparten
-sparen	V;SBJV;PRS;NOM(1,PL)	.sparen
+sparen	V;IMP;NOM(2,PL)	spart
+sparen	V;IMP;NOM(2,SG)	spare
+sparen	V;IND;PRS;NOM(2,SG)	sparst
+sparen	V;IND;PST;NOM(3,PL)	sparten
+sparen	V;SBJV;PRS;NOM(1,PL)	sparen
 sparen	V;SBJV;PRS;NOM(2,SG)	sparest
-sparen	V;SBJV;PRS;NOM(3,PL)	paren".sparen
-sparen	V;SBJV;PST;NOM(1,SG)	te.sparte
-sparen	V;SBJV;PST;NOM(2,PL)	".sparet
-sparen	V;SBJV;PST;NOM(2,SG)	spartest
+sparen	V;SBJV;PRS;NOM(3,PL)	sparen
+sparen	V;SBJV;PST;NOM(1,SG)	sparte
+sparen	V;SBJV;PST;NOM(2,PL)	spartet
+sparen	V;SBJV;PST;NOM(2,SG)	hättest gespart
 sparen	V;SBJV;PST;NOM(3,PL)	sparten
-sparen	V;SBJV;PST;NOM(3,SG)	habe gespart
+sparen	V;SBJV;PST;NOM(3,SG)	sparte
 tippen	V.PTCP;PST	getippt
 tippen	V;IMP;NOM(2,PL)	tippt
-tippen	V;IND;PRS;NOM(2,PL)	tippt".tippt
+tippen	V;IND;PRS;NOM(2,PL)	tippt
 tippen	V;IND;PRS;NOM(2,SG)	tippst
 tippen	V;IND;PRS;NOM(3,PL)	tippen
 tippen	V;IND;PST;NOM(1,PL)	tippten
-tippen	V;IND;PST;NOM(3,SG)	ippte.tippte
+tippen	V;IND;PST;NOM(3,SG)	tippte
 tippen	V;SBJV;PRS;NOM(2,PL)	tippet
 tippen	V;SBJV;PRS;NOM(2,SG)	tippest
-tippen	V;SBJV;PST;NOM(2,PL)	et".tipptet
+tippen	V;SBJV;PST;NOM(2,PL)	tippet
 tippen	V;SBJV;PST;NOM(3,SG)	tippte
 umwandeln	V.PTCP;PRS	umwandelnd
-umwandeln	V;IND;PRS;NOM(1,SG)	um".wandle um
-umwandeln	V;IND;PRS;NOM(2,PL)	um".wandelt um
-umwandeln	V;IND;PRS;NOM(2,SG)	wandelst um
-umwandeln	V;IND;PRS;NOM(3,PL)	eln um".wandeln um
-umwandeln	V;IND;PRS;NOM(3,SG)	".wandelt um
+umwandeln	V;IND;PRS;NOM(1,SG)	wandle um
+umwandeln	V;IND;PRS;NOM(2,PL)	wandelt um
+umwandeln	V;IND;PRS;NOM(2,SG)	wandelst um
+umwandeln	V;IND;PRS;NOM(3,PL)	wandeln um
+umwandeln	V;IND;PRS;NOM(3,SG)	wandelt um
 umwandeln	V;IND;PST;NOM(2,PL)	wandeltet um
-umwandeln	V;IND;PST;NOM(3,PL)	".wandelten um
+umwandeln	V;IND;PST;NOM(3,PL)	wandelten um
 umwandeln	V;NFIN	umwandeln
 umwandeln	V;SBJV;PRS;NOM(1,SG)	wandle um
-umwandeln	V;SBJV;PRS;NOM(2,SG)	st um".wandelst um
-umwandeln	V;SBJV;PST;NOM(1,SG)	".wandelte um
-verscheissern	V;IND;PRS;NOM(1,PL)	verscheissern
+umwandeln	V;SBJV;PRS;NOM(2,SG)	wandelst um
+umwandeln	V;SBJV;PST;NOM(1,SG)	wandelte um
+verscheissern	V;IND;PRS;NOM(1,PL)	verscheißen
 verscheissern	V;IND;PRS;NOM(2,PL)	verscheißt
-verscheissern	V;IND;PRS;NOM(2,SG)	".verscheisserst
+verscheissern	V;IND;PRS;NOM(2,SG)	verscheißt
 verscheissern	V;IND;PRS;NOM(3,SG)	verscheißt
-verscheissern	V;IND;PST;NOM(1,PL)	".verscheissen
-verscheissern	V;IND;PST;NOM(3,PL)	ten".verscheisserten
-verscheissern	V;IND;PST;NOM(3,SG)	.verscheisserte
-verscheissern	V;SBJV;PRS;NOM(1,PL)	verscheißen
-verscheissern	V;SBJV;PRS;NOM(1,SG)	verscheissere
+verscheissern	V;IND;PST;NOM(1,PL)	verscheißten
+verscheissern	V;IND;PST;NOM(3,PL)	verscheißen
+verscheissern	V;IND;PST;NOM(3,SG)	verscheisserte
+verscheissern	V;SBJV;PRS;NOM(1,PL)	verscheissern
+verscheissern	V;SBJV;PRS;NOM(1,SG)	verscheisse
 verscheissern	V;SBJV;PRS;NOM(2,PL)	verscheisseret
-verscheissern	V;SBJV;PRS;NOM(3,PL)	verscheißen
-verscheissern	V;SBJV;PST;NOM(2,PL)	verschisset
-verscheissern	V;SBJV;PST;NOM(2,SG)	ißtest".verscheißtest
-versorgen	V.PTCP;PST	orgt.versorgt
+verscheissern	V;SBJV;PRS;NOM(3,PL)	verscheissern
+verscheissern	V;SBJV;PST;NOM(2,PL)	habet verscheissert
+verscheissern	V;SBJV;PST;NOM(2,SG)	verscheißtest
+versorgen	V.PTCP;PST	versorgt
 versorgen	V;IMP;NOM(2,SG)	versorge
 versorgen	V;IND;PRS;NOM(1,PL)	versorgen
 versorgen	V;IND;PST;NOM(1,PL)	versorgten
-versorgen	V;IND;PST;NOM(1,SG)	.versorgte
+versorgen	V;IND;PST;NOM(1,SG)	versorgte
 versorgen	V;IND;PST;NOM(2,PL)	versorgtet
 versorgen	V;IND;PST;NOM(3,SG)	versorgte
-versorgen	V;NFIN	orgen".versorgen
+versorgen	V;NFIN	versorgen
 versorgen	V;SBJV;PRS;NOM(3,PL)	versorgen
 versorgen	V;SBJV;PST;NOM(2,PL)	versorgtet
-versorgen	V;SBJV;PST;NOM(2,SG)	that.
-
-versorgtest
-versorgen	V;SBJV;PST;NOM(3,PL)	hätten versorgt
+versorgen	V;SBJV;PST;NOM(2,SG)	versorgtest
+versorgen	V;SBJV;PST;NOM(3,PL)	versorgten
 versorgen	V;SBJV;PST;NOM(3,SG)	versorgte
-verursachen	V.PTCP;PRS	end".verursachend
-verursachen	V.PTCP;PST	acht".verursacht
+verursachen	V.PTCP;PRS	verursachend
+verursachen	V.PTCP;PST	verursacht
 verursachen	V;IMP;NOM(2,PL)	verursacht
 verursachen	V;IND;PRS;NOM(3,SG)	verursacht
 verursachen	V;IND;PST;NOM(1,SG)	verursachte
-verursachen	V;IND;PST;NOM(2,SG)	".verursachtest
-verursachen	V;IND;PST;NOM(3,SG)	.verursachte
+verursachen	V;IND;PST;NOM(2,SG)	verursachtest
+verursachen	V;IND;PST;NOM(3,SG)	verursachte
 verursachen	V;SBJV;PRS;NOM(1,SG)	verursache
 verursachen	V;SBJV;PRS;NOM(2,SG)	verursachest
 verursachen	V;SBJV;PRS;NOM(3,PL)	verursachen
 verursachen	V;SBJV;PRS;NOM(3,SG)	verursache
 verursachen	V;SBJV;PST;NOM(1,PL)	verursachten
-verursachen	V;SBJV;PST;NOM(3,SG)	verursacht.hätte verursacht
-verwandeln	V.PTCP;PRS	".verwandelnd
-verwandeln	V;IND;PRS;NOM(2,PL)	wandelt".verwandelt
+verursachen	V;SBJV;PST;NOM(3,SG)	verursachte
+verwandeln	V.PTCP;PRS	verwandelnd
+verwandeln	V;IND;PRS;NOM(2,PL)	verwandelt
 verwandeln	V;IND;PST;NOM(1,PL)	verwandelten
 verwandeln	V;IND;PST;NOM(2,PL)	verwandeltet
 verwandeln	V;IND;PST;NOM(3,PL)	verwandelten
 verwandeln	V;NFIN	verwandeln
 verwandeln	V;SBJV;PRS;NOM(3,PL)	verwandeln
-verwandeln	V;SBJV;PRS;NOM(3,SG)	.verwandle
-verwandeln	V;SBJV;PST;NOM(1,SG)	andelte.verwandelte
-verwandeln	V;SBJV;PST;NOM(2,PL)	".verwandeltet
+verwandeln	V;SBJV;PRS;NOM(3,SG)	verwandle
+verwandeln	V;SBJV;PST;NOM(1,SG)	verwandelte
+verwandeln	V;SBJV;PST;NOM(2,PL)	verwandeltet
 verwandeln	V;SBJV;PST;NOM(2,SG)	verwandeltest
-verwandeln	V;SBJV;PST;NOM(3,PL)	.verwandelten
-verwandeln	V;SBJV;PST;NOM(3,SG)	output that.verwandelte
-wahrnehmen	V.PTCP;PST	".wahrgenommen
-wahrnehmen	V;IMP;NOM(2,PL)	nehmt
-wahrnehmen	V;IND;PRS;NOM(1,PL)	correct.nehmen wahr
-wahrnehmen	V;IND;PRS;NOM(1,SG)	me wahr".nehme wahr
-wahrnehmen	V;IND;PRS;NOM(2,SG)	nimmst
-wahrnehmen	V;IND;PST;NOM(2,PL)	mt wahr".nahmt wahr
-wahrnehmen	V;IND;PST;NOM(2,SG)	nahmst".nahmst
-wahrnehmen	V;IND;PST;NOM(3,PL)	wahr".nahmen wahr
+verwandeln	V;SBJV;PST;NOM(3,PL)	verwandelten
+verwandeln	V;SBJV;PST;NOM(3,SG)	verwandelte
+wahrnehmen	V.PTCP;PST	wahrgenommen
+wahrnehmen	V;IMP;NOM(2,PL)	nehmt wahr
+wahrnehmen	V;IND;PRS;NOM(1,PL)	nehmen
+wahrnehmen	V;IND;PRS;NOM(1,SG)	nehme wahr
+wahrnehmen	V;IND;PRS;NOM(2,SG)	nimmst wahr
+wahrnehmen	V;IND;PST;NOM(2,PL)	nahmt wahr
+wahrnehmen	V;IND;PST;NOM(2,SG)	nahmst wahr
+wahrnehmen	V;IND;PST;NOM(3,PL)	nahmen wahr
 wahrnehmen	V;IND;PST;NOM(3,SG)	nahm wahr
-wahrnehmen	V;SBJV;PRS;NOM(1,PL)	nehmen
+wahrnehmen	V;SBJV;PRS;NOM(1,PL)	nehmen wahr
 wahrnehmen	V;SBJV;PRS;NOM(1,SG)	nehme wahr
-wahrnehmen	V;SBJV;PRS;NOM(3,PL)	wahr".nehmen wahr
+wahrnehmen	V;SBJV;PRS;NOM(3,PL)	nehmen wahr
 wahrnehmen	V;SBJV;PST;NOM(1,PL)	hätten wahrgenommen
-walzen	V.PTCP;PST	".gewalzt
+walzen	V.PTCP;PST	gewalzt
 walzen	V;IMP;NOM(2,PL)	walzt
 walzen	V;IND;PRS;NOM(1,PL)	walzen
 walzen	V;IND;PRS;NOM(2,SG)	walzt
-walzen	V;IND;PST;NOM(1,PL)	walzten".walzten
-walzen	V;IND;PST;NOM(2,SG)	that.walztest
-walzen	V;SBJV;PRS;NOM(1,SG)	ze".walze
+walzen	V;IND;PST;NOM(1,PL)	wälzten
+walzen	V;IND;PST;NOM(2,SG)	walztest
+walzen	V;SBJV;PRS;NOM(1,SG)	walze
 walzen	V;SBJV;PRS;NOM(2,PL)	walzet
 walzen	V;SBJV;PRS;NOM(3,PL)	walzen
-walzen	V;SBJV;PRS;NOM(3,SG)	ze".walze
-walzen	V;SBJV;PST;NOM(1,SG)	wälzte
+walzen	V;SBJV;PRS;NOM(3,SG)	walze
+walzen	V;SBJV;PST;NOM(1,SG)	walzte
 walzen	V;SBJV;PST;NOM(2,SG)	walztest
-walzen	V;SBJV;PST;NOM(3,SG)	".walzte
-werten	V;IMP;NOM(2,PL)	et.wertet
+walzen	V;SBJV;PST;NOM(3,SG)	walzte
+werten	V;IMP;NOM(2,PL)	wertet
 werten	V;IND;PRS;NOM(2,PL)	wertet
-werten	V;IND;PRS;NOM(3,SG)	lected form.wertet
-werten	V;IND;PST;NOM(1,PL)	werteten".werteten
-werten	V;IND;PST;NOM(3,PL)	".werteten
+werten	V;IND;PRS;NOM(3,SG)	wertet
+werten	V;IND;PST;NOM(1,PL)	werteten
+werten	V;IND;PST;NOM(3,PL)	werteten
 werten	V;SBJV;PRS;NOM(1,PL)	werten
-werten	V;SBJV;PRS;NOM(2,PL)	.wertet
+werten	V;SBJV;PRS;NOM(2,PL)	wertet
 werten	V;SBJV;PRS;NOM(3,SG)	werte
 werten	V;SBJV;PST;NOM(1,SG)	wertete
 werten	V;SBJV;PST;NOM(2,SG)	wertetest
 werten	V;SBJV;PST;NOM(3,PL)	werteten
 werten	V;SBJV;PST;NOM(3,SG)	wertete
-zementieren	V.PTCP;PRS	.zementierend
-zementieren	V.PTCP;PST	zementiert
-zementieren	V;IMP;NOM(2,PL)	.zementiert
-zementieren	V;IMP;NOM(2,SG)	".zementiere
+zementieren	V.PTCP;PRS	zementierend
+zementieren	V.PTCP;PST	gezementiert
+zementieren	V;IMP;NOM(2,PL)	zementiert
+zementieren	V;IMP;NOM(2,SG)	zementiere
 zementieren	V;IND;PRS;NOM(3,PL)	zementieren
 zementieren	V;IND;PRS;NOM(3,SG)	zementiert
 zementieren	V;IND;PST;NOM(1,PL)	zementierten
 zementieren	V;IND;PST;NOM(3,PL)	zementierten
-zementieren	V;IND;PST;NOM(3,SG)	".zementierte
+zementieren	V;IND;PST;NOM(3,SG)	zementierte
 zementieren	V;SBJV;PRS;NOM(1,PL)	zementieren
 zementieren	V;SBJV;PRS;NOM(2,PL)	zementieret
 zementieren	V;SBJV;PST;NOM(1,SG)	zementierte
-zementieren	V;SBJV;PST;NOM(3,PL)	ierten".zementierten
+zementieren	V;SBJV;PST;NOM(3,PL)	zementierten
 zugeben	V.PTCP;PST	zugegeben
-zugeben	V;IMP;NOM(2,SG)	zu.gib zu
+zugeben	V;IMP;NOM(2,SG)	gib zu
 zugeben	V;IND;PRS;NOM(1,PL)	geben zu
 zugeben	V;IND;PRS;NOM(2,PL)	gebt zu
 zugeben	V;IND;PRS;NOM(2,SG)	gibst zu
@@ -991,13 +989,13 @@ zugeben	V;IND;PST;NOM(1,SG)	gab zu
 zugeben	V;IND;PST;NOM(2,SG)	gabst zu
 zugeben	V;IND;PST;NOM(3,PL)	gaben zu
 zugeben	V;IND;PST;NOM(3,SG)	gab zu
-zugeben	V;SBJV;PRS;NOM(3,SG)	be zu".gebe zu
-Überlebenskunst	N;ACC(PL)	ste.Überlebenskünste
+zugeben	V;SBJV;PRS;NOM(3,SG)	gebe zu
+Überlebenskunst	N;ACC(PL)	Überlebenskünste
 Überlebenskunst	N;ACC(SG)	Überlebenskunst
 Überlebenskunst	N;DAT(PL)	Überlebenskünsten
 Überlebenskunst	N;DAT(SG)	Überlebenskunst
-Überlebenskunst	N;GEN(PL)	ste".Überlebenskünste
+Überlebenskunst	N;GEN(PL)	Überlebenskünste
 Überlebenskunst	N;GEN(SG)	Überlebenskunst
 Überlebenskunst	N;NOM(PL)	Überlebenskünste
-Überlebenskunst	N;NOM(SG)	.Überlebenskunst
-test acc German 0.666
+Überlebenskunst	N;NOM(SG)	Überlebenskunst
+test acc German 0.643
