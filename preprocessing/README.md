@@ -2,4 +2,4 @@
 The directories have following purposes.
 - `hierarchical_schema`: Turning old UniMorph data into UniMorph 4.0 format
 - `sigmorphon_lang_info`: Generating Slavic data for the baselines
-- `preprocessing_to_json_or_tsv`: (Combining) and converting data into format compatible with ByT5 (transformer Huggingface), this contains the fine-tuning and pre-training data for ByT5
+- `preprocessing_to_json_or_tsv`: (Combining) and converting data into format compatible with ByT5 (transformer provided by Huggingface), this contains the fine-tuning and pre-training data for ByT5
