@@ -1,5 +1,5 @@
 # Multilingual Morphological Inflection Generation for Low-Resource Languages
-Code and data for my Bachelor's Thesis.
+This repository contains the code and data for my bachelor's thesis.
 ## Models
 - `./ByT5`: Experiments with ByT5
 - `./llm`: Zero-Shot prompting with GPT-OSS-120B and Gemini 2.5 Flash
