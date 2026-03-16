@@ -6,4 +6,3 @@
 - `./2023InflectionST`: 2023 Shared task data + updated data from previous UniMorph releases, in triplet format
 - `./preprocessing`: Data preprocessing (contains fine-tuning and pre-training data for ByT5)
 - `./postprocessing`: Data post-processing (used for evaluation on mixed datasets)
-- `./error_analysis_lucy`: contains source code and output used for error analysis
